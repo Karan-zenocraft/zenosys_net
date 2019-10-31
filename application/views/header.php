@@ -264,7 +264,7 @@
                                 <a href="#" class="a arrow">Engagement Models</a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul class="InnerMenu InnerMenu2">
-                                    <li><a href="<?php echo base_url(); ?>models/onshore">Onshore Model</a></li>
+                                    <li><a href="<?php echo base_url(); ?>models/onshore">On-site Delivery Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/offshore">Offshore Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li>

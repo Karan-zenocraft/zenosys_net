@@ -40,13 +40,19 @@
 
 
             <div class="row">
-                <div class="col-md-8 WhyZenosysContent">
-                    <h2 class="TitleH2">Build Operate Transfer Model</h2>
-                    <p class="TitleP">Through this model, we set up an exclusive team, facility and a secure functional environment at your disposal in three key stages- Build, Operate & Transfer. Build phase includes building the infrastructure, IT devices, staff and legal framework. The Operate phase includes harmonizing off-shore operations such as project management, development and maintenance. Lastly, the Transfer phase if where you take full control.</p>
+                <div class="col-md-12 WhyZenosysContent">
+                    <h2 class="TitleH2">WHY Zenosys?</h2>
+                    <p class="TitleP">Zenosys is an IT service provider focusing on product engineering services. Our offshore center is located on the West Coast of India, which is the largest software development hub in South Asia. With the biggest pool of Web/Mobile App/Java/Oracle/.Net resources in our market segment, we collaborate with technology companies from around the globe to successfully deliver quality software products.</p>
+
+                    <p class="TitleP">
+                        We assure you of the delivery of quality services through our mature remote global delivery model. We bring you cutting-edge technologies
+                        for mobility and cloud delivery models. We believe in partnerships and collaborations that expand knowledge. We work with synergy in
+                        developing market potentials for your products in the Asia Pacific region. We provide globalization solutions for your products and services.
+                        We possess team spirit and professionalism.
+
+                    </p>
+
                 </div>
-                   <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/BOT_model.png" width="100%" height="100%">
-                 </div>
             </div>
 
 

@@ -40,7 +40,7 @@
 
 
             <div class="row">
-                <div class="col-md-12 WhyZenosysContent">
+                <div class="col-md-8 WhyZenosysContent">
                     <h2 class="TitleH2">We are Zenosys</h2>
                     <p class="TitleP">We are an award winning tech consulting firm that provides solutions ranging from web and mobile app development, strategy-consulting, remote teams and a host of other web solutions through different engagement models.</p>
 
@@ -52,6 +52,9 @@
                     </p>
 
                 </div>
+                 <div class="col-md-4 WhyZenosysContent">
+                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
+                 </div>
             </div>
 
 

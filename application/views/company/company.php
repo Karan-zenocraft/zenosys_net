@@ -40,7 +40,7 @@
 
 
             <div class="row">
-                <div class="col-md-12 WhyZenosysContent">
+                <div class="col-md-8 WhyZenosysContent">
                     <h2 class="TitleH2">Company Profile</h2>
                     <p class="TitleP"><i>We are on a mission to enhance the pace of growth for businesses.</i></p>
 
@@ -55,6 +55,9 @@
                     </p>
 
                 </div>
+                <div class="col-md-4 WhyZenosysContent">
+                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
+                 </div>
 
             </div>
 
