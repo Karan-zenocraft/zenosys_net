@@ -40,19 +40,14 @@
 
 
             <div class="row">
-                <div class="col-md-12 WhyZenosysContent">
-                    <h2 class="TitleH2">WHY Zenosys?</h2>
-                    <p class="TitleP">Zenosys is an IT service provider focusing on product engineering services. Our offshore center is located on the West Coast of India, which is the largest software development hub in South Asia. With the biggest pool of Web/Mobile App/Java/Oracle/.Net resources in our market segment, we collaborate with technology companies from around the globe to successfully deliver quality software products.</p>
-
-                    <p class="TitleP">
-                        We assure you of the delivery of quality services through our mature remote global delivery model. We bring you cutting-edge technologies
-                        for mobility and cloud delivery models. We believe in partnerships and collaborations that expand knowledge. We work with synergy in
-                        developing market potentials for your products in the Asia Pacific region. We provide globalization solutions for your products and services.
-                        We possess team spirit and professionalism.
-
-                    </p>
+                <div class="col-md-8 WhyZenosysContent">
+                    <h2 class="TitleH2">Hybrid Model</h2>
+                    <p class="TitleP">Through a coalition of on-site and offshore engagement, the Hybrid model offers the benefit of an on-site team working closely alongside your team, while offering the cost-effectiveness of offshore development, where 20-25% share of tasks are brought to fruition by the on-site team, while the rest is addressed by the offshore team.</p>
 
                 </div>
+                   <div class="col-md-4 WhyZenosysContent">
+                    <img src="<?php echo base_url(); ?>assets/images/Hybrid_Model.png" width="100%" height="100%">
+                 </div>
             </div>
 
 
