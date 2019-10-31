@@ -139,8 +139,14 @@ Header{box-shadow: 0 1px 6px rgba(57,73,76,0.35);}
     .Header .HeaderInner .HeaderNav ul li{margin: unset!important;display: block;width: 100%;padding: 13px 0 15px}
     .Header .HeaderInner .HeaderNav ul li a{display: block;padding: 0px 20px;position: relative;color: #000;font-weight: 300;font-family: 'Arial';font-size: 14px}
     .Header .HeaderInner .HeaderNav ul li a i{color: #174477;float: right}
-    .Header .HeaderInner .HeaderNav ul li a:after{content:'';height: 2px;width: 15px;background:#174477;position: absolute;right: 19px;top: 0;bottom: 0;margin: auto;}
-    .Header .HeaderInner .HeaderNav ul li a:before{content:'';height: 15px;width: 2px;background:#174477;position: absolute;right: 25px;top: 0;bottom: 0;margin: auto;}
+    .menu li label{position: relative}
+    
+    
+    .OnlyMobile li label{padding-left: 30px;}
+    .OnlyMobile li ul li{padding-left: 45px;}
+/*    .menu .OnlyMobile li{padding: 13px 0px 13px 15px;}*/
+    .menu li label:after{content:'';height: 2px;width: 15px;background:#174477;position: absolute;right: 19px;top: 0;bottom: 0;margin: auto;}
+    .menu li label:before{content:'';height: 15px;width: 2px;background:#174477;position: absolute;right: 25px;top: 0;bottom: 0;margin: auto;}
     
     .Header .HeaderInner .HeaderNav ul li .collapse{padding-left: 20px;}
     .Header .HeaderInner .HeaderNav ul li .collapse li a{padding: 17px 0 0 34px;color: #000;font-weight: 300;font-family: 'Arial';font-size: 14px;text-decoration: none!important} 

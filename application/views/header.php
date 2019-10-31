@@ -107,13 +107,125 @@
         <li>
 
           <!-- Second Tier Drop Down -->
-          <label for="drop-3" class="toggle">Works +</label>
-          <a href="#">Works</a>
+          <label for="drop-3" class="toggle">Enterprise Applications</label>
+          <a href="#">Enterprise Applications</a>
           <input type="checkbox" id="drop-3"/>
           <ul>
-            <li><a href="#">HTML/CSS</a></li>
-            <li><a href="#">jQuery</a></li>
-            <li><a href="#">Python</a></li>
+            <li><a href="#">Oracle eBusiness Suite</a></li>
+            <li><a href="#">SAP-S/4HANA / ECC</a></li>
+            <li><a href="#">Odoo / Oracle Apex</a></li>
+          </ul>
+        </li>
+            
+            
+            
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-4" class="toggle">Emerging Technologies</label>
+          <a href="#">Emerging Technologies</a>
+          <input type="checkbox" id="drop-4"/>
+          <ul>
+            <li><a href="#">Internet Of Things</a></li>
+            <li><a href="#">Block-Chain Technologies</a></li>
+            <li><a href="#">Augmented Reality & Virtual Reality</a></li>
+          </ul>
+        </li>
+            
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-5" class="toggle">Application Development</label>
+          <a href="#">Application Development</a>
+          <input type="checkbox" id="drop-5"/>
+          <ul>
+            <li><a href="#">Custom Application Development</a></li>
+            <li><a href="#">Application Integration</a></li>
+            <li><a href="#">Legacy Application Transformation</a></li>
+          </ul>
+        </li>
+            
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-6" class="toggle">Quality Engineering</label>
+          <a href="#">Quality Engineering</a>
+          <input type="checkbox" id="drop-6"/>
+          <ul>
+            <li><a href="#">Functional Engineering</a></li>
+            <li><a href="#">Automation</a></li>
+            <li><a href="#">Performance Engineering</a></li>
+          </ul>
+        </li>
+            
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-7" class="toggle">COGNITIVE TECHNOLOGIES</label>
+          <a href="#">COGNITIVE TECHNOLOGIES</a>
+          <input type="checkbox" id="drop-7"/>
+          <ul>
+              <li><a href="#">Machine Learning</a></li>
+            <li><a href="#"> Data Science</a></li>
+            <li><a href="#">Deep Learning Technologies</a></li>
+            <li><a href="#">Artificial Intelligence</a></li>
+              <li><a href="#">Predictive Analytics</a></li>
+          </ul>
+        </li>
+            
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-8" class="toggle">Advance Analytics & Big Data</label>
+          <a href="#">Advance Analytics & Big Data</a>
+          <input type="checkbox" id="drop-8"/>
+          <ul>
+              <li><a href="#">Business Intelligence</a></li>
+            <li><a href="#">SAP Cloud Analytics</a></li>
+            <li><a href="#">Data Quality Management</a></li>
+            
+          </ul>
+        </li>
+            
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-9" class="toggle">MANAGED SERVICES</label>
+          <a href="#">MANAGED SERVICES</a>
+          <input type="checkbox" id="drop-9"/>
+          <ul>
+              <li><a href="#">Application Management Services</a></li>
+            <li><a href="#">Infrastructure Management Services</a></li>
+            <li><a href="#">Database Management Services</a></li>
+            
+          </ul>
+        </li>
+            
+            
+            <li>
+
+          <!-- Second Tier Drop Down -->
+          <label for="drop-10" class="toggle">Staffing Services</label>
+          <a href="#">Staffing Services</a>
+          <input type="checkbox" id="drop-10"/>
+          <ul>
+              <li><a href="#">MSP (Mange Staffing Provider)</a></li>
+            <li><a href="#">Consulting Work Force</a></li>
+            <li><a href="#">Permanent Placement</a></li>
+              <li><a href="#">Hybrid Model</a></li>
+            
           </ul>
         </li>
       </ul>
@@ -285,7 +397,22 @@
 -->
                                 </ul>
                             </li>
-                            <li><a href="#" class="a">Industries</a></li>
+                            <li>
+                               <!-- First Tier Drop Down -->
+                               <label for="drop-1" class="toggle">Industries </label>
+                               <a href="#" class="a arrow">Industries</a>
+                               <!--      <input type="checkbox" id="drop-1"/>-->
+                               <ul class="InnerMenu InnerMenu2">
+                                   <li><a href="#">Ship From Store</a></li>
+                                   <li><a href="#">Route Optimization</a></li>
+                                   <li><a href="#">Market Intelligence</a></li>
+                                   <li><a href="#">Image & Video analytics</a></li>
+                                   <li><a href="#">Visual Quality Control</a></li>
+                                   <li><a href="#">Ad Recommendation</a></li>
+                                   <li><a href="#">Image Captioning</a></li>
+                                   <li><a href="#">Text Analytics</a></li>
+                               </ul>
+                           </li>
                             <li><a href="<?php echo base_url(); ?>company" class="a">Company</a></li>
                             <li><a href="#" class="a">Careers</a></li>
                             <li><a href="#" class="a">Contact Us</a></li>
