@@ -39,23 +39,20 @@
             </div>
 
 
-            <div class="row CustomeRows">
-
-                <img src="<?php echo base_url(); ?>assets/images/home-2.png" class="img-fluid CommanImg">
+            <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
-                    <h2 class="TitleH2">We are Zenosys</h2>
-                    <p class="TitleP">We are an award winning tech consulting firm that provides solutions ranging from web and mobile app development, strategy-consulting, remote teams and a host of other web solutions through different engagement models.</p>
 
-                    <p class="TitleP">
-                        With a large team of highly skilled & passionate minds, we work out tailored-to-fit solutions for businesses and in turn, help them enhance their reach, better their communication and create a nice for themselves by leveraging the power of technology.
-                    </p>
-                      <p class="TitleP">
-                        With a unique blend of creativity, competitiveness and uncompromising focus on quality, we cater to clients across B2B & B2C segments in Web Development Content Management, CRM, ERP, etc.
-                    </p>
+                    <h2 class="TitleH2">Financial Services</h2>
+                    <ul>
+                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
+                  <li>Need for better and improved customer experience</li>
+                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
+                  <li>The right blend of technology & sustainability</li>
+              </ul>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-
+                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
                  </div>
             </div>
 

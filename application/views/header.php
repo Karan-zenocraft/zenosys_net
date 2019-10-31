@@ -116,11 +116,11 @@
             <li><a href="#">Odoo / Oracle Apex</a></li>
           </ul>
         </li>
-            
-            
-            
-            
-            
+
+
+
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -133,9 +133,9 @@
             <li><a href="#">Augmented Reality & Virtual Reality</a></li>
           </ul>
         </li>
-            
-            
-            
+
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -148,9 +148,9 @@
             <li><a href="#">Legacy Application Transformation</a></li>
           </ul>
         </li>
-            
-            
-            
+
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -163,9 +163,9 @@
             <li><a href="#">Performance Engineering</a></li>
           </ul>
         </li>
-            
-            
-            
+
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -180,9 +180,9 @@
               <li><a href="#">Predictive Analytics</a></li>
           </ul>
         </li>
-            
-            
-            
+
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -193,12 +193,12 @@
               <li><a href="#">Business Intelligence</a></li>
             <li><a href="#">SAP Cloud Analytics</a></li>
             <li><a href="#">Data Quality Management</a></li>
-            
+
           </ul>
         </li>
-            
-            
-            
+
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -209,11 +209,11 @@
               <li><a href="#">Application Management Services</a></li>
             <li><a href="#">Infrastructure Management Services</a></li>
             <li><a href="#">Database Management Services</a></li>
-            
+
           </ul>
         </li>
-            
-            
+
+
             <li>
 
           <!-- Second Tier Drop Down -->
@@ -225,7 +225,7 @@
             <li><a href="#">Consulting Work Force</a></li>
             <li><a href="#">Permanent Placement</a></li>
               <li><a href="#">Hybrid Model</a></li>
-            
+
           </ul>
         </li>
       </ul>
@@ -403,14 +403,13 @@
                                <a href="#" class="a arrow">Industries</a>
                                <!--      <input type="checkbox" id="drop-1"/>-->
                                <ul class="InnerMenu InnerMenu2">
-                                   <li><a href="#">Ship From Store</a></li>
-                                   <li><a href="#">Route Optimization</a></li>
-                                   <li><a href="#">Market Intelligence</a></li>
-                                   <li><a href="#">Image & Video analytics</a></li>
-                                   <li><a href="#">Visual Quality Control</a></li>
-                                   <li><a href="#">Ad Recommendation</a></li>
-                                   <li><a href="#">Image Captioning</a></li>
-                                   <li><a href="#">Text Analytics</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/financialindustries">Financial Services</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/governmentbodies">Government Bodies</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/educationindustry">Education Industry</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/retailindustries">Retail, Distribution & eCommerce</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/teleindustries">Telecommunication</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/healthcareindustries">Healthcare Industry</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/manufacuringindustries">Manufacturing Industry</a></li>
                                </ul>
                            </li>
                             <li><a href="<?php echo base_url(); ?>company" class="a">Company</a></li>

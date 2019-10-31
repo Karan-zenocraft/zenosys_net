@@ -317,7 +317,8 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
     filter: grayscale(0);}
 
 
-
+.CustomeRows{position: relative;}
+.CustomeRows .CommanImg{position: absolute;right: -60px;bottom:0;}
 
 
 
