@@ -1,6 +1,6 @@
 <?php
 
-class Home extends MY_Controller
+class Company extends MY_Controller
 {
     //$this->load->model('helloworld_model');
     //  $data['result'] = $this->helloworld_model->getData();
@@ -11,6 +11,6 @@ class Home extends MY_Controller
 
     public function index()
     {
-        $this->load->view('home/home');
+        $this->load->view('company/company');
     }
 }

@@ -4,7 +4,7 @@
 
                 <div class="col-md-12 d-flex align-items-center HeaderInner">
                     <div class="Logo">
-                        <img src="<?php echo base_url(); ?>assets/images/logo.png" alt="" class="img-fluid">
+                        <a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/images/logo.png" alt="" class="img-fluid"></a>
                     </div>
 
                     <!--
@@ -264,10 +264,10 @@
                                 <a href="#" class="a arrow">Engagement Models</a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul class="InnerMenu InnerMenu2">
-                                    <li><a href="#">Onshore Model</a></li>
-                                    <li><a href="#">BOT Model Turnkey Model</a></li>
-                                    <li><a href="#">Offshore Model</a></li>
-                                    <li><a href="#">Hybrid Model</a></li>
+                                    <li><a href="<?php echo base_url(); ?>models/onshore">Onshore Model</a></li>
+                                    <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
+                                    <li><a href="<?php echo base_url(); ?>models/offshore">Offshore Model</a></li>
+                                    <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li>
 
 <!--
                                     <li>
@@ -286,7 +286,7 @@
                                 </ul>
                             </li>
                             <li><a href="#" class="a">Industries</a></li>
-                            <li><a href="#" class="a">Company</a></li>
+                            <li><a href="<?php echo base_url(); ?>company" class="a">Company</a></li>
                             <li><a href="#" class="a">Careers</a></li>
                             <li><a href="#" class="a">Contact Us</a></li>
                         </ul>
