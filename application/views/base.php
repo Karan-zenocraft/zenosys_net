@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ZENOSYS</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#174477" />
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/responsive.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css">
+    <link rel="icon" href="img/Logo.png" type="image/png" sizes="64x64">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-----Scrolling animation-------------->
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/aos.css" />
+</head>
+
+
+<!--Note : Add class > for ScrollBar : example-1 scrollbar-dusty-grass square thin-->
+
+<body class="example-1  scrollbar-dusty-grass square thin">
+
+    <!------Loader------->
+
+
+    <!--
+<div id="Load" class="load">
+      <div class="load__container">
+        <div class="load__animation">
+        <img src="./img/Loader.gif" alt="Loader" class="img-fluid">
+        </div>
+        <div class="load__mask"></div>
+        <span class="load__title">Karan <span>Solanki</span></span>
+      </div>
+    </div>
+-->
+
+
+    <!------Floating------->
+
+    <a href="#" id="scroll" style="display: none;z-index: 99999;">
+        <span></span></a>
+
+    <!------header------->
+ <?php $this->load->view('header.php');?>
+
+
+
+
+
+
+
+    <section class="WhyZenosys">
+<?php echo $content; ?>
+
+    </section>
+
+
+ <?php $this->load->view('footer.php');?>
+
+    <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
+
+    <!-----Scrolling animation-------------->
+
+    <script src="<?php echo base_url(); ?>assets/js/aos.js"></script>
+    <script src="<?php echo base_url(); ?>assets/js/comman.js"></script>
+
+
+</body>
+
+</html>
