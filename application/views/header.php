@@ -140,12 +140,12 @@
 
           <!-- Second Tier Drop Down -->
           <label for="drop-5" class="toggle">Application Development</label>
-          <a href="#">Application Development</a>
+          <a href="">Application Development</a>
           <input type="checkbox" id="drop-5"/>
           <ul>
-            <li><a href="#">Custom Application Development</a></li>
-            <li><a href="#">Application Integration</a></li>
-            <li><a href="#">Legacy Application Transformation</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development">Custom Application Development</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_integration">Application Integration</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
           </ul>
         </li>
 
@@ -173,11 +173,11 @@
           <a href="#">COGNITIVE TECHNOLOGIES</a>
           <input type="checkbox" id="drop-7"/>
           <ul>
-              <li><a href="#">Machine Learning</a></li>
-            <li><a href="#"> Data Science</a></li>
-            <li><a href="#">Deep Learning Technologies</a></li>
-            <li><a href="#">Artificial Intelligence</a></li>
-              <li><a href="#">Predictive Analytics</a></li>
+              <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/machine_learning">Machine Learning</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/data_science"> Data Science</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/deep_learning">Deep Learning Technologies</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/artificial_intelligence">Artificial Intelligence</a></li>
+              <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/predective_analytics">Predictive Analytics</a></li>
           </ul>
         </li>
 
@@ -190,9 +190,9 @@
           <a href="#">Advance Analytics & Big Data</a>
           <input type="checkbox" id="drop-8"/>
           <ul>
-              <li><a href="#">Business Intelligence</a></li>
-            <li><a href="#">SAP Cloud Analytics</a></li>
-            <li><a href="#">Data Quality Management</a></li>
+              <li><a href="<?php echo base_url(); ?>bigData/businessintelligence">Business Intelligence</a></li>
+            <li><a href="<?php echo base_url(); ?>bigData/sapcloud">SAP Cloud Analytics</a></li>
+            <li><a href="<?php echo base_url(); ?>bigData/dataquality">Data Quality Management</a></li>
 
           </ul>
         </li>
@@ -256,9 +256,9 @@
                                     <div class="col-md-3 p-0">
                                     <label>Application Development</label>
 
-                                    <li><a href="#">Custom Application Development</a></li>
-                                    <li><a href="#">Application Integration</a></li>
-                                    <li><a href="#">Legacy Application Transformation</a></li>
+                                    <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development">Custom Application Development</a></li>
+                                    <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_integration">Application Integration</a></li>
+                                    <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
 
 
                                         </div>
@@ -284,11 +284,11 @@
                                     <div class="col-md-3 p-0">
                                     <label>COGNITIVE TECHNOLOGIES</label>
 
-                                    <li><a href="#">Machine Learning</a></li>
-                                    <li><a href="#"> Data Science</a></li>
-                                    <li><a href="#">Deep Learning Technologies</a></li>
-                                    <li><a href="#">Artificial Intelligence</a></li>
-                                    <li><a href="#">Predictive Analytics</a></li>
+                                              <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/machine_learning">Machine Learning</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/data_science"> Data Science</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/deep_learning">Deep Learning Technologies</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/artificial_intelligence">Artificial Intelligence</a></li>
+              <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/predective_analytics">Predictive Analytics</a></li>
 
                                         </div>
 
@@ -297,9 +297,9 @@
                                     <div class="col-md-3 p-0">
                                     <label>Advance Analytics & Big Data</label>
 
-                                    <li><a href="#">Business Intelligence</a></li>
-                                    <li><a href="#">SAP Cloud Analytics</a></li>
-                                    <li><a href="#">Data Quality Management</a></li>
+                                    <li><a href="<?php echo base_url(); ?>bigData/businessintelligence">Business Intelligence</a></li>
+                                    <li><a href="<?php echo base_url(); ?>bigData/sapcloud">SAP Cloud Analytics</a></li>
+                                    <li><a href="<?php echo base_url(); ?>bigData/dataquality">Data Quality Management</a></li>
                                     <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
                                     <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
 

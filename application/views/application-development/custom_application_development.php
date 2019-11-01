@@ -42,15 +42,13 @@
             <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Government Bodies</h2>
+                    <h2 class="TitleH2">Custom Application Development</h2>
                     <ul>
-                        <li>Increased efficiency, the need of the hour</li>
-                        <li>Better and convenient access to services</li>
-                        <li>Technological intervention to propel forward</li>
-                        <li>Great ease of transition</li>
-
-
-                    </ul>
+                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
+                  <li>Need for better and improved customer experience</li>
+                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
+                  <li>The right blend of technology & sustainability</li>
+              </ul>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
