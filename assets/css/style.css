@@ -544,7 +544,7 @@ li > a:only-child:after { content: ''; }
       }
 
        .slick-active button { background-color: #fff; }
-    
+    .OnlyMobile{display: none!important}
 
 
 /* Media Queries
