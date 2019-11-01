@@ -1,6 +1,7 @@
         <div class="container">
-            <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div class="col-md-3 WhyZenosysInnerBox">
+            <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+                <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/m4blue.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Onshore Model</h6>
@@ -9,8 +10,9 @@
                         customization options</p>
 
                 </div>
-
-                <div class="col-md-3 WhyZenosysInnerBox">
+            </div>
+            <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/m1blue.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">BOT Model</h6>
                     <p>Equipped with industry's leading page
@@ -18,7 +20,9 @@
                         support for any questions</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+            </div>
+            <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/m3blue.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Offshore Model</h6>
@@ -27,13 +31,16 @@
                         precisely positioned</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+            </div>
+            <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/m2blue.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Hybrid Model</h6>
                     <p>Bunch of styles, features, elements &
                         samples give you an absolute design
                         freedom in creating webpages</p>
+                </div>
                 </div>
 
             </div>
