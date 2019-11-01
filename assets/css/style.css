@@ -547,6 +547,185 @@ li > a:only-child:after { content: ''; }
     .OnlyMobile{display: none!important}
 
 
+.ContactBox form {margin-top: 30px;padding-right: 60px;padding-bottom: 60px;}
+.LocationBox h2{float: right;}
+.ContactBox form input {
+    font-size: 14px;
+    line-height: 20px!important;
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #757575;
+    line-height: normal;
+    font-family: 'Arial';
+}
+
+.ContactBox.WhyZenosysContent.LocationBox h2{width: 100%;text-align: center;}
+.ContactBox.WhyZenosysContent.LocationBox h2:before{width: 250px;right: 0;left: 0;margin: auto}
+.ContactBox form .group {
+    position: relative;
+    margin-bottom: 45px;
+}
+.ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 20px;}
+.ContactBox form label.error {
+    z-index: 999!important;color: red;
+    position: absolute;
+    bottom: -26px;
+   line-height: 16px;
+    margin: 0px;
+   font-family: 'Arial';
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.ContactBox form .highlight {
+    position: absolute;
+    height: 60%;
+    top: 25%;
+    left: 0;
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+
+.ContactBox form .bar {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 2px;
+}
+
+
+.ContactBox form .form-label {
+    color: black;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 1.5;
+    position: absolute;
+    pointer-events: none;
+    display: inline-block;
+    left: 5px;
+    margin: 0;
+    top: 0px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+    font-family: 'Arial';
+    font-size: 14px;
+}
+
+
+
+.ContactBox form .bar:before, .ContactBox form .bar:after {
+    content: '';
+    height: 2px;
+    width: 0;
+    bottom: 1px;
+    position: absolute;
+    background: #b35957;
+    transition: .2s ease all;
+    -moz-transition: .2s ease all;
+    -webkit-transition: .2s ease all;
+}
+
+
+.ContactBox form .top-new-text {
+    font-size: 40% !important;
+    top: -1.5em !important;
+}
+
+.ContactBox form input:focus {
+    outline: none;
+}
+
+.ContactBox form input:focus ~ .highlight {
+    -webkit-animation: inputHighlighter 0.3s ease;
+    animation: inputHighlighter 0.3s ease;
+}
+
+.ContactBox form .bar {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 2px;
+}
+
+.ContactBox form input:focus ~ .bar:before, .ContactBox form input:focus ~ .bar:after {
+    width: 50%;
+}
+
+.ContactBox form .bar:before, .ContactBox form .bar:after {
+    content: '';
+    height: 2px;
+    width: 0;
+    bottom: 1px;
+    position: absolute;
+    background: #174477;
+    transition: .2s ease all;
+    -moz-transition: .2s ease all;
+    -webkit-transition: .2s ease all;
+}
+
+.ContactBox form .bar:before {
+    left: 50%;
+}
+
+.ContactBox form .bar:after {
+    right: 50%;
+}
+
+.ContactBox form input:focus ~ .form-label, .ContactBox form input:valid ~ .form-label {
+    top: -13px;
+    font-size: 12px;
+    color: black;
+}
+
+
+
+
+.SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;}
+.SendBtn{padding: 8px 70px;
+    background: #174477;
+    color: #fff;
+    font-size: 14px;
+    border: 1px solid #174477;
+    line-height: 20px;
+    border-radius: 5px;}
+
+.ContactBox form .captcha{margin-top: -5px;margin-bottom: 40px;}
+/*
+.ContactBox .LocationBoxs:after{content: ''; position: absolute;top: 0;left: 0;width: 95%;height: 1px;background: #174477;}
+
+.ContactBox .LocationBoxs:before{content: ''; position: absolute;top: 0;left: 0;height: 65%;width: 1px;background: #174477;}
+
+.ContactBox .Location{position: relative;}
+.ContactBox .Location:after{content: ''; position: absolute;bottom: 0;right: 0;width: 95%;height: 1px;background: #174477;}
+
+.ContactBox .Location:before{content: ''; position: absolute;bottom: 0;right: 0;height: 65%;width: 1px;background: #174477;}
+*/
+
+.ContactBox .LocationBoxs{padding: 15px;position: relative;border: 1px solid #174477}
+.ContactBox .LocationBoxs img{max-width: 50px;height: auto;display: block;margin: auto;}
+.ContactBox .LocationBoxs h3{text-align: center;font-size: 15px;
+    color: #418f9a;margin-bottom: 5px;font-weight: bold;margin-top: 5px;}
+.ContactBox .LocationBoxs p{padding-right: 0px;text-align: center;margin-bottom: 10px;font-size: 12px;font-weight: normal}
+.ContactBox .LocationBoxs a{display: block;text-align: center;font-size: 12px;color: #418f9a;line-height: 18px; font-family: 'Arial';font-weight: normal}
+.ContactBox .LocationBoxs a:hover{text-decoration: none;}
+
+.ContactBox .LocationBoxs .Phone{font-size: 15px;line-height: 20px; font-family: 'Arial';font-weight: bold;margin-bottom: 5px;}
+.WhyZenosysContent.ContactBox h2{margin-bottom: 60px;text-align: center;}
+.WhyZenosysContent.ContactBox h2:before{width: 220px;left: 0;right: 0;margin: auto;
+    bottom: -10px;}
+
+.ContactBox .LocationBoxs:hover img{transition: 0.8s all;transform: scale(1.1)}
+
+/*
+.ContactBox form input{color: inherit;
+    font: inherit;
+    margin: 0;}
+*/
+
+
 /* Media Queries
 --------------------------------------------- */
 

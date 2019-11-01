@@ -49,23 +49,122 @@
 
 
             <div class="row">
-                <div class="col-md-8 WhyZenosysContent">
-                    <h2 class="TitleH2">Contact Us</h2>
-                    <p class="TitleP"><i>We are on a mission to enhance the pace of growth for businesses.</i></p>
-
-                    <p class="TitleP">
-                        The prevalent business environment has become fiercely competitive and the technological evolution has enabled us in working out perfect solutions for our clients across the globe.
-                    </p>
-                      <p class="TitleP">
-                        Through innovative technology, unwavering focus and sound accountability, we strive to deliver quality end-to-end solutions that help transform your ideas into tangible success. We are on a steady to stride to bring our solutions to businesses globally as a dependable partner through high quality, cost-effectiveness and creativity.
-                    </p>
-                    <p class="TitleP">
-                        Building and facilitating nurturing relationships defines our values and the same reflects in our practices, within and outside our organizations. As a strongly bound team, we grow together and succeed together. With our clients, we develop a relationship of trust, high effectiveness and flawless deliveries.
-                    </p>
+                <div class="col-md-6 ContactBox WhyZenosysContent">
+                    <h2 class="TitleH2">SEND US A MESSAGE</h2>
+                    
+                    
+                    <form method="POST" id="registration" novalidate="novalidate" name="registration">
+                <input type="hidden" name="_token" value="bhNpBNW6C2dpC7wQfP17HpZIaasphaPpiXx47cP7">
+                <div class="group">
+                    <input type="text" name="contact_name" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Your Name
+                    </label>
+                </div>
+                <div class="group">      
+                    <input type="email" name="emailid" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Your Email</label>
+                </div>
+                <div class="group">      
+                    <input type="number" name="mobileno" required="" aria-required="true" maxlength="10" minlength="10">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Subject</label>
+                </div>
+                <div class="group">      
+                    <input type="text" name="message" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Your Message</label>
+                </div>
+               
+                    
+                        
+                        
+                        <div>
+                        <div class="form-group captcha">
+                            <div class="g-recaptcha" data-sitekey="6LfKURIUAAAAAO50vlwWZkyK_G2ywqE52NU7YO0S" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                            <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+                            <div class="help-block with-errors"></div>
+                        </div>
+                   
+                        <div class="">
+                        <a href="#" class="SendBtn">Send</a>
+                        </div>
+                            
+                            </div>
+            </form>
 
                 </div>
-                <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
+                <div class="col-md-6 ContactBox WhyZenosysContent LocationBox">
+                    <div class="row">
+                    <h2 class="TitleH2">OUR OFFICE LOCATIONS</h2>
+                    </div>
+                    <div class="row">
+                    <div class="col-md-6">
+                        
+                   <div class="LocationBoxs">
+                       <img src="<?php echo base_url(); ?>assets/images/location1.jpg" alt="" class="rounded-circle">
+                       <h3 class="TitleH3">USA Office</h3>
+                       <p>3084 State Route 27, Suite 12, Kendall Park,NJ 08824, USA</p> 
+                       <a href="tel:+1 7329674783" class="Phone">+1 7329674783</a>
+                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> test@zenosys.net</a>
+                    </div>
+                   
+                    </div>
+                        
+                        
+                    <div class="col-md-6">
+                    
+                   <div class="LocationBoxs">
+                       <img src="<?php echo base_url(); ?>assets/images/location2.jpg" alt="" class="rounded-circle">
+                       <h3 class="TitleH3">India Office</h3>
+                       <p>22, Second Floor, Magnet Corporate Park S.G Road, Ahmedabad-380054</p> 
+                       <a href="tel:+1 7329674783" class="Phone">+91 7447389292</a>
+                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> mail@zenocraft.com</a>
+                    </div>
+                    
+                    
+                    </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row CustomeRow">
+                    <div class="col-md-6">
+                        
+                   <div class="LocationBoxs">
+                       <img src="<?php echo base_url(); ?>assets/images/location1.jpg" alt="" class="rounded-circle">
+                       <h3 class="TitleH3">USA Office</h3>
+                       <p>103 Carnegie Center, Suite 300 Princeton, New Jersey 08540, USA</p> 
+                       <a href="tel:+1 7329674783" class="Phone">+1 732 967 4783</a>
+                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> test@zenosys.net</a>
+                    </div>
+                  
+                    </div>
+                        
+                        
+                    <div class="col-md-6">
+                    
+                   <div class="LocationBoxs">
+                       <img src="<?php echo base_url(); ?>assets/images/location1.jpg" alt="" class="rounded-circle">
+                       <h3 class="TitleH3">USA Office</h3>
+                       <p>10665 Jasper Avenue, 14th Floor, Edmonton, Alberta, T5J 3S9, Canada</p> 
+                       <a href="tel:+1 7329674783" class="Phone">+91 7447389292</a>
+                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> mail@zenocraft.com</a>
+                    </div>
+                    
+                    
+                    </div>
+                    </div>
+                    
                  </div>
 
             </div>

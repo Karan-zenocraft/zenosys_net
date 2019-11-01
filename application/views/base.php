@@ -70,7 +70,7 @@
 
     <script src="<?php echo base_url(); ?>assets/js/aos.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/comman.js"></script>
-
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 
 </body>
 
