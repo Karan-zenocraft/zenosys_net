@@ -413,7 +413,7 @@
                                </ul>
                            </li>
                             <li><a href="<?php echo base_url(); ?>company" class="a">Company</a></li>
-                            <li><a href="#" class="a">Careers</a></li>
+                            <li><a href="<?php echo base_url(); ?>careers" class="a">Careers</a></li>
                             <li><a href="<?php echo base_url(); ?>contactUs" class="a">Contact Us</a></li>
                         </ul>
 
