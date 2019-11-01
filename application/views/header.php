@@ -111,9 +111,9 @@
           <a href="#">Enterprise Applications</a>
           <input type="checkbox" id="drop-3"/>
           <ul>
-            <li><a href="#">Oracle eBusiness Suite</a></li>
-            <li><a href="#">SAP-S/4HANA / ECC</a></li>
-            <li><a href="#">Odoo / Oracle Apex</a></li>
+              <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
           </ul>
         </li>
 
@@ -128,9 +128,9 @@
           <a href="#">Emerging Technologies</a>
           <input type="checkbox" id="drop-4"/>
           <ul>
-            <li><a href="#">Internet Of Things</a></li>
-            <li><a href="#">Block-Chain Technologies</a></li>
-            <li><a href="#">Augmented Reality & Virtual Reality</a></li>
+            <li><a href="<?php echo base_url(); ?>emergingTechnologies/internet_of_things">Internet Of Things</a></li>
+            <li><a href="<?php echo base_url(); ?>emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
+            <li><a href="<?php echo base_url(); ?>emergingTechnologies/augmented_reality">Augmented Reality & Virtual Reality</a></li>
           </ul>
         </li>
 
@@ -158,9 +158,9 @@
           <a href="#">Quality Engineering</a>
           <input type="checkbox" id="drop-6"/>
           <ul>
-            <li><a href="#">Functional Engineering</a></li>
-            <li><a href="#">Automation</a></li>
-            <li><a href="#">Performance Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/functional_engineering">Functional Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/automation">Automation</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/performance_engineering">Performance Engineering</a></li>
           </ul>
         </li>
 
@@ -206,9 +206,9 @@
           <a href="#">MANAGED SERVICES</a>
           <input type="checkbox" id="drop-9"/>
           <ul>
-              <li><a href="#">Application Management Services</a></li>
-            <li><a href="#">Infrastructure Management Services</a></li>
-            <li><a href="#">Database Management Services</a></li>
+            <li><a href="<?php echo base_url(); ?>managedServices/application_management">Application Management Services</a></li>
+                                    <li><a href="<?php echo base_url(); ?>managedServices/infastructure_management">Infrastructure Management Services</a></li>
+                                    <li><a href="<?php echo base_url(); ?>managedServices/database_management">Database Management Services</a></li>
 
           </ul>
         </li>
@@ -221,10 +221,10 @@
           <a href="#">Staffing Services</a>
           <input type="checkbox" id="drop-10"/>
           <ul>
-              <li><a href="#">MSP (Mange Staffing Provider)</a></li>
-            <li><a href="#">Consulting Work Force</a></li>
-            <li><a href="#">Permanent Placement</a></li>
-              <li><a href="#">Hybrid Model</a></li>
+              <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Mange Staffing Provider)</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
+              <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li>
 
           </ul>
         </li>
@@ -235,9 +235,9 @@
                                     <div class="col-md-3 p-0">
                                     <label>Enterprise Applications</label>
 
-                                    <li><a href="#">Oracle eBusiness Suite</a></li>
-                                    <li><a href="#">SAP-S/4HANA / ECC</a></li>
-                                    <li><a href="#">Odoo / Oracle Apex</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
 
 
                                         </div>
@@ -245,9 +245,10 @@
                                     <div class="col-md-3 p-0">
                                     <label>Emerging Technologies</label>
 
-                                    <li><a href="#">Internet Of Things</a></li>
-                                    <li><a href="#">Block-Chain Technologies</a></li>
-                                    <li><a href="#">Augmented Reality & Virtual Reality</a></li>
+
+                                  <li><a href="<?php echo base_url(); ?>emergingTechnologies/internet_of_things">Internet Of Things</a></li>
+                                  <li><a href="<?php echo base_url(); ?>emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
+                                  <li><a href="<?php echo base_url(); ?>emergingTechnologies/augmented_reality">Augmented Reality & Virtual Reality</a></li>
 
 
                                         </div>
@@ -268,9 +269,9 @@
                                         <div class="col-md-3 p-0">
                                     <label>Quality Engineering</label>
 
-                                    <li><a href="#">Functional Engineering</a></li>
-                                    <li><a href="#">Automation</a></li>
-                                    <li><a href="#">Performance Engineering</a></li>
+                                   <li><a href="<?php echo base_url(); ?>qualityEngineering/functional_engineering">Functional Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/automation">Automation</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/performance_engineering">Performance Engineering</a></li>
 
 
                                         </div>
@@ -313,9 +314,9 @@
                                         <div class="col-md-3 p-0">
                                     <label>MANAGED SERVICES</label>
 
-                                    <li><a href="#">Application Management Services</a></li>
-                                    <li><a href="#">Infrastructure Management Services</a></li>
-                                    <li><a href="#">Database Management Services</a></li>
+                                    <li><a href="<?php echo base_url(); ?>managedServices/application_management">Application Management Services</a></li>
+                                    <li><a href="<?php echo base_url(); ?>managedServices/infastructure_management">Infrastructure Management Services</a></li>
+                                    <li><a href="<?php echo base_url(); ?>managedServices/database_management">Database Management Services</a></li>
                                     <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
                                     <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
 
@@ -326,11 +327,10 @@
 
                                         <div class="col-md-3 p-0">
                                     <label>Staffing Services</label>
-
-                                    <li><a href="#">MSP (Mange Staffing Provider)</a></li>
-                                    <li><a href="#">Consulting Work Force</a></li>
-                                    <li><a href="#">Permanent Placement</a></li>
-                                    <li><a href="#">Hybrid Model</a></li>
+  <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Mange Staffing Provider)</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
+              <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li>
                                 <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
                                         </div>
                                         </div>
@@ -359,14 +359,14 @@
                                 <a href="#" class="a arrow">Products</a>
                                 <!--      <input type="checkbox" id="drop-1"/>-->
                                 <ul class="InnerMenu InnerMenu2">
-                                    <li><a href="#">Ship From Store</a></li>
-                                    <li><a href="#">Route Optimization</a></li>
-                                    <li><a href="#">Market Intelligence</a></li>
-                                    <li><a href="#">Image & Video analytics</a></li>
-                                    <li><a href="#">Visual Quality Control</a></li>
-                                    <li><a href="#">Ad Recommendation</a></li>
-                                    <li><a href="#">Image Captioning</a></li>
-                                    <li><a href="#">Text Analytics</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product1">Product 1</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product2">Product 2</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product3">Product 3</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product4">Product 4</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product5">Product 5</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product6">Product 6</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product7">Product 7</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/product8">Product 8</a></li>
                                 </ul>
                             </li>
                             <li>
