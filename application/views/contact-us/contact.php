@@ -53,10 +53,11 @@
                     <h2 class="TitleH2">SEND US A MESSAGE</h2>
                     
                     
+<!--
                     <form method="POST" id="registration" novalidate="novalidate" name="registration">
                 <input type="hidden" name="_token" value="bhNpBNW6C2dpC7wQfP17HpZIaasphaPpiXx47cP7">
                 <div class="group">
-                    <input type="text" name="contact_name" required="" aria-required="true">
+                    <input type="text" name="your_name" required="" aria-required="true">
                     <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
@@ -71,7 +72,7 @@
                     </sup>Your Email</label>
                 </div>
                 <div class="group">      
-                    <input type="number" name="mobileno" required="" aria-required="true" maxlength="10" minlength="10">
+                    <input type="number" name="subject" required="" aria-required="true" maxlength="10" minlength="10">
                     <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
@@ -96,12 +97,58 @@
                         </div>
                    
                         <div class="">
-                        <a href="#" class="SendBtn">Send</a>
+                        <a type="submit" name="submit" value="submit" class="SendBtn">Send</a>
                         </div>
                             
                             </div>
             </form>
+-->
 
+                    
+                    
+                   <form method="POST" id="registration" novalidate="novalidate" name="registration">
+                <input type="hidden" name="_token" value="bhNpBNW6C2dpC7wQfP17HpZIaasphaPpiXx47cP7">
+                <div class="group">
+                    <input type="text" name="your_name" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Name
+                    </label>
+                </div>
+                <div class="group">      
+                    <input type="email" name="emailid" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Email Id</label>
+                </div>
+                <div class="group">      
+                    <input type="text" name="subject" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Subject</label>
+                </div>
+                <div class="group">      
+                    <input type="text" name="message" required="" aria-required="true">
+                    <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Message</label>
+                </div>
+                       
+                        <div class="form-group captcha">
+                            <div class="g-recaptcha" data-sitekey="6LfKURIUAAAAAO50vlwWZkyK_G2ywqE52NU7YO0S" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                            <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
+                            <div class="help-block with-errors"></div>
+                        </div>
+               
+                    
+                        <button name="submit" class="SendBtn" value="Validate">SEND</button>
+                    
+                
+            </form>
                 </div>
                 <div class="col-md-6 ContactBox WhyZenosysContent LocationBox">
                     <div class="row">

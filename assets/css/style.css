@@ -684,13 +684,15 @@ li > a:only-child:after { content: ''; }
 
 
 .SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;}
-.SendBtn{padding: 8px 70px;
+.SendBtn{height: 40px;width: 180px;
     background: #174477;
     color: #fff;
     font-size: 14px;
     border: 1px solid #174477;
     line-height: 20px;
     border-radius: 5px;}
+.ContactBox .LocationBoxs{cursor: pointer;}
+.ContactBox .LocationBoxs:hover{border-color: #418f9a;transition: 0.8s all;}
 
 .ContactBox form .captcha{margin-top: -5px;margin-bottom: 40px;}
 /*
@@ -704,7 +706,7 @@ li > a:only-child:after { content: ''; }
 .ContactBox .Location:before{content: ''; position: absolute;bottom: 0;right: 0;height: 65%;width: 1px;background: #174477;}
 */
 
-.ContactBox .LocationBoxs{padding: 15px;position: relative;border: 1px solid #174477}
+.ContactBox .LocationBoxs{padding: 15px;position: relative;border: 1px solid #a5a5a5}
 .ContactBox .LocationBoxs img{max-width: 50px;height: auto;display: block;margin: auto;}
 .ContactBox .LocationBoxs h3{text-align: center;font-size: 15px;
     color: #418f9a;margin-bottom: 5px;font-weight: bold;margin-top: 5px;}

@@ -61,7 +61,9 @@
 
 
  <?php $this->load->view('footer.php');?>
+     
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js"></script>
 <!--    <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>-->
     <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
@@ -72,6 +74,8 @@
     <script src="<?php echo base_url(); ?>assets/js/comman.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
 
+    
+   
 </body>
 
 </html>
