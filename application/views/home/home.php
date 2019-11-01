@@ -1,7 +1,8 @@
         <div class="container">
-            <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
-
-                <div class="col-md-3 WhyZenosysInnerBox">
+            <!--            <div class="row WhyZenosysInner d-flex align-items-center align-items-center">-->
+            <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">RESPONSIBILITY</h6>
                     <p>Equipped with industry's leading page
@@ -9,7 +10,10 @@
                         support for any questions</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                       
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">COMMITMENT</h6>
@@ -17,7 +21,9 @@
                         samples give you an absolute design
                         freedom in creating webpages</p>
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">TEAM WORK</h6>
@@ -26,7 +32,9 @@
                         precisely positioned</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -35,8 +43,43 @@
                         customization options</p>
 
                 </div>
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
+                    <h6 class="TitleH6">INNOVATION</h6>
+                    <p>Scalia is future-proof best-of-breed
+                        premium theme with unlimited styling
+                        customization options</p>
+
+                </div>
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+
+                    <h6 class="TitleH6">INNOVATION</h6>
+                    <p>Scalia is future-proof best-of-breed
+                        premium theme with unlimited styling
+                        customization options</p>
+
+                </div>
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+
+                    <h6 class="TitleH6">INNOVATION</h6>
+                    <p>Scalia is future-proof best-of-breed
+                        premium theme with unlimited styling
+                        customization options</p>
+
+                </div>
+                </div>
+                
             </div>
+            <!--            </div>-->
 
 
             <div class="row CustomeRows">
@@ -49,14 +92,14 @@
                     <p class="TitleP">
                         With a large team of highly skilled & passionate minds, we work out tailored-to-fit solutions for businesses and in turn, help them enhance their reach, better their communication and create a nice for themselves by leveraging the power of technology.
                     </p>
-                      <p class="TitleP">
+                    <p class="TitleP">
                         With a unique blend of creativity, competitiveness and uncompromising focus on quality, we cater to clients across B2B & B2C segments in Web Development Content Management, CRM, ERP, etc.
                     </p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
+                <div class="col-md-4 WhyZenosysContent">
 
-                 </div>
+                </div>
             </div>
 
 

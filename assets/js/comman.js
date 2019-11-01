@@ -9,7 +9,16 @@
 
 
 
-
+$().ready(function(){
+  $('.slick-carousel').slick({
+    arrows: true,
+    centerPadding: "0px",
+    dots: true,
+      slidesToScroll: 4,
+    slidesToShow: 4,
+    infinite: false
+  });
+});
 
 
 
@@ -78,5 +87,7 @@ $(document).ready(function() {
     });
 
 });
+
+
 
  

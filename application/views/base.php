@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css">
     <link rel="icon" href="img/Logo.png" type="image/png" sizes="64x64">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css">
 
     <!-----Scrolling animation-------------->
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/aos.css" />
@@ -60,8 +61,9 @@
 
 
  <?php $this->load->view('footer.php');?>
-
-    <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js"></script>
+<!--    <script src="<?php echo base_url(); ?>assets/js/jquery.min.js"></script>-->
     <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
 
     <!-----Scrolling animation-------------->

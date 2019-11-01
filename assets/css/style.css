@@ -163,7 +163,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .WhyZenosys .WhyZenosysInner{box-shadow: 3px 5px 5px 2px #0000002e;margin: 0px 115px;margin-top: -20px;background: #ffffff;padding-top: 15px;padding-bottom: 20px;}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{text-align: center;overflow: hidden;transition: .8s all;}
-.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox img{height: 65px;transform: scale(1.0);transition: .8s all;}
+.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox img{height: 65px;transform: scale(1.0);transition: .8s all;margin: auto!important}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox:hover img{transform: scale(1.2);transition: .8s all;}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox h6{color: #595959;margin-bottom: 5px;font-weight: normal;text-transform: uppercase;}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 11px;line-height: 13px;color: #666666;font-family:'Arial';padding: 0px 0px;margin-bottom: 0px;font-weight: normal;}
@@ -470,6 +470,81 @@ li > a:only-child:after { content: ''; }
 
 
     .Onlylg{display: none;}
+
+
+
+
+
+
+
+  
+  
+    .slide-content{
+      margin: 0 0%;
+/*      padding: 50px 100px;*/
+      background: #fff;
+    }
+ 
+  
+  .slick-list {
+     margin: 20px 0px;
+  }
+  
+.slick-prev:focus,
+.slick-next:focus{outline: none;} 
+
+
+  .slick-prev,
+  .slick-next {
+    position: absolute;
+    right: 0%;
+    background: transparent;
+    border: none;
+    color: transparent;
+    width: 30px;
+      height: 30px;display: flex;align-items: center;justify-content: center;}
+   
+.slick-prev{left: 0;transform: rotate(180deg)}
+
+
+    .slick-prev:before,
+  .slick-next:before { 
+      content: "→"; 
+      color: #62b0bb; 
+      font-size: 25px;
+      position: absolute;
+    }
+
+  
+  .slick-prev { 
+    left: @gutters; 
+    &:before { content: "→"; }
+  }
+  
+  .slick-dots {
+    list-style: none;
+    margin: 0 auto;
+      display: none!important;
+      text-align: center;}
+    
+    li {
+        display: inline-block;}
+      
+      button { 
+        transition: 0.2s background-color ease-in-out 0s;
+        border: none;
+        padding: 0;
+        color: transparent;
+        
+        width: 10px;
+        height: 10px;
+        background-color: #777;
+        margin-right: 10px;
+        border-radius: 50%; 
+      }
+
+       .slick-active button { background-color: #fff; }
+    
 
 
 /* Media Queries
