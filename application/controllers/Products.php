@@ -9,7 +9,7 @@ class Products extends MY_Controller
         parent::__construct();
     }
 
-    public function product1()
+    public function polyglot_dbmonitor()
     {
         $this->load->view('products/product1');
     }

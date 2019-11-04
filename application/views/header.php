@@ -475,7 +475,7 @@
                                 <a href="#" class="a arrow">Products</a>
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2" id="Two">
-                                    <li><a href="<?php echo base_url(); ?>products/product1">Product 1</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/product2">Product 2</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/product3">Product 3</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/product4">Product 4</a></li>

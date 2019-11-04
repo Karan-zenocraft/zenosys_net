@@ -105,37 +105,45 @@
 -->
 
 
+ <?php if (!empty($status)) {?>
+    <div class="status <?php echo $status['type']; ?>"><?php echo $status['msg']; ?></div>
+    <?php }?>
 
-                   <form method="POST" id="registration" novalidate="novalidate" name="registration">
+                   <form method="POST" id="contact" novalidate="novalidate" name="contact">
                 <input type="hidden" name="_token" value="bhNpBNW6C2dpC7wQfP17HpZIaasphaPpiXx47cP7">
                 <div class="group">
-                    <input type="text" name="your_name" required="" aria-required="true">
+                    <input type="text" name="name" required="" aria-required="true" value="<?php echo !empty($postData['name']) ? $postData['name'] : ''; ?>">
                     <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
                     </sup>Name
                     </label>
+                    <?php echo form_error('name', '<p class="field-error error ">', '</p>'); ?>
                 </div>
                 <div class="group">
-                    <input type="email" name="emailid" required="" aria-required="true">
+                    <input type="email" name="email" required="" aria-required="true" value="<?php echo !empty($postData['email']) ? $postData['email'] : ''; ?>">
                     <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
                     </sup>Email Id</label>
+                    <?php echo form_error('email', '<p class="field-error error">', '</p>'); ?>
                 </div>
                 <div class="group">
-                    <input type="text" name="subject" required="" aria-required="true">
+                    <input type="text" name="subject" required="" aria-required="true" value="<?php echo !empty($postData['subject']) ? $postData['subject'] : ''; ?>">
                     <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
                     </sup>Subject</label>
+                    <?php echo form_error('subject', '<p class="field-error error">', '</p>'); ?>
                 </div>
                 <div class="group">
-                    <input type="text" name="message" required="" aria-required="true">
+                    <input type="text" name="message" required="" aria-required="true" value="<?php echo !empty($postData['message']) ? $postData['message'] : ''; ?>">
                     <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
                     </sup>Message</label>
+                    <?php echo form_error('message', '<p class="field-error error">', '</p>'); ?>
+
                 </div>
 
                         <div class="form-group captcha">
@@ -144,8 +152,7 @@
                             <div class="help-block with-errors"></div>
                         </div>
 
-
-                        <button name="submit" class="SendBtn" value="Validate">SEND</button>
+                        <button name="contactSubmit" class="SendBtn" value="Validate">SEND</button>
 
 
             </form>
