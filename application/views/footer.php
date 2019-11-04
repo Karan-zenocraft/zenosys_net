@@ -657,62 +657,62 @@
 <div class="row">
 <div class="col-md-4">
  Awards
-   
-</div>    
+
+</div>
 <div class="col-md-8">
 <div class="row">
 <div class="d-flex align-items-center justify-content-center">
 <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a1.png" class="img-fluid">
-    
-</div>  
+
+</div>
 <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a2.png" class="img-fluid">
-    
-</div>  
+
+</div>
 
     <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a3.png" class="img-fluid">
-    
-</div>  
+
+</div>
 
     <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a4.png" class="img-fluid">
-    
-</div>  
 
-    
-    
-</div> 
-</div> 
-    
+</div>
+
+
+
+</div>
+</div>
+
     <div class="row">
 <div class="d-flex align-items-center justify-content-center">
 <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a5.png" class="img-fluid">
-    
-</div>  
+
+</div>
 <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a6.png" class="img-fluid">
-    
-</div>  
+
+</div>
 
     <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a7.png" class="img-fluid">
-    
-</div>  
+
+</div>
 
     <div class="AwardsImgBox">
 <img src="<?php echo base_url(); ?>assets/images/a8.png" class="img-fluid">
-    
-</div>  
 
-    
-    
-</div> 
-</div> 
-</div>    
-</div>    
+</div>
+
+
+
+</div>
+</div>
+</div>
+</div>
 </div>
 </section>
 -->
@@ -778,7 +778,7 @@
                             <div class="arrow-right"></div><a href="">Disclaimer</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
-                            <div class="arrow-right"></div><a href=""> Site Map</a>
+                            <div class="arrow-right"></div><a href="<?php echo base_url(); ?>sitemap"> Site Map</a>
                         </li>
 
                     </ul>
