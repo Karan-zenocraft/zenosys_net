@@ -771,7 +771,8 @@ font-family: 'Arial';letter-spacing: 1px;}
 
 @media all and (max-width : 1199px) {
 
-    nav a{font-size: 14px;color: #000;line-height: 20px;padding: 13px 15px;}
+    nav a{font-size: 16px;color: #000;line-height: 20px;padding: 13px 15px;}
+    .InnerDropdown a{font-size: 14px!important}
     .menu li label{color: #000}
     .menu{position: absolute;
     width: 100%;
@@ -779,8 +780,19 @@ font-family: 'Arial';letter-spacing: 1px;}
     top: 100px;
     background: #fff;}
     
-    
+    .HeaderNavigation .InnerMenu{padding-left: 20px;}
+    .HeaderNavigation .InnerDropdown {padding-left: 40px;}
+    .HeaderNavigation .menu .OutLine:before{content: unset;transition: 0.8s all;}
+    .HeaderNavigation .menu .OutLine{color: #174477;transition: 0.8s all;
+    text-decoration: underline;
+    font-weight: bold;}
     .Onlylg{display: none;}
+    .InnerMenu label{font-size: 15px!important;font-weight: bold!important;color: #333333!important}
+    .InnerMenu2{margin-left: 0px!important;box-shadow:unset!important;-webkit-box-shadow:unset!important;width: 100%;border-bottom:unset}
+    .InnerMenu2 li a {
+    padding: 13px 15px;
+        line-height: 20px;}
+    
 nav { margin: 0; }
 
 .toggle + a,
@@ -799,7 +811,8 @@ nav .Menubar{float: right;}
   border: none;
 }
     
-    nav .menu li {margin: 0px 0px;}
+    nav .menu li {margin: 0px 0px;background: #fff;
+    z-index: 999;}
     
     .menu li label{display: block;
     font-size: 20px;
@@ -814,7 +827,8 @@ nav .Menubar{float: right;}
     
 .toggle:hover { background-color: #fff; }
 
-[id^=drop]:checked + ul { display: block; }
+[id^=drop]:checked + ul { display: block;z-index: 999;
+    background: #fff; }
 
 nav ul li {
   display: block;

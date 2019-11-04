@@ -116,6 +116,19 @@ $(document).ready(function() {
     $(".HeaderNav ul .Toggle").click(function() {
                 $(".HeaderNav ul .Toggle").closest('ul').toggleClass("show");
     });
+    
+    
+    
+     $(".HeaderNavigation .menu li label").click(function() {
+                $(this).toggleClass("OutLine");
+        
+    });
+    
+//    $(".HeaderNavigation ul li label").click(function() {
+//                $(this).toggleClass("InnerMenus");
+//        
+//    });
+    
 
 });
 
