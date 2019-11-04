@@ -50,9 +50,9 @@
 
             <div class="row">
                 <div class="col-md-7 WhyZenosysContent Careers">
-                    <h2 class="TitleH2">Careers</h2>
-                    
-                    
+                    <h2 class="TitleH2">CURRENT OPENINGS</h2>
+
+
                     <div class="table-responsive">
                     <table class="table table-striped">
     <thead>
@@ -64,70 +64,31 @@
       </tr>
     </thead>
     <tbody>
+        <?php if (!empty($jobs)) {
+    foreach ($jobs as $key => $job) {?>
       <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
+        <td><?php echo $job->job_id; ?></td>
+        <td onclick="get_description('<?php echo $job->id; ?>')"><?php echo $job->title; ?></td>
+        <input type="hidden" id="desc<?php echo $job->id; ?>" name="desc" value="<?php echo addslashes($job->description); ?>">
+        <td><?php echo $job->location; ?></td>
+        <td><?php echo $job->type; ?></td>
       </tr>
-      <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
-      </tr>
-      <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
-      </tr>
-        <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
-      </tr>
-        <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
-      </tr>
-        <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
-      </tr>
-        <tr>
-        <td>ZS180425</td>
-        <td>Program Admin</td>
-        <td>Piscataway, NJ</td>
-        <td>Permanent</td>
-      </tr>
+  <?php }}?>
     </tbody>
   </table>
-                    </div>
+</div>
 
                 </div>
                 <div class="col-md-5 WhyZenosysContent Careers CareersRight">
-                    
+
 <!--                    <h2 class="TitleH2">Job Description</h2>-->
-                    
+
                     <h3 class="TitleH3">Job Description</h3>
-                    <p><b>Skills description - BEA Weblogic Administrator</b></p>
-                    <p>BEA Weblogic technical expert/architect with 2-5 years experience managing production-level BEA Weblogic application servers. Should have experience with:</p>
-                    <ul>
-                    <li>Basic system configuration parameters</li>  
-                    <li>System monitoring</li>  
-                    <li>Creating and managing database connections</li>  
-                    <li>Creating and managing JMS queues</li>  
-                    <li>Experience deploying applications in a production environment</li>
-                        
+                    <?php $first_job = !empty($jobs) ? current($jobs) : "";?>
+                    <p class="put_desc"><?php echo !empty($first_job) ? $first_job->description : "No data" ?></p>
                     </ul>
-                    
-                    
+
+
                  </div>
 
             </div>
@@ -135,3 +96,24 @@
 
 
         </div>
+<script type="text/javascript">
+$(document).ready(function () {
+
+$(".job_title").click(function(){
+var job_id = $(this).attr("id");
+alert(job_id);
+var job_type = $(this).attr("data-jobType");
+var job_location = $(this).attr("data-jobLocation");
+var post_content = $(this).attr("data-content");
+document.getElementById("job_desc_title").textContent = "JOB DESCRIPTION";
+$("#job_title").html(post_content);
+//document.getElementById("job_title").html = post_content;
+
+});
+});
+function get_description(id){
+    var description = $('#desc'+id).val();
+    $(".put_desc").html(description);
+
+}
+</script>

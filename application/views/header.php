@@ -58,11 +58,11 @@
                 <div class="bar2"></div>
                 <div class="bar3"></div>
                 </span>
-                    
-                    
+
+
                     <nav class="HeaderNavigation">
-                       
-                
+
+
 
 
 
@@ -74,10 +74,10 @@
                 </span>
 -->
                         <ul class="menu">
-                            
-                            
-                            
-                            
+
+
+
+
                             <li>
 
                                 <!-- First Tier Drop Down -->
@@ -85,7 +85,7 @@
                                 <a href="#" class="a arrow">Solutions</a>
                                 <input type="checkbox" id="drop-2" />
 
- 
+
       <ul class="InnerMenu">
 
 
@@ -96,14 +96,14 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-3"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Oracle eBusiness Suite</a></li>
-            <li><a href="#">SAP-S/4HANA / ECC</a></li>
-            <li><a href="#">Odoo / Oracle Apex</a></li>
+            <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
+            <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
+            <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
           </ul>
         </li>
-          
-          
-          
+
+
+
           <li>
 
 
@@ -111,13 +111,13 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-4"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Internet Of Things</a></li>
-            <li><a href="#">Block-Chain Technologies</a></li>
-            <li><a href="#">Augmented Reality & Virtual Reality</a></li>
+            <li><a href="<?php echo base_url(); ?>emergingTechnologies/internet_of_things">Internet Of Things</a></li>
+            <li><a href="<?php echo base_url(); ?>emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
+            <li><a href="<?php echo base_url(); ?>emergingTechnologies/augmented_reality">Augmented Reality & Virtual Reality</a></li>
           </ul>
         </li>
-          
-          
+
+
           <li>
 
 
@@ -125,13 +125,13 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-5"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Custom Application Development</a></li>
-            <li><a href="#">Application Integration</a></li>
-            <li><a href="#">Legacy Application Transformation</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development">Custom Application Development</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_integration">Application Integration</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
           </ul>
         </li>
-          
-          
+
+
           <li>
 
 
@@ -139,13 +139,13 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-6"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Functional Engineering</a></li>
-            <li><a href="#">Automation</a></li>
-            <li><a href="#">Performance Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/functional_engineering">Functional Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/automation">Automation</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/performance_engineering">Performance Engineering</a></li>
           </ul>
         </li>
 
-          
+
           <li>
 
 
@@ -153,15 +153,15 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-7"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Machine Learning</a></li>
-            <li><a href="#"> Data Science</a></li>
-            <li><a href="#">Deep Learning Technologies</a></li>
-             <li><a href="#"> Artificial Intelligence</a></li>
-              <li><a href="#"> Predictive Analytics</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/machine_learning">Machine Learning</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development"> Data Science</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/deep_learning">Deep Learning Technologies</a></li>
+             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/artificial_intelligence"> Artificial Intelligence</a></li>
+              <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/predective_analytics"> Predictive Analytics</a></li>
           </ul>
         </li>
-          
-          
+
+
           <li>
 
 
@@ -169,14 +169,14 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-8"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Business Intelligence</a></li>
-            <li><a href="#"> SAP Cloud Analytics</a></li>
-            <li><a href="#">Data Quality Management</a></li>
-             
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/businessintelligence">Business Intelligence</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/sapcloud"> SAP Cloud Analytics</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/dataquality">Data Quality Management</a></li>
+
           </ul>
         </li>
-          
-          
+
+
           <li>
 
 
@@ -184,14 +184,14 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-9"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">Application Management Services</a></li>
-            <li><a href="#"> Infrastructure Management Services</a></li>
-            <li><a href="#">Database Management Services</a></li>
-             
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_management">Application Management Services</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/infastructure_management"> Infrastructure Management Services</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/database_management">Database Management Services</a></li>
+
           </ul>
         </li>
-          
-          
+
+
           <li>
 
 
@@ -199,11 +199,11 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-10"/>
           <ul class="InnerDropdown onlysm">
-            <li><a href="#">MSP (Mange Staffing Provider)</a></li>
-            <li><a href="#"> Consulting Work Force</a></li>
-            <li><a href="#">Permanent Placement</a></li>
-              <li><a href="#">Hybrid Model</a></li>
-             
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/msp">MSP (Mange Staffing Provider)</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/consulting_work_force"> Consulting Work Force</a></li>
+            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/permenant_placement">Permanent Placement</a></li>
+              <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/hybrid_model">Hybrid Model</a></li>
+
           </ul>
         </li>
 
