@@ -53,9 +53,17 @@
 -->
 
 
+                    <span class="Menu toggle" onclick="myFunction(this)">
+                <div class="bar1"></div>
+                <div class="bar2"></div>
+                <div class="bar3"></div>
+                </span>
+                    
+                    
                     <nav class="HeaderNavigation">
-                        <label for="drop" class="toggle Menubar">&#8801; Menu</label>
-                        <input type="checkbox" id="drop" />
+                       
+                
+
 
 
 <!--
@@ -85,7 +93,7 @@
 
 
           <label for="drop-3" class="toggle">Enterprise Applications </label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-3"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Oracle eBusiness Suite</a></li>
@@ -100,7 +108,7 @@
 
 
           <label for="drop-4" class="toggle">Emerging Technologies </label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-4"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Internet Of Things</a></li>
@@ -114,7 +122,7 @@
 
 
           <label for="drop-5" class="toggle">Application Development </label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-5"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Custom Application Development</a></li>
@@ -128,7 +136,7 @@
 
 
           <label for="drop-6" class="toggle">Quality Engineering </label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-6"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Functional Engineering</a></li>
@@ -142,7 +150,7 @@
 
 
           <label for="drop-7" class="toggle">Cognitive Technologies</label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-7"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Machine Learning</a></li>
@@ -158,7 +166,7 @@
 
 
           <label for="drop-8" class="toggle">Advance Analytics & Big Data</label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-8"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Business Intelligence</a></li>
@@ -173,7 +181,7 @@
 
 
           <label for="drop-9" class="toggle">Managed Services</label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-9"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">Application Management Services</a></li>
@@ -188,7 +196,7 @@
 
 
           <label for="drop-10" class="toggle">Staffing Services</label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-10"/>
           <ul class="InnerDropdown onlysm">
             <li><a href="#">MSP (Mange Staffing Provider)</a></li>
@@ -494,7 +502,7 @@
 
 
                                         <label for="drop-3" class="toggle">Works </label>
-                                        <a href="#">Works</a>
+                                        <a href="#" class="Label">Works</a>
                                         <input type="checkbox" id="drop-3" />
                                         <ul>
                                             <li><a href="#">HTML/CSS</a></li>
@@ -555,7 +563,7 @@
 
 
           <label for="drop-3" class="toggle">Works +</label>
-          <a href="#">Works</a>
+          <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-3"/>
           <ul>
             <li><a href="#">HTML/CSS</a></li>

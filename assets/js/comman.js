@@ -98,7 +98,7 @@ function myFunction(x) {
 
 $(document).ready(function() {
             $(".Menu").click(function() {
-                $('nav').slideToggle('slow');
+                $('.HeaderNavigation, .HeaderNavigation .menu').slideToggle('fast');
             });
             
     

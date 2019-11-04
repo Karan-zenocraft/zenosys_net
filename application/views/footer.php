@@ -651,6 +651,7 @@
 -->
 
 
+<!--
 <section class="AwardSection">
 <div class="container-fluid">
 <div class="row">
@@ -714,6 +715,7 @@
 </div>    
 </div>
 </section>
+-->
 
     <section class="GooleMap">
         <div class="container-fluid">
