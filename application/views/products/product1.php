@@ -42,13 +42,10 @@
             <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Product 1</h2>
-                   <ul>
-                       <li>Need for evolution and leveraging technological trends</li>
-                       <li>Striking the right balance of learning and technological involvement</li>
-                       <li>End-to-end solutions for better understanding and deep-rooted education</li>
-                       <li>Shoulder-to-shoulder with dynamically evolving environment</li>
-                   </ul>
+                    <h2 class="TitleH2">Polyglot DBMonitor</h2>
+                   <p class="TitleP">Enterprises are realizing the value of Polyglot Persistence - utilizing multiple data storage technologies, derived by the optimal persistence medium for an individual application or a function within an application. With third-party applications bundled with embedded databases and custom-applications using multipe databases, persistence-tier of an enterprise involves an average of 3-4 database-technologies involving relational and non-relational database stores.</p>
+                    <p class="TitleP">Leveraging different database technologies for optimal use brings along the onus of effectively monitoring the health of these data stores. Polyglot DBMonitor provides a normalized mechanism for managing/administering these database technologies. With low footprint agents running on servers housing your Oracle, Postgres, SQL Server, MySQL, Redis, etc databases, health data is pushed to the management-server, and, acted upon by a robust notification and alert system. </p>
+
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
