@@ -166,14 +166,33 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox img{height: 65px;transform: scale(1.0);transition: .8s all;margin: auto!important}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox:hover img{transform: scale(1.2);transition: .8s all;}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox h6{color: #595959;margin-bottom: 5px;font-weight: normal;text-transform: uppercase;}
-.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 11px;line-height: 13px;color: #666666;font-family:'Arial';padding: 0px 0px;margin-bottom: 0px;font-weight: normal;}
+.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 11px;line-height: 13px;color: #666666;font-family:'Arial';padding: 0px 0px;margin-bottom: 0px;font-weight: normal;text-transform: capitalize;}
 
 .WhyZenosys .WhyZenosysContent{padding-top: 75px;padding-bottom: 10px;}
-.WhyZenosys .WhyZenosysContent h2{color: #174477;margin-bottom: 40px;font-weight: bold;position: relative;}
+.WhyZenosys .WhyZenosysContent h2{color: #174477;margin-bottom: 50px;font-weight: bold;position: relative;}
 .WhyZenosys .WhyZenosysContent p{color: #6F7072;font-weight: normal;margin-bottom: 40px;padding-right: 86px;}
-.WhyZenosys .WhyZenosysContent h2:before{width: 105px;bottom: -20px;}
+.WhyZenosys .WhyZenosysContent h2:before{width: 105px;bottom: -15px;}
+.WhyZenosys .WhyZenosysContent ul{margin: 0;padding: 0;}
+.WhyZenosys .WhyZenosysContent ul li{font-size: 15px;
+    font-weight: normal;
+    line-height: 20px;
+    color: #6F7072;
+    position: relative;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    display: block;}
 
 
+.WhyZenosys .WhyZenosysContent ul li:after {
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    height: 5px;
+    width: 5px;
+    border-radius: 100px;
+    background: #174477;
+}
 /*-------------------CaseStudy----------------------*/
 .CaseStudy{background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;padding-top: 25px;padding-bottom: 100px;}
 .CaseStudy .CaseStudyInner h2{color: #ffffff;margin-bottom: 20px;text-align: center;font-weight: bold;}
@@ -237,7 +256,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-top: 75px;padding-left: 120px;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft h2{color: #174477;margin-bottom: 50px;font-weight: bold;position: relative;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft h2:before{width: 105px;bottom: -15px;}
-.SoftwareDevelopment  .SoftwareDevelopmentLeft li{font-size: 15px;font-weight: normal;line-height: 20px;color: #6F7072;position: relative;padding-left: 15px;margin-bottom: 20px;}
+.SoftwareDevelopment  .SoftwareDevelopmentLeft li{font-size: 15px;font-weight: normal;line-height: 20px;color: #6F7072;position: relative;padding-left: 15px;margin-bottom: 20px;display: block;}
 
 .SoftwareDevelopment  .SoftwareDevelopmentLeft li:after{content: '';position: absolute;left: 0px;top:10px;height: 5px;width: 5px;border-radius: 100px;background: #174477;}
 
@@ -263,11 +282,11 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .Social{padding-top: 20px;padding-bottom: 20px;background: #2c2e3a;}
 
 /*-------------------Footer----------------------*/
-footer{padding-top: 30px;padding-bottom: 25px;background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;}
+footer{padding-top: 30px;padding-bottom: 0px;background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;}
 footer .FooterInner  h2{color: #58abb7;font-weight: normal;margin-bottom: 20px;}
 footer .FooterInner .Address{margin-bottom: 25px;}
 footer .FooterInner .Address:last-child{mab}
-footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;}
+footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;margin-bottom: 0;}
 footer .FooterInner a:hover{text-decoration: none;}
 footer .FooterInner .Address .IconLeft{position: relative;}
 footer .FooterInner .Address .IconLeft i{position: absolute;color: #58abb7;font-size: 22px;height: 22px;}
@@ -482,7 +501,7 @@ li > a:only-child:after { content: ''; }
     .slide-content{
       margin: 0 0%;
 /*      padding: 50px 100px;*/
-      background: #fff;
+/*      background: #fff;*/
     }
  
   
@@ -566,7 +585,7 @@ li > a:only-child:after { content: ''; }
     position: relative;
     margin-bottom: 45px;
 }
-.ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 20px;}
+.ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 30px;}
 .ContactBox form label.error {
     z-index: 999!important;color: red;
     position: absolute;
@@ -683,7 +702,7 @@ li > a:only-child:after { content: ''; }
 
 
 
-.SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;}
+.SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;outline: none}
 .SendBtn{height: 40px;width: 180px;
     background: #174477;
     color: #fff;
@@ -706,7 +725,7 @@ li > a:only-child:after { content: ''; }
 .ContactBox .Location:before{content: ''; position: absolute;bottom: 0;right: 0;height: 65%;width: 1px;background: #174477;}
 */
 
-.ContactBox .LocationBoxs{padding: 15px;position: relative;border: 1px solid #a5a5a5}
+.ContactBox .LocationBoxs{padding: 15px;position: relative;border: 1px solid #a5a5a5;border-radius: 10px;}
 .ContactBox .LocationBoxs img{max-width: 50px;height: auto;display: block;margin: auto;}
 .ContactBox .LocationBoxs h3{text-align: center;font-size: 15px;
     color: #418f9a;margin-bottom: 5px;font-weight: bold;margin-top: 5px;}
@@ -720,6 +739,25 @@ li > a:only-child:after { content: ''; }
     bottom: -10px;}
 
 .ContactBox .LocationBoxs:hover img{transition: 0.8s all;transform: scale(1.1)}
+.WhyZenosys .Careers h2:before{width: 75px;}
+.WhyZenosys .Careers table thead{background: #174477;
+    color: #fff;}
+.WhyZenosys .Careers .table thead th{font-size: 15px;line-height: 20px;font-weight: 500;font-family: 'Arial';letter-spacing: 1px;}
+.WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 10px}
+.WhyZenosys .Careers .table td{font-size: 14px;
+    line-height: 20px;
+    font-weight: 200;
+font-family: 'Arial';letter-spacing: 1px;}
+.table-striped tbody tr:nth-of-type(odd){background-color: #F7F7F7;}
+.WhyZenosys .Careers p, .WhyZenosys .Careers ul{padding-right: 0px;}
+.WhyZenosys .Careers .table-responsive{width: 95%!important;padding-bottom: 40px;}
+.WhyZenosys  .CareersRight{padding-top: 150px;}
+.WhyZenosys  .CareersRight h3{color: #174477;font-weight: bold;margin-bottom: 20px;font-size: 20px;text-transform: uppercase}
+.WhyZenosys  .CareersRight p{margin-bottom: 15px;}
+
+/*.WhyZenosys .Careers h2{text-align: center;}*/
+
+/*.WhyZenosys .Careers h2:before{left: 0;right: 0;margin: auto;}*/
 
 /*
 .ContactBox form input{color: inherit;
@@ -823,3 +861,24 @@ nav ul li {
 }
 
 }
+
+
+
+
+
+.AwardSection{padding: 40px 0px;background: url(../images/footer-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-attachment: fixed;}
+.AwardSection .AwardsImgBox{height: 127px;
+    width: 210px;
+   border: 1px solid #c5d7ed;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+
+.AwardSection .AwardsImgBox img{opacity: 1;transition: 0.8s all;max-width: 55%;
+    transform: scale(1.0);
+    filter: grayscale(0);}
+.AwardSection .AwardsImgBox img:hover{transition: 0.8s all;opacity: 1;transform: scale(1.1);filter: grayscale(0);}

@@ -8,8 +8,33 @@
 //}); 
 
 
-
-$().ready(function(){
+if ($(window).width() < 768) {
+  $().ready(function(){
+  $('.slick-carousel').slick({
+    arrows: true,
+    centerPadding: "0px",
+    dots: true,
+      slidesToScroll: 1,
+    slidesToShow: 1,
+    infinite: false
+  });
+});
+}
+ else if($(window).width() < 992) {
+  $().ready(function(){
+  $('.slick-carousel').slick({
+    arrows: true,
+    centerPadding: "0px",
+    dots: true,
+      slidesToScroll: 2,
+    slidesToShow: 2,
+    infinite: false
+  });
+});
+}else{
+    
+    
+  $().ready(function(){
   $('.slick-carousel').slick({
     arrows: true,
     centerPadding: "0px",
@@ -18,7 +43,13 @@ $().ready(function(){
     slidesToShow: 4,
     infinite: false
   });
-});
+});  
+    
+}
+
+
+
+
 
 
 

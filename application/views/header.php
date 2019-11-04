@@ -73,8 +73,8 @@
                                 <a href="#" class="a arrow">Solutions</a>
                                 <input type="checkbox" id="drop-2" />
 
-<!-- this is for mobile device
-      <ul class="InnerMenu InnerMenu2 InnerMenu3">
+ 
+      <ul class="InnerMenu">
 
 
         <li>
@@ -99,7 +99,7 @@
 
 
       </ul>
--->
+
 
 
         <ul class="OnlyMobile">

@@ -241,6 +241,9 @@
 
 
 
+
+
+
     <section class="StaffingSolution">
         <div class="container-fluid">
             <div class="row">
@@ -647,6 +650,71 @@
     </section>
 -->
 
+
+<section class="AwardSection">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4">
+ Awards
+   
+</div>    
+<div class="col-md-8">
+<div class="row">
+<div class="d-flex align-items-center justify-content-center">
+<div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a1.png" class="img-fluid">
+    
+</div>  
+<div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a2.png" class="img-fluid">
+    
+</div>  
+
+    <div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a3.png" class="img-fluid">
+    
+</div>  
+
+    <div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a4.png" class="img-fluid">
+    
+</div>  
+
+    
+    
+</div> 
+</div> 
+    
+    <div class="row">
+<div class="d-flex align-items-center justify-content-center">
+<div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a5.png" class="img-fluid">
+    
+</div>  
+<div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a6.png" class="img-fluid">
+    
+</div>  
+
+    <div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a7.png" class="img-fluid">
+    
+</div>  
+
+    <div class="AwardsImgBox">
+<img src="<?php echo base_url(); ?>assets/images/a8.png" class="img-fluid">
+    
+</div>  
+
+    
+    
+</div> 
+</div> 
+</div>    
+</div>    
+</div>
+</section>
+
     <section class="GooleMap">
         <div class="container-fluid">
             <div class="row">
@@ -708,7 +776,7 @@
                             <div class="arrow-right"></div><a href="">Disclaimer</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
-                            <div class="arrow-right"></div><a href=""> Let’s Add More</a>
+                            <div class="arrow-right"></div><a href=""> Site Map</a>
                         </li>
 
                     </ul>
@@ -841,7 +909,7 @@
                 <div class="col-md-12 col-lg-4 FooterInner FooterInnerRight">
                     <h2 class="TitleH2">Office Tour</h2>
 
-                    <iframe width="300" height="185" src="https://www.youtube.com/embed/cTCBgTN64ik?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="300" height="165" src="https://www.youtube.com/embed/cTCBgTN64ik?rel=0&modestbranding=1&autohide=1&showinfo=0&controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
                 </div>

@@ -49,23 +49,85 @@
 
 
             <div class="row">
-                <div class="col-md-8 WhyZenosysContent">
+                <div class="col-md-7 WhyZenosysContent Careers">
                     <h2 class="TitleH2">Careers</h2>
-                    <p class="TitleP"><i>We are on a mission to enhance the pace of growth for businesses.</i></p>
-
-                    <p class="TitleP">
-                        The prevalent business environment has become fiercely competitive and the technological evolution has enabled us in working out perfect solutions for our clients across the globe.
-                    </p>
-                      <p class="TitleP">
-                        Through innovative technology, unwavering focus and sound accountability, we strive to deliver quality end-to-end solutions that help transform your ideas into tangible success. We are on a steady to stride to bring our solutions to businesses globally as a dependable partner through high quality, cost-effectiveness and creativity.
-                    </p>
-                    <p class="TitleP">
-                        Building and facilitating nurturing relationships defines our values and the same reflects in our practices, within and outside our organizations. As a strongly bound team, we grow together and succeed together. With our clients, we develop a relationship of trust, high effectiveness and flawless deliveries.
-                    </p>
+                    
+                    
+                    <div class="table-responsive">
+                    <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Job ID</th>
+        <th>Job</th>
+        <th>Location</th>
+        <th>Type</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+      <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+      <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+        <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+        <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+        <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+        <tr>
+        <td>ZS180425</td>
+        <td>Program Admin</td>
+        <td>Piscataway, NJ</td>
+        <td>Permanent</td>
+      </tr>
+    </tbody>
+  </table>
+                    </div>
 
                 </div>
-                <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
+                <div class="col-md-5 WhyZenosysContent Careers CareersRight">
+                    
+<!--                    <h2 class="TitleH2">Job Description</h2>-->
+                    
+                    <h3 class="TitleH3">Job Description</h3>
+                    <p><b>Skills description - BEA Weblogic Administrator</b></p>
+                    <p>BEA Weblogic technical expert/architect with 2-5 years experience managing production-level BEA Weblogic application servers. Should have experience with:</p>
+                    <ul>
+                    <li>Basic system configuration parameters</li>  
+                    <li>System monitoring</li>  
+                    <li>Creating and managing database connections</li>  
+                    <li>Creating and managing JMS queues</li>  
+                    <li>Experience deploying applications in a production environment</li>
+                        
+                    </ul>
+                    
+                    
                  </div>
 
             </div>
