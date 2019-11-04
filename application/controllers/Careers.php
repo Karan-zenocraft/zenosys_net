@@ -7,11 +7,13 @@ class Careers extends MY_Controller
     public function __construct()
     {
         parent::__construct();
+        $this->load->model('CareersModel');
     }
 
     public function index()
     {
-        $this->load->view('careers/career');
+        $this->data['jobs'] = $this->CareersModel->getOpenings();
+        $this->load->view('careers/career', $this->data);
     }
 
 }
