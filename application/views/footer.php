@@ -942,7 +942,7 @@
 
 
 
-                <div class="col-md-12 d-flex align-items-center justify-content-start">
+                <div class="col-md-6 d-flex align-items-center justify-content-start">
 
                     <div class="Address">
                         <a class="TitleP" href="mailto:info@zenosys.net" style="color: #728194">2019 © Copyrights Zenosys Services</a>
@@ -950,7 +950,13 @@
 
                 </div>
 
+                    <div class="col-md-6 d-flex align-items-center justify-content-end">
 
+                    <div class="Address">
+                        <a class="TitleP" href="mailto:info@zenosys.net" style="color: #728194">Zenosys Brochure <i class="fa fa-download ml-1"></i> </a>
+                    </div>
+
+                </div>
 
             </div>
 

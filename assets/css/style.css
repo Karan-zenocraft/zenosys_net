@@ -312,7 +312,7 @@ footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!i
 .Social .SiteMap li:first-child{margin-left: 0px}
 .Social .SiteMap li a{color: #fff;font-size: 16px;font-weight: normal;font-family: 'Arial';line-height: 25px;}
 
-
+footer .col-md-6.justify-content-end{padding-right: 60px;}
 footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: unset!important}
 
 
