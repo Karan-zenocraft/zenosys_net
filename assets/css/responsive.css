@@ -212,6 +212,7 @@ h1, .TitleH1{font-size: 13px;line-height: 17px;}
 .Bg-Dark{margin-bottom: 0px;padding: 5px 0px;}
     .WhyZenosys .WhyZenosysInner{margin: 0px 0px!important;}
     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-bottom: 20px!important;padding-top: 20px!important;}
+    .StaffingSolution .StaffingSolutionInnerLeft{height: 175px;background-position: 100% 50%;}
 }
 
 @media (min-width: 992px) and (max-width: 1024px){
@@ -291,7 +292,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
      .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 180px;}
     .CaseStudyBox .container{padding: 0px}
     .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;}
-    .StaffingSolution .StaffingSolutionInnerLeft {background-position: 95% 50%;}
+    .StaffingSolution .StaffingSolutionInnerLeft {background-position: 85% 50%;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;}
     .SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{bottom: 0;}
     .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 400px;bottom: 0;}
@@ -339,6 +340,8 @@ h1, .TitleH1{font-size: 20px;line-height: 28px;}
 .Bg-Dark{margin-bottom: 0px;padding: 6px 0px;}
     .slick-next{right: 10px;}
     .slick-prev{left: 10px;}
+    
+    .StaffingSolution .StaffingSolutionInnerLeft{height: 300px;background-position: 85% 50%;}
 }
 
 
@@ -352,7 +355,7 @@ h1, .TitleH1{font-size: 16px;line-height: 22px;}
 .Bg-Dark{margin-bottom: 0px;padding: 4px 0px;}
     
     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-left: 40px!important;padding-right: 40px!important;}   
-    
+    .StaffingSolution .StaffingSolutionInnerLeft{height: 200px;background-position: 100% 50%;}
 }
   
 @media only screen and (max-width: 767px){

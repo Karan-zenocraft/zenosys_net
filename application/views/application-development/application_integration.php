@@ -39,7 +39,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Application Integration</h2>
@@ -52,8 +52,10 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
+                    
                  </div>
+                
+                <img src="<?php echo base_url(); ?>assets/images/app-integration.png" class="img-fluid CommanImg" style="width:22%">
             </div>
 
 

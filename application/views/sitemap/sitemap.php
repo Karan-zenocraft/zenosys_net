@@ -54,17 +54,219 @@
             <div class="row CustomeRows">
 
 
-                <div class="col-md-8 WhyZenosysContent">
+                <div class="col-md-12 WhyZenosysContent SiteMap">
                     <h2 class="TitleH2">Sitemap</h2>
                     <p class="TitleP"></p>
+                    <div class="row">
+                    <label>Solutions</label>
+                    
+                    
+                    </div>
+                    
+                    
+                    <div class="row">
+                       
+                        
+                        <div class="col-md-3">
+                       
+                       <ul>
+                        <label>Enterprise Applications</label>
+                        <li><a href="/enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
+                        <li><a href="/enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
+                           <li><a href="/enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
+                        </ul> 
+                        
+                        
+                        <ul>
+                        <label>COGNITIVE TECHNOLOGIES</label>
+                        <li><a href="/zenosys_net/cognitiveTechnologies/machine_learning">Machine Learning</a></li>
+                        <li><a href="/zenosys_net/cognitiveTechnologies/data_science"> Data Science</a></li>
+                        <li><a href="/zenosys_net/cognitiveTechnologies/deep_learning">Deep Learning Technologies</a></li>
+                        <li><a href="/zenosys_net/cognitiveTechnologies/artificial_intelligence">Artificial Intelligence</a></li>
+                        <li><a href="/zenosys_net/cognitiveTechnologies/predective_analytics">Predictive Analytics</a></li>
+                            
+                        </ul>
+                        
+                        
+                    
+                            </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                        <ul>
+                        <label>Application Development</label>
+                        <li><a href="/zenosys_net/ApplicationDevelopment/custom_application_development">Custom Application Development</a></li>
+                            <li><a href="/zenosys_net/ApplicationDevelopment/application_integration">Application Integration</a></li>
+                            <li><a href="/zenosys_net/ApplicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
+                        </ul>
+                        
+                        <ul>
+                        <label>Quality Engineering</label>
+                            <li><a href="/zenosys_net/qualityEngineering/functional_engineering">Functional Engineering</a></li>
+                            <li><a href="/zenosys_net/qualityEngineering/automation">Automation</a></li>
+                            <li><a href="/zenosys_net/qualityEngineering/performance_engineering">Performance Engineering</a></li>
+                        
+                        </ul>
+                        
+                        
+                        </div>
+                        
+                        <div class="col-md-3">
+                            
+                            <ul>
+                       <label>Emerging Technologies</label>
+                        <li><a href="/zenosys_net/emergingTechnologies/internet_of_things">Internet Of Things</a></li>
+                        <li><a href="/zenosys_net/emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
+                        <li><a href="/zenosys_net/emergingTechnologies/augmented_reality">Augmented Reality &amp; Virtual Reality</a></li>
+                        </ul>
+                        
+                            
+                        <ul>
+                        <label>Advance Analytics &amp; Big Data</label>
+                            <li><a href="/zenosys_net/bigData/businessintelligence">Business Intelligence</a></li>
+                            <li><a href="/zenosys_net/bigData/sapcloud">SAP Cloud Analytics</a></li>
+                            <li><a href="/zenosys_net/bigData/dataquality">Data Quality Management</a></li>
+                            
+                        </ul>
+                            
+                        
+                        
+                        
+                        </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                        
+                        <ul>
+                        <label>MANAGED SERVICES</label>
+                        <li><a href="/zenosys_net/managedServices/application_management">Application Management Services</a></li>
+                        <li><a href="/zenosys_net/managedServices/infastructure_management">Infrastructure Management Services</a></li>
+                        <li><a href="/zenosys_net/managedServices/database_management">Database Management Services</a></li>
+                        </ul>
+                        <ul>
+                        <label>Staffing Services</label>
+                        <li><a href="/zenosys_net/staffingServices/msp">MSP (Mange Staffing Provider)</a></li>
+                        <li><a href="/zenosys_net/staffingServices/consulting_work_force">Consulting Work Force</a></li>
+                        <li><a href="/zenosys_net/staffingServices/permenant_placement">Permanent Placement</a></li>
+                        <li><a href="/zenosys_net/staffingServices/hybrid_model">Hybrid Model</a></li>
+                            
+                        </ul>
+                        
+                        </div>
+                        
+                        
+                        </div>
+                    
+                    
+                    <div class="row">
+                    <div class="col-md-6">
+                    <div class="row">
+                    <label>Products </label>
+                    
+                    
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                    <ul>
+                      <li><a href="/zenosys_net/products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>  
+                        <li><a href="/zenosys_net/products/product2">Product 2</a></li>
+                        <li><a href="/zenosys_net/products/product3">Product 3</a></li>
+                        <li><a href="/zenosys_net/products/product4">Product 4</a></li>
+                    </ul>
+                    
+                    </div>
+                        
+                        <div class="col-md-6">
+                    <ul>
+                      <li><a href="/zenosys_net/products/product5">Product 5</a></li>
+                       <li><a href="/zenosys_net/products/product6">Product 6</a></li>
+                       <li><a href="/zenosys_net/products/product7">Product 7</a></li>
+                       <li><a href="/zenosys_net/products/product8">Product 8</a></li>
+                    </ul>
+                    
+                    </div>
+                    </div>
+                        
+                    </div>
+                    
+                    
+                    <div class="col-md-6">
+                    <div class="row">
+                    <label>Industries  </label>
+                    
+                    
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                    <ul>
+                      <li><a href="/zenosys_net/industries/financialindustries">Financial Services</a></li>
+                        <li><a href="/zenosys_net/industries/governmentbodies">Government Bodies</a></li>
+                        <li><a href="/zenosys_net/industries/educationindustry">Education Industry</a></li>
+                       <li><a href="/zenosys_net/industries/retailindustries">Retail, Distribution &amp; eCommerce</a></li>
+                    </ul>
+                    
+                    </div>
+                        
+                        <div class="col-md-6">
+                    <ul>
+                      <li><a href="/zenosys_net/industries/teleindustries">Telecommunication</a></li>
+                       <li><a href="/zenosys_net/industries/healthcareindustries">Healthcare Industry</a></li>
+                       <li><a href="/zenosys_net/industries/manufacuringindustries">Manufacturing Industry</a></li>
+                       
+                    </ul>
+                    
+                    </div>
+                    </div>
+                        
+                    </div>
+                        </div>
+                    
+                    <div class="row">
+                    <div class="col-md-3">
+                        
+                    <label>Engagement Models</label>
+                    <ul>
+                       <li><a href="/zenosys_net/models/onshore">On-site Delivery Model</a></li> 
+                        <li><a href="/zenosys_net/models/bot">BOT Model Turnkey Model</a></li>
+                        <li><a href="/zenosys_net/models/offshore">Offshore Model</a></li>
+                        <li><a href="/zenosys_net/models/hybrid">Hybrid Model</a></li>
+                    </ul>    
+                        
+                    </div>
+                        
+                        <div class="col-md-3">
+                        
+                        <label>Company</label>
+                        
+                        </div>
+                        
+                        <div class="col-md-3">
+                        
+                        <label>Careers</label>
+                        
+                        </div>
+                        
+                        <div class="col-md-3">
+                        
+                        <label>Contact Us</label>
+                        
+                        </div>
+                        
+                    
+                    
+                    
+                    </div>
+                    
 
                 </div>
-                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-
-                </div>
+                
 
 
-                 <img src="<?php echo base_url(); ?>assets/images/home-2.png" class="img-fluid CommanImg">
+<!--                 <img src="<?php echo base_url(); ?>assets/images/home-2.png" class="img-fluid CommanImg">-->
             </div>
 
 
