@@ -9,37 +9,36 @@ class Products extends MY_Controller
         parent::__construct();
     }
 
+    public function supply_chain()
+    {
+        $this->load->view('products/supply_chain');
+    }
+    public function churn_predict()
+    {
+        $this->load->view('products/churn_predict');
+    }
+    public function my_view_security()
+    {
+        $this->load->view('products/my_view_security');
+    }
+    public function vrdrive_walkthrough()
+    {
+        $this->load->view('products/vrdrive_walkthrough');
+    }
+    public function degree360_hrms()
+    {
+        $this->load->view('products/degree360_hrms');
+    }
+    public function jakaru_postgres_bdr()
+    {
+        $this->load->view('products/jakaru_postgres_bdr');
+    }
     public function polyglot_dbmonitor()
     {
-        $this->load->view('products/product1');
+        $this->load->view('products/polyglot_dbmonitor');
     }
-
-    public function product2()
+    public function warehouse_controller()
     {
-        $this->load->view('products/product2');
-    }
-    public function product3()
-    {
-        $this->load->view('products/product3');
-    }
-    public function product4()
-    {
-        $this->load->view('products/product4');
-    }
-    public function product5()
-    {
-        $this->load->view('products/product5');
-    }
-    public function product6()
-    {
-        $this->load->view('products/product6');
-    }
-    public function product7()
-    {
-        $this->load->view('products/product7');
-    }
-    public function product8()
-    {
-        $this->load->view('products/product8');
+        $this->load->view('products/warehouse_controller');
     }
 }

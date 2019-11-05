@@ -176,9 +176,9 @@
           </ul>
         </li>
 
-          
-          
-          
+
+
+
 
           <li>
 
@@ -478,14 +478,14 @@
                                 <a href="#" class="a arrow">Products</a>
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2 DD22">
+                                    <li><a href="<?php echo base_url(); ?>products/supply_chain">Always Ahead - Supply Chain</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/churn_predict">ChurnPredict - K Factor</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/my_view_security">MyView - Security</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/vrdrive_walkthrough">VRDrive WalkThrough</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/degree360_hrms">Degree360 HRMS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product2">Product 2</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product3">Product 3</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product4">Product 4</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product5">Product 5</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product6">Product 6</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product7">Product 7</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/product8">Product 8</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/warehouse_controller">Warehouse Controller</a></li>
                                 </ul>
                             </li>
                             <li>

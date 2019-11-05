@@ -756,11 +756,6 @@
 
     </section>
 
-
-
-
-
-
     <section class="Social">
         <div class="container">
             <div class="row">
@@ -769,13 +764,13 @@
 
                     <ul class="d-flex align-items-center justify-content-center SiteMap">
                         <li class="d-flex align-items-center justify-content-start">
-                            <div class="arrow-right"></div><a href="">Home</a>
+                            <div class="arrow-right"></div><a href="<?php echo base_url(); ?>">Home</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
-                            <div class="arrow-right"></div><a href="">Terms of Use</a>
+                            <div class="arrow-right"></div><a href="<?php echo base_url(); ?>contactUs">Contact Us</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
-                            <div class="arrow-right"></div><a href="">Disclaimer</a>
+                            <div class="arrow-right"></div><a href="<?php echo base_url(); ?>careers">Current Openings</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
                             <div class="arrow-right"></div><a href="<?php echo base_url(); ?>sitemap"> Site Map</a>
