@@ -22,5 +22,9 @@ class EnterpriseApplications extends MY_Controller
     {
         $this->load->view('enterprise-applications/odoo');
     }
+    public function oracle_apex()
+    {
+        $this->load->view('enterprise-applications/oracle_apex');
+    }
 
 }

@@ -1,12 +1,10 @@
         <div class="container">
-           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+      <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">MSP (Manage Staffing Provider)</h6>
+                    <p>A one stop solution for workforce recruitment</p>
 
                 </div>
                 </div>
@@ -15,31 +13,25 @@
 
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Consulting Work Force</h6>
+                    <p>For a specialized team that partners your ideas</p>
                 </div>
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Permanent Placement</h6>
+                    <p>The power to build your dream team without all the hassle</p>
 
                 </div>
                 </div>
-                <div>
+                        <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">INNOVATION</h6>
-                    <p>Scalia is future-proof best-of-breed
-                        premium theme with unlimited styling
-                        customization options</p>
+                    <h6 class="TitleH6">Hybrid Model</h6>
+                    <p>Hybrid Model</p>
 
                 </div>
                 </div>
@@ -52,12 +44,9 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Hybrid Model</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                 <p class="TitleP">Big ideas make room for great success, but to realize big ideas, a complimenting workforce is needed. The right people with the right skillset are imperative in bringing big plans to fruition.That’s where Zenosys becomes the most dependable partner for you.</p>
+
+                 <p class="TitleP">Our detailed screening and acquiring process, gives us the access to some of the best, efficient and highly talented human resource who have garnered credible experience. We at Zenosys, provide such organizations that are on a mission, with the required workforce to succeed.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

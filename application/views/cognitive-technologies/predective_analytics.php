@@ -1,39 +1,47 @@
         <div class="container">
-            <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
-
-                <div class="col-md-3 WhyZenosysInnerBox">
+            <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+ <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Machine Learning</h6>
+                    <p>Make room for the new-age self learning system</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+            </div>
+            <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Data Science</h6>
+                    <p>The power of data to chart your path to success</p>
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+                </div>
+                <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Deep Learning Technologies</h6>
+                    <p>Technological transformation for unparalleled potential</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+                </div>
+               <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">INNOVATION</h6>
-                    <p>Scalia is future-proof best-of-breed
-                        premium theme with unlimited styling
-                        customization options</p>
+                    <h6 class="TitleH6">Artificial Intelligence</h6>
+                    <p>Smart AI solutions for demanding projects and ideas</p>
 
+                </div>
+                </div>
+                  <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+
+                    <h6 class="TitleH6">Predictive Analytics</h6>
+                    <p>The power to stay one step ahead and plan for the future</p>
+
+                </div>
                 </div>
 
             </div>
@@ -43,16 +51,12 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Predictive Analytics</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                    <p class="TitleP">Predictive Analytics is a constellation of intricate processes including data mining, predictive modeling and and machine learning in order to asses data from the past as well as present, to make accurate predictions about the future. For Businesses, this can help improve decision making manifolds by analyzing data and presenting opportunities, risks, potential, etc. The scope and applicability of the technology to diverse industries has attracted attention from across the world.</p>
+                    <p class="TitleP">We at Zenosys, help business build and deploy smart predictive analytics solutions that enhance capabilities and empower you in staying one step ahead. Our deeply experienced team brings to creation, cutting-edge solutions based on your existing data, processes, market patterns, etc, to help improve decision making, functionality as well as profitability.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    
+
                  </div>
                 <img src="<?php echo base_url(); ?>assets/images/predictive-analysis.png" class="img-fluid CommanImg" style="width:30%">
             </div>

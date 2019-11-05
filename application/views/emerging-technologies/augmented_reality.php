@@ -1,39 +1,26 @@
         <div class="container">
-           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+             <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Internet of Things</h6>
+                    <p>Leverage IOT and empower your business operations</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Block-chain Technologies</h6>
+                    <p>A digital ledger for superior efficiency and transparency</p>
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Augmented Reality and Virtual Reality</h6>
+                    <p>The power to create incredible experiencesp</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -41,9 +28,7 @@
                         premium theme with unlimited styling
                         customization options</p>
 
-                </div>
-                </div>
-
+                </div> -->
 
             </div>
 
@@ -52,12 +37,12 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Augmented reality and Virtual Reality</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                   <p class="TitleP">
+                       In the prevalent competitive environment, it becomes an extreme necessity for brands to enhance customer experience. Virtual Reality and Augmented Reality are the incredible tools that have gained rapid popularity in the domain.
+                    </p>
+                    <p class="TitleP">
+                       Virtual Reality facilitates an incredible three dimensional, immersive experience, where as Augmented Reality brings a life-like experience to users. Zenosys specializes in building versatile as well as innovative solutions that harness the power of AR and VR, empowering your brand to stand out from the rest, while building long-term brand recall.
+                    </p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
