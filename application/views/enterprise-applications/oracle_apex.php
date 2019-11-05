@@ -1,5 +1,5 @@
         <div class="container">
-           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+      <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
@@ -43,10 +43,10 @@
             <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Oracle E-Buiseness Suite</h2>
-                    <p class="TitleP">Initially launched in 1980s and further refined in 2009, Oracle E-Business Suite brings to you a host of functional modules that help enhance efficiency using the Oracle RDBMS, a proprietary multi-model database management system that is widely utilized for functions such as online transaction processing, data warehousing as well as mixed database workloads.</p>
+                    <h2 class="TitleH2">Oracle Apex</h2>
+                 <p class="TitleP">Oracle Application Express, popularly known as Oracle Apex is a web-based software development platform that is powered by the Oracle Database. It is due to factors such as easy deployment, scalability, easy mock-up creations, etc. along with a strong user community, Oracle Apex is rapidly gaining popularity and is being utilized by developers, business and enterprises around the globe.</p>
 
-                <p class="TitleP">We at Zenosys, help evolving business models and organizations in leveraging high functionality that the Oracle E-Business Suite offers, by creating tailored-to-fit solutions that increase productivity while performing brilliantly on the demands of the modern mobile user.</p>
+                 <p class="TitleP">Our team of experienced and passionate experts have successfully undertaken numerous projects and have developed complex web applications that are compatible even with the most modern web browsers.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

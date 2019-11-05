@@ -1,39 +1,26 @@
         <div class="container">
-           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+             <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Application Management Services</h6>
+                    <p>Flawless and unhindered working for your applications</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Infrastructure Management Services</h6>
+                    <p>Enhanced dependability and efficiency for all your processes</p>
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Database Management Services</h6>
+                    <p>Value driven data for efficiency you can count on</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -41,30 +28,26 @@
                         premium theme with unlimited styling
                         customization options</p>
 
-                </div>
-                </div>
-
+                </div> -->
 
             </div>
 
 
-            <div class="row CustomeRows">
+            <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Application Management Services</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                   <p class="TitleP">
+                      In the current era, applications have come to become an integral part of how brands communicate, work, deliver content as well as undertake many other functions. This necessitates that the apps work flawlessly and provide a quality experience to the user every single time. Application Management Services do just that. They help manage and monitor your application.
+                    </p>
+                    <p class="TitleP">
+                       The Application Management Team at Zenosys takes up the responsibility of ensuring that these apps are always exceeding performance expectations, while managing and releasing patches, bug fixes and enhancements to ensure tremendous results and undisputed working.
+                    </p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    
+                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
                  </div>
-                 <img src="<?php echo base_url(); ?>assets/images/application-management.png" class="img-fluid CommanImg" style="width:40%">
-               
             </div>
 
 

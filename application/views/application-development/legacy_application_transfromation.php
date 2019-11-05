@@ -1,32 +1,26 @@
         <div class="container">
-            <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+                  <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
 
-                <div class="col-md-3 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Custom Application Development</h6>
+                    <p>Building smart and efficient applications from a scratch</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Application Integration</h6>
+                    <p>Easy and hassle free integration for new applications</p>
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Legacy Application Transformation</h6>
+                    <p>Intelligent and value-driven transformation of your app</p>
 
                 </div>
-                <div class="col-md-3 WhyZenosysInnerBox">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -34,7 +28,7 @@
                         premium theme with unlimited styling
                         customization options</p>
 
-                </div>
+                </div> -->
 
             </div>
 
@@ -43,18 +37,14 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Legacy Application Transformation</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                 <p class="TitleP">Legacy Transformation is the process of modernizing and revamping a system of operations to ensure extended value from that system. The aim is to transform an existing system into a better and evolved version, that performs better and is shoulder-to-shoulder with the evolving technologies.</p>
+                <p class="TitleP">The application development team at Zenosys utilizes a proven and set method of bringing such projects to fruition that generates promising results every time. Our approach towards Legacy Application Transformation projects is always driven by technology. Our motive is to equip such app with the power of evolving technology, while being perfectly in sync with the client’s requirement as well as budget.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    
+
                  </div>
-                
+
                 <img src="<?php echo base_url(); ?>assets/images/legacy-app-tranformation.png" class="img-fluid CommanImg" style="width:38%">
             </div>
 

@@ -97,8 +97,9 @@
           <input type="checkbox" id="drop-3"/>
           <ul class="InnerDropdown onlysm DD55">
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
-            <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
-            <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
+            <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP S / 4HANA</a></li>
+            <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo</a></li>
+            <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle_apex">Oracle Apex</a></li>
           </ul>
         </li>
 
@@ -231,8 +232,9 @@
           <input type="checkbox" id="drop-11"/>
           <ul>
               <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
-                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
-                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP S / 4HANA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle_apex">Oracle Apex</a></li>
           </ul>
         </li>
 
@@ -355,8 +357,9 @@
                                     <label>Enterprise Applications</label>
 
                                     <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
-                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
-                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP S / 4HANA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo</a></li>
+                                    <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle_apex">Oracle Apex</a></li>
 
 
                                         </div>

@@ -1,39 +1,26 @@
         <div class="container">
-           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+             <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Functional Engineering</h6>
+                    <p>Increased efficiency and uniformity across all operations</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Automation</h6>
+                    <p>Increased efficiency and uniformity across all operations</p>
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Performance Engineering</h6>
+                    <p>Perfecting performance for unparalleled productivityp</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -41,9 +28,7 @@
                         premium theme with unlimited styling
                         customization options</p>
 
-                </div>
-                </div>
-
+                </div> -->
 
             </div>
 
@@ -52,12 +37,12 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Performance Engineering</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                   <p class="TitleP">
+                       Applications often fail to perform flawlessly and thus, end up disappointing the end-user. This is exactly where Performance Engineering comes in. It is a comprehensive process that can be applied during or after the software development cycle, to ensure that the resulting outcome is perfectly in sync with the expectations and meets the performance parameters.
+                    </p>
+                    <p class="TitleP">
+                       We at Zenosys, are at the top of our game and are completely focused towards enhancing the performance of such applications. Our robust process includes creating and defining performance parameters, measuring, analyzing and deriving solutions that cater to the pain points- a process that has gotten the best results, every single time.
+                    </p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

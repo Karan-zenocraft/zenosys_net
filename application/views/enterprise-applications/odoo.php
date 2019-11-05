@@ -1,12 +1,10 @@
         <div class="container">
-           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+      <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Oracle eBusiness Suite</h6>
+                    <p>Seamless integration of tool for great performance</p>
 
                 </div>
                 </div>
@@ -15,31 +13,25 @@
 
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">SAP S / 4HANA</h6>
+                    <p>The uber ERP system for enhanced productivity</p>
                 </div>
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Odoo</h6>
+                    <p>The subscription based software for all your operational needs</p>
 
                 </div>
                 </div>
-                <div>
+                        <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">INNOVATION</h6>
-                    <p>Scalia is future-proof best-of-breed
-                        premium theme with unlimited styling
-                        customization options</p>
+                    <h6 class="TitleH6">Oracle APEX</h6>
+                    <p>A smart software building platform for everyone</p>
 
                 </div>
                 </div>
@@ -52,12 +44,9 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Odoo / Oracle Apex</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                 <p class="TitleP">Oddo is a one-stop business software solution that includes a host of diverse services such as CRM, e-commerce websites, manufacturing, accounting, billing as well as project and warehouse management. The latest version of Oddo provides the user with a subscription based proprietary enterprise software and cloud-hosted software, as a service. </p>
+
+                 <p class="TitleP">The specialized team at Zenosys has worked with Odoo and its features for a range of projects and has made the most of the benefits provided by the system such as extensible architecture, field services, eLearning as well as payroll and recruitment solutions.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

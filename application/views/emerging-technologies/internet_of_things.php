@@ -1,39 +1,26 @@
         <div class="container">
-               <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+             <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Internet of Things</h6>
+                    <p>Leverage IOT and empower your business operations</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Block-chain Technologies</h6>
+                    <p>A digital ledger for superior efficiency and transparency</p>
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Augmented Reality and Virtual Reality</h6>
+                    <p>The power to create incredible experiencesp</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -41,9 +28,7 @@
                         premium theme with unlimited styling
                         customization options</p>
 
-                </div>
-                </div>
-
+                </div> -->
 
             </div>
 
@@ -52,12 +37,12 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Internet of Things</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                   <p class="TitleP">
+                       Internet of Things is the one of the latest emerging technologies which connects independent processes. It is the concept of connecting different systems, devices, people, etc to the internet and other devices. It is a cluster that allows information and data sharing between different systems and facilitates increased functionality as well as efficiency in screening important data.
+                    </p>
+                    <p class="TitleP">
+                       We at Zenosys, approach IOT projects with a simple and well curated process that generates flawless results every single time. We identify the pain points, create road maps, set benchmarks and help transform the business process using IOT, creating a strategy driven balance between technology and business.
+                    </p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

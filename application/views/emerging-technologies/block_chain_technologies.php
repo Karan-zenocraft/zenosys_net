@@ -1,39 +1,26 @@
         <div class="container">
-                <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+             <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">RESPONSIBILITY</h6>
-                    <p>Equipped with industry's leading page
-                        builder & admin panel. With lifetime
-                        support for any questions</p>
+                    <h6 class="TitleH6">Internet of Things</h6>
+                    <p>Leverage IOT and empower your business operations</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">COMMITMENT</h6>
-                    <p>Bunch of styles, features, elements &
-                        samples give you an absolute design
-                        freedom in creating webpages</p>
+                    <h6 class="TitleH6">Block-chain Technologies</h6>
+                    <p>A digital ledger for superior efficiency and transparency</p>
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                <div class="col-md-4 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">TEAM WORK</h6>
-                    <p>With Scalia you will make beautiful
-                        pixel perfect pages, with every element
-                        precisely positioned</p>
+                    <h6 class="TitleH6">Augmented Reality and Virtual Reality</h6>
+                    <p>The power to create incredible experiencesp</p>
 
                 </div>
-                </div>
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">INNOVATION</h6>
@@ -41,9 +28,7 @@
                         premium theme with unlimited styling
                         customization options</p>
 
-                </div>
-                </div>
-
+                </div> -->
 
             </div>
 
@@ -51,13 +36,13 @@
             <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Block-Chain Technologies</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                    <h2 class="TitleH2">Block-chain Technologies</h2>
+                   <p class="TitleP">
+                       An ingenious invention, a digital ledger, a booming and in-demand technology- Block-chain. In the most simplest words, a blockchain is a time-stamped series of rigid transaction data that is recorded and managed by a group of computers. The blockchain technology is a simple and efficient way of transporting information from one point to other.
+                    </p>
+                    <p class="TitleP">
+                       The team at Zenosys addresses client requirements for blockchain globally. We offer blockchain consulting, as well as end-to-end blockhain solution including technology implementation, integration and support. Our expertise with adjacent technologies also enables us in enhancing the value driven out of the solution.
+                    </p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
