@@ -85,13 +85,9 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Financial Services</h2>
-                    <ul>
-                  <li>Increasing pace of global development and rising need of stepping-up the game</li>
-                  <li>Need for better and improved customer experience</li>
-                  <li>Technological advancement in Portfolio management & Blockchain transaction</li>
-                  <li>The right blend of technology & sustainability</li>
-              </ul>
+                    <p class="TitleP">With the current pace of global development, financial firms face the need of stepping up their game to make sure the customers are satisfied. In a competitive environment, ever advancing technology in services such as portfolio management and blockchain transaction, enshroud their own challenges and risks.</p>
 
+                   <p class="TitleP">We address such intricate challenges for financial firms globally and have succeeded in providing them with tailored-to-fit solutions through a perfect blend of technology and sustainability.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
                     <img src="<?php echo base_url(); ?>assets/images/finance.png" width="100%" height="100%">
