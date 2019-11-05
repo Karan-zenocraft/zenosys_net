@@ -147,7 +147,7 @@
                 </div>
 
                         <div class="form-group captcha">
-                            <div class="g-recaptcha" data-sitekey="6LfKURIUAAAAAO50vlwWZkyK_G2ywqE52NU7YO0S" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                            <div class="g-recaptcha" data-sitekey="6LdtG8EUAAAAAOPhY_b0YK_QZ6TTkZ9ImOKUcC30" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
                             <input class="form-control d-none" data-recaptcha="true" required data-error="Please complete the Captcha">
                             <div class="help-block with-errors"></div>
                         </div>
