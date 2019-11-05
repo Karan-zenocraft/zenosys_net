@@ -85,13 +85,8 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Retail, Distribution & eCommerce </h2>
-                    <ul>
-                       <li>No barrier to entry, healthy and proliferated competition</li>
-                       <li>Striving to mark a sizable share in market</li>
-                       <li>The need to improve user experience and curating business functions</li>
-                       <li>The right IT solutions for better insights, better forecasts, meeting goals and succeeding</li>
-
-                   </ul>
+                    <p class="TitleP">For Retail, Distribution and eCommerce clients, the endeavour to reach revenue targets and mark a sizable share in the market is eternal.</p>
+                   <p class="TitleP">Through ERP systems, improvements in user-experience and curating business practices, Zenosys helps them generate the right insights and better forecast market potential to meet growth milestones and succeed..</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

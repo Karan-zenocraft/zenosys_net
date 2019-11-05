@@ -85,12 +85,8 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Telecommunication</h2>
-                   <ul>
-                       <li>Ever expanding bandwidths, cost-competitiveness and sluggish growth of subscriber base</li>
-                       <li>Numerous barriers to the pace of growth and achieving success</li>
-                       <li>Dedicated solutions for simplifying complex processes, substantial profitability</li>
-                       <li>Better experience and satisfaction for subscribers</li>
-                   </ul>
+                   <p class="TitleP">Ever expanding bandwidths, cost-competitiveness and sluggish growth of subscriber base, in an aggressively competitive market, restrict the investment potential for telecommunication ventures. </p>
+                   <p class="TitleP">We at Zenosys, craft dedicated solutions for such ventures that help simplify the complexity of intricate processes and ensure substantial increase in profitability, coupled with benefits of additional services for subscribers and harmonization of operations.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

@@ -85,12 +85,8 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Manufacturing Industry</h2>
-                    <ul>
-                    <li>Wave of technological advancement- the driving force of successful and large manufacturers</li>
-                    <li>Tremendous scope of IOT and seamless personalization with features such as big data analytics, technologically orchestrated floors, etc.</li>
-                    <li>Curating processes such as production and supply chain with intelligent IT solutions</li>
-                    <li>Weaving cutting-edge innovations in daily operations with acute focus on cost effectiveness</li>
-                    </ul>
+                   <p class="TitleP">The Manufacturing industry is welcoming a wave of technological innovations. IOT and smart manufacturing are facilitating seamless personalization while data Big Data Analytics are transforming archaic factory layouts into technologically orchestrated floors. </p>
+                   <p class="TitleP">Well curated product, customer and supply chain databases can facilitate intelligent and well calculated decisions. Zenosys helps manufacturing industries transform the way they function while weaving cutting-edge innovations into their daily operations with acute focus on cost effectiveness.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
                     <img src="<?php echo base_url(); ?>assets/images/industry.png" width="100%" height="100%">

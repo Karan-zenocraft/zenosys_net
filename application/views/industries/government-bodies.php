@@ -85,14 +85,9 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Government Bodies</h2>
-                    <ul>
-                        <li>Increased efficiency, the need of the hour</li>
-                        <li>Better and convenient access to services</li>
-                        <li>Technological intervention to propel forward</li>
-                        <li>Great ease of transition</li>
+                   <p class="TitleP">Increased efficiency is the single most crucial need of the hour for government bodies as it translates into better service and convenient access for all. </p>
 
-
-                    </ul>
+                   <p class="TitleP">By combining the right tech and talent, Zenosys assists local, state as well as central government bodies in succeeding on such expectations with unparalleled ease of transition.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

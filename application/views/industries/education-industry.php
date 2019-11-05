@@ -86,12 +86,9 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Education Industry</h2>
-                   <ul>
-                       <li>Need for evolution and leveraging technological trends</li>
-                       <li>Striking the right balance of learning and technological involvement</li>
-                       <li>End-to-end solutions for better understanding and deep-rooted education</li>
-                       <li>Shoulder-to-shoulder with dynamically evolving environment</li>
-                   </ul>
+                 <p class="TitleP">Education systems need to evolve with the current trends. In order to better educate the coming generations and improving the quality of understanding, the industry is striving to strike the right balance of learning and technology.</p>
+
+                   <p class="TitleP">We chart out comprehensive solutions for such educational institutions and keep them shoulder to shoulder with the dynamically evolving environment.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
