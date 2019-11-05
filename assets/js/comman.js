@@ -430,22 +430,22 @@ $(document).ready(function() {
 //        if (!e.isDefaultPrevented()) {
 //            var url = "contact.php";
 //
-//            $.ajax({
-//                type: "POST",
-//                url: url,
-//                data: $(this).serialize(),
-//                success: function (data) {
-//                    var messageAlert = 'alert-' + data.type;
-//                    var messageText = data.message;
-//
-//                    var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
-//                    if (messageAlert && messageText) {
-//                        $('#contact-form').find('.messages').html(alertBox);
-//                        $('#contact-form')[0].reset();
-//                        grecaptcha.reset();
-//                    }
-//                }
-//            });
+/*           $.ajax({
+               type: "POST",
+               url: url,
+               data: $(this).serialize(),
+               success: function (data) {
+                   var messageAlert = 'alert-' + data.type;
+                   var messageText = data.message;
+
+                   var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
+                   if (messageAlert && messageText) {
+                       $('#contact-form').find('.messages').html(alertBox);
+                       $('#contact-form')[0].reset();
+                       grecaptcha.reset();
+                   }
+               }
+           });*/
 //            return false;
 //        }
 //    })
@@ -453,57 +453,47 @@ $(document).ready(function() {
 
 
 
-//$(function() {
-//  
-//  $("form[name='registration']").validate({
-//    
-//    rules: {
-//      your_name: "required",
-//      emailid: {required: true,email: true},
-//      subject: "required",
-//    },
-//    
-//      
-//      
-//      
-//      
-//    messages: {
-//      your_name: "Please enter your name",
-//      subject: "Please enter your subject",
-//      emailid: "Please enter a valid email address"
-//    },
-//    
-//    submitHandler: function(form) {
-//      form.submit();
-//    }
-//  });
-//});
-
 $(function() {
-  
-  $("form[name='registration']").validate({
-    
-    rules: {
-      your_name: "required",
-      emailid: {required: true,email: true},
-      subject: {required: true}
-    },
-    
-      
-      
-      
-      
-    messages: {
-      your_name: "Please enter your name",
-      subject: "Please enter your subject",
-      emailid: "Please enter a valid email address"
-    },
-    
-    submitHandler: function(form) {
-      form.submit();
-    }
-  });
+
+ $("form[name='registration']").validate({
+   
+   rules: {
+     name: "required",
+     email: {required: true,email: true},
+     subject: "required",
+   },
+     
+   messages: {
+     name: "Please enter your name",
+     subject: "Please enter your subject",
+     email: "Please enter a valid email address"
+   },
+   
+   submitHandler: function(form) {
+          $.ajax({
+               type: "POST",
+               url: 'ContactUs/contact',
+               contentType: 'application/json',
+               data: $('#contact').serialize(),
+               success: function (data) {
+                alert(data);
+                return false;
+                   /*var messageAlert = 'alert-' + data.type;
+                   var messageText = data.message;
+
+                   var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
+                   if (messageAlert && messageText) {
+                       $('#contact-form').find('.messages').html(alertBox);
+                       $('#contact-form')[0].reset();
+                       grecaptcha.reset();
+                   }*/
+               }
+           });
+     //form.submit();
+   }
+ });
 });
+
 
 
  

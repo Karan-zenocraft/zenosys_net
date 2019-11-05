@@ -104,5 +104,41 @@ class ContactUs extends MY_Controller
         // Send email & return status
         return $this->email->send() ? true : false;
     }
+    public function contact()
+    {
+        $data = $formData = array();
+
+        // If contact request is submitted
+        $data = "";
+        if ($this->input->post('contactSubmit')) {
+
+            // Get the form data
+            $formData = $this->input->post();
+            // Define email data
+            $mailData = array(
+                'name' => $formData['name'],
+                'email' => $formData['email'],
+                'subject' => $formData['subject'],
+                'message' => $formData['message'],
+            );
+            // Send an email to the site admin
+            $send = $this->sendEmail($mailData);
+
+            // Check email sending status
+            if ($send) {
+                $this->ContactModel->insert($formData['name'], $formData['email'], $formData['subject'], $formData['message']);
+                // Unset form data
+                $formData = array();
+
+                $data = "success";
+                return $data;
+            } else {
+                $data = "error";
+                return $data;
+            }
+            //}
+        }
+
+    }
 
 }
