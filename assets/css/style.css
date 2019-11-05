@@ -278,6 +278,21 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .ClientList .CustomeRow{padding: 0px 150px;margin-top: 10px;}
 */
 
+.SiteMap .row .label{margin-bottom: 20px;}
+.WhyZenosys .SiteMap ul li:after{top: 8px;}
+.SiteMap .CustomePadding{padding-left: 20px;}
+.SiteMap .CustomePadding.Second{margin-top: 20px;margin-bottom: 10px;}
+.SiteMap ul label{color:#174477;font-weight: normal;font-size: 15px;margin-bottom: 12px;padding-bottom: 5px; line-height: 22px;font-family:'Arial';border-bottom: 1px solid #174477}
+.SiteMap h2:before{left: 0;right: 0;margin: auto}
+.SiteMap h2{text-align: center;}
+.SiteMap ul li a{font-weight: normal;font-family:'Arial';
+    line-height: 20px;
+    color: #6F7072;
+    font-size: 13px;
+    position: relative;
+    
+    margin-bottom: 20px;
+    display: block;}
 
 .Social{padding-top: 20px;padding-bottom: 20px;background: #2c2e3a;}
 
@@ -286,15 +301,15 @@ footer{padding-top: 30px;padding-bottom: 0px;background: url(../images/footer-bg
 footer .FooterInner  h2{color: #58abb7;font-weight: normal;margin-bottom: 20px;}
 footer .FooterInner .Address{margin-bottom: 25px;}
 footer .FooterInner .Address:last-child{mab}
-footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;margin-bottom: 0;}
+footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;margin-bottom: 0;font-family:'Arial';}
 footer .FooterInner a:hover{text-decoration: none;}
 footer .FooterInner .Address .IconLeft{position: relative;}
 footer .FooterInner .Address .IconLeft i{position: absolute;color: #58abb7;font-size: 22px;height: 22px;}
 
-footer .FooterInnerRight .Subscribe .Email{padding: 9px 60px;color: #ffffff!important;background: transparent;text-align: center;border: 1px solid #ffffff;}
+footer .FooterInnerRight .Subscribe .Email{padding: 9px 60px;color: #ffffff!important;background: transparent;text-align: center;border: 1px solid #ffffff;font-family:'Arial';}
 footer .FooterInnerRight .Subscribe .SignUp, footer .FooterInnerRight .Subscribe .Email:focus{outline: none;}
 footer .FooterInnerRight .Subscribe .Email::placeholder{color: #ffffff}
-footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!important;background: #ffffff;border: none;}
+footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!important;background: #ffffff;border: none;font-family:'Arial';;}
 .Social .SocialIcons{margin-top: 10px!important;}
 .Social .SocialIcons li:first-child{margin-left: 0px;}
 .Social .SocialIcons li:last-child{margin-right: 0px;}
@@ -323,6 +338,16 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
   border-bottom: 8px solid transparent; 
   border-left:8px solid #ff7070; 
     margin-right: 10px;
+}
+
+.SiteMap .arrow-right {
+  width: 0; 
+  height: 0; 
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent; 
+  border-left:8px solid #ff7070; 
+    margin-right: 10px;
+    margin-top: 5px;
 }
 
 .Awards{padding: 30px 0px;background-color: rgb(241, 245, 248)}
@@ -586,7 +611,7 @@ li > a:only-child:after { content: ''; }
     margin-bottom: 45px;
 }
 .ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 30px;}
-.ContactBox form label.error {
+.ContactBox form p.error {
     z-index: 999!important;color: red;
     position: absolute;
     bottom: -26px;
