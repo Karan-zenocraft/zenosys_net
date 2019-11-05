@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Block Chain Technologies</h2>
+                    <h2 class="TitleH2">Block-Chain Technologies</h2>
                     <ul>
                   <li>Increasing pace of global development and rising need of stepping-up the game</li>
                   <li>Need for better and improved customer experience</li>

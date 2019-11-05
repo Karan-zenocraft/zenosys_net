@@ -85,8 +85,8 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 /*------------------Floating----------------*/
 
-#scroll {position:fixed;right:40px;bottom:20px;cursor:pointer;width:40px;height:40px;text-indent:-9999px;display:none;-webkit-border-radius:60px;-moz-border-radius:60px;border-radius:6px;border: 1px solid #174477;}
-#scroll span {position:absolute;top:50%;left:50%;margin-left:-8px;margin-top:-12px;height:0;width:0;border:8px solid transparent;border-bottom-color:#174477;}
+#scroll {position:fixed;right:40px;bottom:20px;cursor:pointer;width:40px;height:40px;text-indent:-9999px;display:none;-webkit-border-radius:60px;-moz-border-radius:60px;border-radius:6px;border: 1px solid #000;}
+#scroll span {position:absolute;top:50%;left:50%;margin-left:-8px;margin-top:-12px;height:0;width:0;border:8px solid transparent;border-bottom-color:#000;}
 #scroll:hover {background-color:transparent;opacity:1;filter:"alpha(opacity=100)";-ms-filter:"alpha(opacity=100)";}
 
 /*-----------------Loader----------------------*/
@@ -701,6 +701,10 @@ li > a:only-child:after { content: ''; }
 
 
 
+/*
+.SiteMap label{position: relative;}
+.SiteMap label{position: relative;}
+*/
 
 .SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;outline: none}
 .SendBtn{height: 40px;width: 180px;
@@ -755,6 +759,9 @@ font-family: 'Arial';letter-spacing: 1px;}
 .WhyZenosys  .CareersRight h3{color: #174477;font-weight: bold;margin-bottom: 20px;font-size: 20px;text-transform: uppercase}
 .WhyZenosys  .CareersRight p{margin-bottom: 15px;}
 .WhyZenosys .SiteMap h2:before{width: 75px;}
+
+.WhyZenosys .Careers .table td{cursor: pointer;}
+
 /*.WhyZenosys .Careers h2{text-align: center;}*/
 
 /*.WhyZenosys .Careers h2:before{left: 0;right: 0;margin: auto;}*/
@@ -883,6 +890,7 @@ nav ul li {
 
 
 
+/*
 .AwardSection{padding: 40px 0px;background: url(../images/footer-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -898,4 +906,4 @@ nav ul li {
 .AwardSection .AwardsImgBox img{opacity: 1;transition: 0.8s all;max-width: 55%;
     transform: scale(1.0);
     filter: grayscale(0);}
-.AwardSection .AwardsImgBox img:hover{transition: 0.8s all;opacity: 1;transform: scale(1.1);filter: grayscale(0);}
+.AwardSection .AwardsImgBox img:hover{transition: 0.8s all;opacity: 1;transform: scale(1.1);filter: grayscale(0);}*/

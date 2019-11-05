@@ -87,38 +87,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="" class="grayscale grayscale-hover rounded-corners">
+                    <a  class="grayscale grayscale-hover rounded-corners">
                         <img src="<?php echo base_url(); ?>assets/images/Service1.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service2.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service3.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service4.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service5.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service6.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -137,38 +137,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service7.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service8.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service9.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service10.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service11.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service12.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -188,38 +188,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service13.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service14.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service15.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service16.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service17.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service18.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -328,38 +328,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="" class="grayscale grayscale-hover rounded-corners">
+                    <a  class="grayscale grayscale-hover rounded-corners">
                         <img src="<?php echo base_url(); ?>assets/images/Service1.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service2.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service3.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service4.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service5.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service6.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -378,38 +378,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service7.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service8.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service9.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service10.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service11.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service12.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -429,38 +429,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service13.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service14.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service15.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service16.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service17.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service18.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -499,38 +499,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service1.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service2.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service3.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service4.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service5.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service6.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -549,38 +549,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service7.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service8.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service9.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service10.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service11.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service12.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -600,38 +600,38 @@
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service13.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service14.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service15.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service16.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service17.png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
-                    <a href="">
+                    <a >
                         <img src="<?php echo base_url(); ?>assets/images/Service18.png" alt="" class="img-fluid">
                     </a>
                 </div>
@@ -787,12 +787,12 @@
                 <div class="col-md-4 d-flex align-items-center justify-content-start SocialInnerRight">
 
                     <ul class="SocialIcons d-flex flex-wrap align-items-center justify-content-start">
-                        <li><a href="" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Linkedin"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                        <li><a  title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a  title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a  title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a  title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a  title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a  title="Linkedin"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 
 
                     </ul>
@@ -888,11 +888,11 @@
 
                     <!--
                     <ul class="SocialIcons d-flex flex-wrap align-items-center justify-content-start">
-                        <li><a href="" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a href="" title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a  title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a  title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a  title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a  title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a  title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
 
                     </ul>

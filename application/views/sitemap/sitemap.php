@@ -58,7 +58,7 @@
                     <h2 class="TitleH2">Sitemap</h2>
                     <p class="TitleP"></p>
                     <div class="row">
-                    <label>Solutions</label>
+                    <div class="arrow-right"></div><label>Solutions</label>
                     
                     
                     </div>
