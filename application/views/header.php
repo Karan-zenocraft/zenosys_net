@@ -81,21 +81,21 @@
                             <li>
 
                                 <!-- First Tier Drop Down -->
-                                <label for="drop-2" class="toggle">Solutions </label>
+                                <label class="toggle DD1">Solutions </label>
                                 <a href="#" class="a arrow">Solutions</a>
                                 <input type="checkbox" id="drop-2" />
 
 
-      <ul class="InnerMenu">
+      <ul class="InnerMenu DD11">
 
 
         <li>
 
 
-          <label for="drop-3" class="toggle">Enterprise Applications </label>
+          <label class="toggle DD5">Enterprise Applications </label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-3"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD55">
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
@@ -107,10 +107,10 @@
           <li>
 
 
-          <label for="drop-4" class="toggle">Emerging Technologies </label>
+          <label class="toggle DD6">Emerging Technologies </label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-4"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD66">
             <li><a href="<?php echo base_url(); ?>emergingTechnologies/internet_of_things">Internet Of Things</a></li>
             <li><a href="<?php echo base_url(); ?>emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
             <li><a href="<?php echo base_url(); ?>emergingTechnologies/augmented_reality">Augmented Reality & Virtual Reality</a></li>
@@ -121,10 +121,10 @@
           <li>
 
 
-          <label for="drop-5" class="toggle">Application Development </label>
+          <label class="toggle DD7">Application Development </label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-5"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD77">
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development">Custom Application Development</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_integration">Application Integration</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
@@ -135,10 +135,10 @@
           <li>
 
 
-          <label for="drop-6" class="toggle">Quality Engineering </label>
+          <label class="toggle DD8">Quality Engineering </label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-6"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD88">
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/functional_engineering">Functional Engineering</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/automation">Automation</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/performance_engineering">Performance Engineering</a></li>
@@ -149,10 +149,10 @@
           <li>
 
 
-          <label for="drop-7" class="toggle">Cognitive Technologies</label>
+          <label  class="toggle DD9">Cognitive Technologies</label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-7"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD99">
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/machine_learning">Machine Learning</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development"> Data Science</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/deep_learning">Deep Learning Technologies</a></li>
@@ -165,10 +165,10 @@
           <li>
 
 
-          <label for="drop-8" class="toggle">Advance Analytics & Big Data</label>
+          <label class="toggle DD10">Advance Analytics & Big Data</label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-8"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD1010">
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/businessintelligence">Business Intelligence</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/sapcloud"> SAP Cloud Analytics</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/dataquality">Data Quality Management</a></li>
@@ -176,14 +176,17 @@
           </ul>
         </li>
 
+          
+          
+          
 
           <li>
 
 
-          <label for="drop-9" class="toggle">Managed Services</label>
+          <label class="toggle DD11">Managed Services</label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-9"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD1111">
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_management">Application Management Services</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/infastructure_management"> Infrastructure Management Services</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/database_management">Database Management Services</a></li>
@@ -195,10 +198,10 @@
           <li>
 
 
-          <label for="drop-10" class="toggle">Staffing Services</label>
+          <label  class="toggle DD12">Staffing Services</label>
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-10"/>
-          <ul class="InnerDropdown onlysm">
+          <ul class="InnerDropdown onlysm DD1212">
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/msp">MSP (Mange Staffing Provider)</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/consulting_work_force"> Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/permenant_placement">Permanent Placement</a></li>
@@ -471,10 +474,10 @@
                             </li>
                             <li>
                                 <!-- First Tier Drop Down -->
-                                <label for="drop-18" class="toggle">Products </label>
+                                <label  class="toggle DD2">Products </label>
                                 <a href="#" class="a arrow">Products</a>
                                       <input type="checkbox" id="drop-18"/>
-                                <ul class="InnerMenu InnerMenu2" id="Two">
+                                <ul class="InnerMenu InnerMenu2 DD22">
                                     <li><a href="<?php echo base_url(); ?>products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/product2">Product 2</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/product3">Product 3</a></li>
@@ -488,10 +491,10 @@
                             <li>
 
                                 <!-- First Tier Drop Down -->
-                                <label for="drop-19" class="toggle">Engagement Models </label>
+                                <label class="toggle DD3">Engagement Models </label>
                                 <a href="#" class="a arrow">Engagement Models</a>
                                 <input type="checkbox" id="drop-19" />
-                                <ul class="InnerMenu InnerMenu2">
+                                <ul class="InnerMenu InnerMenu2 DD33">
                                     <li><a href="<?php echo base_url(); ?>models/onshore">On-site Delivery Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/offshore">Offshore Model</a></li>
@@ -515,10 +518,10 @@
                             </li>
                             <li>
                                <!-- First Tier Drop Down -->
-                               <label for="drop-20" class="toggle">Industries </label>
+                               <label  class="toggle DD4">Industries </label>
                                <a href="#" class="a arrow">Industries</a>
                                      <input type="checkbox" id="drop-20"/>
-                               <ul class="InnerMenu InnerMenu2">
+                               <ul class="InnerMenu InnerMenu2 DD44">
                                    <li><a href="<?php echo base_url(); ?>industries/financialindustries">Financial Services</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/governmentbodies">Government Bodies</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/educationindustry">Education Industry</a></li>
@@ -608,8 +611,8 @@
                 <img src="<?php echo base_url(); ?>assets/images/zmain-sm.png" alt="" class="img-fluid SliderImg OnlySm">
                 <div class="Caption">
                     <div class="CaptionBlock Bg-Dark">
-                        <h1 class="TitleH1">Dedicated </h1>
-                        <h1 class="TitleH1">Development Team <span class="typed-cursor">|</span> </h1>
+                        <h1 class="TitleH1">Harmonizing </h1>
+                        <h1 class="TitleH1">Business Strategies<span class="typed-cursor">|</span> </h1>
                     </div>
                     <p>Professional a certified dedicated team in <br>
                         PHP, Java, .Net application development.</p>

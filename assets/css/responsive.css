@@ -173,6 +173,9 @@ Header{box-shadow: 0 1px 6px rgba(57,73,76,0.35);}
     .Header .HeaderInner .HeaderNav ul li .Outline:before{content: unset!important}
     
 /*    .onlysm{display: unset!important}*/
+    
+    
+    
 }
 
 
@@ -472,6 +475,7 @@ footer .FooterInner h2{margin-bottom: 15px;text-align: left;}
     footer .FooterInner .Address{margin-bottom: 20px;}
     footer .FooterInnerLeft .Address:nth-child(4){margin-bottom: 0px;}
     footer .col-md-6.justify-content-end{justify-content: flex-start!important;order: 0;}
+    footer .col-md-6.justify-content-start{}
 /*
     footer .FooterInner h2{position: relative;}
     footer .FooterInner h2:before{right: unset;margin: unset;background: #ffffff;bottom: -7px!important;height: 1px;}
