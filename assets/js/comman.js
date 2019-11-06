@@ -553,9 +553,9 @@ $(document).ready(function() {
 
       var email = $("input[name='email']").val();
 
-      var message = $("textarea[name='message']").val();
+      var message = $("input[name='message']").val();
       var subject = $("input[name='subject']").val();
-
+        var captcha = $("input[name='captcha']").val();
 
       $.ajax({
 
@@ -565,7 +565,7 @@ $(document).ready(function() {
 
           dataType: "json",
 
-          data: {name:name, email:email, message:message,subject:subject},
+          data: {name:name, email:email, message:message,subject:subject,captcha:captcha},
 
           success: function(data) {
            
