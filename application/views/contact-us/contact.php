@@ -128,7 +128,7 @@
 
          
 
-          <input type="text" name="name">
+          <input type="text" name="name" >
             
             <span class="highlight"></span>
                     <span class="bar"></span>
