@@ -1,8 +1,17 @@
         <div class="container">
       <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+                        <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/oracle-apex.png" alt="" class="img-fluid">
+
+                    <h6 class="TitleH6">Oracle APEX</h6>
+                    <p>A smart software building platform for everyone</p>
+
+                </div>
+                </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/oracle.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Oracle eBusiness Suite</h6>
                     <p>Seamless integration of tool for great performance</p>
 
@@ -11,7 +20,7 @@
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
 
-                    <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/SAP-s4-hana.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">SAP S / 4HANA</h6>
                     <p>The uber ERP system for enhanced productivity</p>
@@ -19,19 +28,10 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/odoo" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Odoo</h6>
                     <p>The subscription based software for all your operational needs</p>
-
-                </div>
-                </div>
-                        <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">Oracle APEX</h6>
-                    <p>A smart software building platform for everyone</p>
 
                 </div>
                 </div>

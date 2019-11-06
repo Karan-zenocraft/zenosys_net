@@ -255,13 +255,9 @@
 
                     <h2 class="TitleH2">Staffing &#8239; Sollutions</h2>
 
-                    <p class="TitleP">Zenosys is an IT service provider focusing on product
-                        engineering services. Our offshore center is located on the
-                        West Coast of India, which is the largest software development
-                        hub in South Asia. With the biggest pool of Web/Mobile
-                        App/Java/Oracle/.Net resources in our market segment, we
-                        collaborate with technology companies from around the globe to
-                        successfully deliver quality software products.</p>
+                    <p class="TitleP">In the dynamic environment, the need of the hour for companies keeps on changing. The present period might demand skilled data analysts while the upcoming requirement could demand a senior developer to handhold a new venture, and this is inevitable.</p>
+                     <p class="TitleP">For organizations that work with a tight budget, getting into the rigmarole of screening and recruiting personnel for limited period roles could spell chaos, on both financial as well as administrative ends.</p>
+                      <p class="TitleP">When it comes to this, Zenosys has thrived as a trusted staffing solution provider for companies and clients across the globe. Through our perfected process and robust engagement models, we empower companies in flourishing with their undivided focus on the main business, instead of investing efforts into recruitment drives.</p>
 
                 </div>
 
@@ -285,14 +281,9 @@
                 <div class="col-md-6 SoftwareDevelopmentLeft">
 
                     <h2 class="TitleH2">Software &#8239; Development</h2>
-                    <ul>
-                        <li>Zenosys is an IT service provider focusing on product engineering services.</li>
-                        <li>Our offshore center is located on the West Coast of India, which is the largest
-                            software development hub in South Asia.</li>
-                        <li>With the biggest pool of Web/Mobile App/Java/Oracle/.Net resources in our
-                            market segment, we collaborate with technology companies from around the globe</li>
-                        <li>Successfully deliver quality software products.</li>
-                    </ul>
+                      <p class="TitleP">Software development has come to become a complex process involving many different processes including designing, testing, programming, planning and delivering. When done right, these softwares and application have the potential to drive businesses, both small and large, to great heights. Thus, the challenge is choosing the right service provider. Your parameters should include, a company with sound experience, strong knowledge base, expert and dedicated teams, all with the knack of thinking out of the box and creating a software that provides its user with an experience to remember. </p>
+                     <p class="TitleP">Well, we know it, because we do it everyday. With all capabilities mentioned above, we hail with a large and satisfied client base that have received superior quality applications, with the right balance of productivity, cost-effectiveness and seamless support.</p>
+                      <p class="TitleP">Got a project we can help you with? Just write to us.</p>
                 </div>
 
 

@@ -53,10 +53,10 @@
 
                     <h2 class="TitleH2">Functional Engineering</h2>
                    <p class="TitleP">
-                       Automation is the process of integrating different functions and tools into various layers that perform independently and have lesser requirement for human intervention. This technology can facilitate comprehensive control over diverse functions and offer a unified approach that increases efficiency and productivity.
+                       Functional engineering is a specialized process solely dedicated towards improvising the way softwares are built and perform. It is the process of composing a robust mathematical representation of the software’s functional behavior. The process ensures that the process on each level is being driven correctly and the final outcome offers high functionality.
                     </p>
                     <p class="TitleP">
-                       Zenosys hails with thorough knowledge and experience of automation as well as other complimenting technologies. Based on this diverse knowledge base, we combine the most apt AI with Automation Services, backed by strong data and robust solutions that perform brilliantly.
+                       The functional engineering team at Zenosys undertakes the process with thorough eye-for-detail and helps accelerate quality and efficiency, while amplifying the speed of software development process.
                     </p>
 
                 </div>
