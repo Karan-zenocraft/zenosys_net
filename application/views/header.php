@@ -617,13 +617,13 @@
                         <h1 class="TitleH1">Harmonizing </h1>
                         <h1 class="TitleH1">Business Strategies<span class="typed-cursor">|</span> </h1>
                     </div>
-                    
-                    
-                    
-                    
-                    
-                    <p>Replacing distinctive IT strategy with a strategy that blends in a harmonious set of   <br>
-                         corporate strategies designed to assist the organization to act as whole</p>
+
+
+
+
+
+                    <p>"Replacing distinctive IT strategy with a strategy that blends in a harmonious set of   <br>
+                         corporate strategies designed to assist the organization to act as whole"</p>
 
                 </div>
             </div>

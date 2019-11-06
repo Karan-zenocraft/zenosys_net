@@ -44,8 +44,8 @@
 
     <div class="row CustomeRows">
 <style>
-        
-    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}        
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
 </style>
 
         <div class="col-md-8 WhyZenosysContent">
@@ -54,13 +54,6 @@
 
             <p class="TitleP">
                 While you keep an eye on the Corporate Strategy, Business Strategy and Functional Strategy, we derive and optimize the core components of your enterprise IT Strategy
-            </p>
-            <p class="TitleP">
-                <b>Cost Management</b> - Offer cost management techniques that aims at reducing IT costs while strengthening the quality of the offering<br>
-                <b>Human capital Management </b> - Improve/Utilize core people capabilities to derive competitive advantage <br>
-                <b>Asset Management </b> - ITAM strategies for overseeing, managing and optimizing company-owned IT systems, hardware, processes and data <br>
-
-                <b> Risk Management </b> - Assess the business risk associated with the use of, the ownership, operation or adaption of IT in the organization
             </p>
 
         </div>

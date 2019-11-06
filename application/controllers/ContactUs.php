@@ -26,6 +26,7 @@ class ContactUs extends MY_Controller
             $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
             $this->form_validation->set_rules('subject', 'Subject', 'required');
             $this->form_validation->set_rules('message', 'Message', 'required');
+            $this->form_validation->set_rules('captcha', 'Captcha', 'required');
 
             // Validate submitted form data
             if ($this->form_validation->run() == true) {
