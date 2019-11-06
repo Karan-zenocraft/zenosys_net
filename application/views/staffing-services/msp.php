@@ -40,7 +40,11 @@
             </div>
 
 
-            <div class="row">
+           <div class="row CustomeRows">
+                 <style>
+
+                    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+                </style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">MSP (Manage Staffing Provider)</h2>
@@ -49,9 +53,9 @@
                  <p class="TitleP">Zenosys hails with a deep-rooted experience of providing extended workforces to organizations around the globe, with intricate teams that include some of the most brightest and passionate minds that are exceptionally skilled and are empowered by concrete experience.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/MSP.png" class="img-fluid CommanImg" height="100%">
+                </div>
             </div>
 
 

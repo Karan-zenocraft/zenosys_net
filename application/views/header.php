@@ -501,7 +501,7 @@
                                     <li><a href="<?php echo base_url(); ?>models/onshore">On-site Delivery Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/offshore">Offshore Model</a></li>
-                                    <!-- <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li> -->
+                                    <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li>
 
 <!--
                                     <li>
