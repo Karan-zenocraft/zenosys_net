@@ -38,9 +38,74 @@
 
 
     </div>
+ <div class="container">
+
+    <div class="row">
+
+      <div class="col-sm-8 col-sm-offset-2">
+
+        <div class="alert alert-danger" style="display:none">
+
+        </div>
+
+
+
+      <?php echo form_open('ajax-form-validation/post'); ?>
+
+        <div class="form-group">
+
+          <label>Name:</label>
+
+          <input type="text" name="name" class="form-control" placeholder="Name">
+
+        </div>
+
+
+
+        <div class="form-group">
+
+          <strong>Email:</strong>
+
+          <input type="text" name="email" class="form-control" placeholder="Email">
+
+        </div>
+  <div class="form-group">
+
+          <strong>Subject:</strong>
+
+          <input type="text" name="subject" class="form-control" placeholder="Subject">
+
+        </div>
+
+
+        <div class="form-group">
+
+          <strong>Message:</strong>
+
+          <textarea class="form-control" name="message" placeholder="Message"></textarea>
+
+        </div>
+
+<div class="form-group captcha">
+                            <div class="g-recaptcha" data-sitekey="6LdtG8EUAAAAAOPhY_b0YK_QZ6TTkZ9ImOKUcC30" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                            <input class="form-control d-none" name="captcha" data-recaptcha="true" required data-error="Please complete the Captcha">
+
+        <div class="form-group">
+
+          <button class="btn btn-primary btn-block btn-submit" value="Submit" style="height:100% !important;">Submit</button>
+
+        </div>
+
+      </form>
+
+    </div>
+
+    </div>
+
 
 
             <div class="row">
+
                 <div class="col-md-6 ContactBox WhyZenosysContent">
                     <h2 class="TitleH2">SEND US A MESSAGE</h2>
 
@@ -101,7 +166,7 @@
     <div class="status <?php echo $status['type']; ?>"><?php echo $status['msg']; ?></div>
     <?php }?>
 
-                   <form method="POST" id="contact" novalidate="novalidate" name="contact">
+      <!--              <form method="POST" id="contact" novalidate="novalidate" name="contact">
                 <input type="hidden" name="_token" value="bhNpBNW6C2dpC7wQfP17HpZIaasphaPpiXx47cP7">
                 <div class="group">
                     <input type="text" name="name" required="" aria-required="true" value="<?php echo !empty($postData['name']) ? $postData['name'] : ''; ?>">
@@ -147,7 +212,8 @@
                         <button name="contactSubmit" class="SendBtn" value="Validate">SEND</button>
 
 
-            </form>
+            </form> -->
+
                 </div>
                 <div class="col-md-6 ContactBox WhyZenosysContent LocationBox">
                     <div class="row">

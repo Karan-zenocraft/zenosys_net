@@ -141,5 +141,52 @@ class ContactUs extends MY_Controller
         }
 
     }
+    public function validationForm()
+    {
+
+        $this->form_validation->set_rules('name', 'Name', 'required');
+
+        $this->form_validation->set_rules('email', 'Email', 'required|valid_email');
+
+        $this->form_validation->set_rules('subject', 'Subject', 'required');
+        $this->form_validation->set_rules('message', 'Message', 'required');
+
+        if ($this->form_validation->run() == false) {
+
+            $errors = validation_errors();
+
+            echo json_encode(['error' => $errors]);
+
+        } else {
+            if ($_POST) {
+
+                // Get the form data
+                $formData = $this->input->post();
+                // Define email data
+                $mailData = array(
+                    'name' => $formData['name'],
+                    'email' => $formData['email'],
+                    'subject' => $formData['subject'],
+                    'message' => $formData['message'],
+                );
+                // Send an email to the site admin
+                $send = $this->sendEmail($mailData);
+
+                // Check email sending status
+                if ($send) {
+                    $this->ContactModel->insert($formData['name'], $formData['email'], $formData['subject'], $formData['message']);
+                    // Unset form data
+                    $formData = array();
+
+                    echo json_encode(['success' => 'Form submitted successfully.']);
+                } else {
+                    echo json_encode(['error' => 'Something went wrong please try again later']);
+                }
+                //}
+            }
+
+        }
+
+    }
 
 }
