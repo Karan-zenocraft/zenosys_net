@@ -454,6 +454,7 @@
             <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
               <!-- <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li> -->
                                 <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
+                                            <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
                                         </div>
                                         </div>
                                 </ul>

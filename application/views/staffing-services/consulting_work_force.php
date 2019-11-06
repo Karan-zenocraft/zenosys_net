@@ -1,4 +1,18 @@
-        <div class="container">
+<style>
+  
+    @media (min-width: 991px){
+    .slick-track{width: 100%!important;}
+    .slick-list.draggable{margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    .slick-slide {width: 276px!important;} 
+    }
+    
+</style>
+
+
+<div class="container">
       <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
@@ -26,6 +40,18 @@
 
                 </div>
                 </div>
+          
+<!--
+          <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+
+                    <h6 class="TitleH6">Permanent Placement</h6>
+                    <p>The power to build your dream team without all the hassle</p>
+
+                </div>
+                </div>
+-->
 
 
 
