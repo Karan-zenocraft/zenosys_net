@@ -206,7 +206,7 @@
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/msp">MSP (Manage Staffing Provider)</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/consulting_work_force"> Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/permenant_placement">Permanent Placement</a></li>
-              <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/hybrid_model">Hybrid Model</a></li>
+             <!--  <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/hybrid_model">Hybrid Model</a></li> -->
 
           </ul>
         </li>
@@ -345,7 +345,7 @@
               <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
-              <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li>
+              <!-- <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li> -->
 
           </ul>
         </li>
@@ -452,7 +452,7 @@
   <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
-              <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li>
+              <!-- <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li> -->
                                 <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
                                         </div>
                                         </div>
@@ -501,7 +501,7 @@
                                     <li><a href="<?php echo base_url(); ?>models/onshore">On-site Delivery Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/offshore">Offshore Model</a></li>
-                                    <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li>
+                                    <!-- <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li> -->
 
 <!--
                                     <li>

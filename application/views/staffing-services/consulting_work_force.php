@@ -26,15 +26,7 @@
 
                 </div>
                 </div>
-                        <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">Hybrid Model</h6>
-                    <p>Hybrid Model</p>
-
-                </div>
-                </div>
 
 
             </div>
