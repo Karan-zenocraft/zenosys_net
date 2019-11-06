@@ -52,3 +52,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 $route['default_controller'] = 'home';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = false;
+$route['ajax-form-validation'] = "AjaxFormValidation";
+
+$route['ajax-form-validation/post']['post'] = "AjaxFormValidation/validationForm";
+$route['contact-us/post']['post'] = "ContactUs/validationForm";

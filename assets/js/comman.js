@@ -495,5 +495,98 @@ $(function() {
 });
 
 
+$(document).ready(function() {
 
- 
+  $(".btn-submit").click(function(e){
+
+      e.preventDefault();
+
+      var name = $("input[name='name']").val();
+
+      var email = $("input[name='email']").val();
+
+      var message = $("textarea[name='message']").val();
+      var subject = $("input[name='subject']").val();
+
+
+      $.ajax({
+
+          url: $(this).closest('form').attr('action'),
+
+          type:$(this).closest('form').attr('method'),
+
+          dataType: "json",
+
+          data: {name:name, email:email, message:message,subject:subject},
+
+          success: function(data) {
+
+              if($.isEmptyObject(data.error)){
+
+                $(".alert-danger").css('display','none');
+
+                alert(data.success);
+
+              }else{
+
+                $(".alert-danger").css('display','block');
+
+                $(".alert-danger").html(data.error);
+
+              }
+
+          }
+
+      });
+
+  }); 
+
+});
+
+ $(document).ready(function() {
+
+  $(".SendBtn").click(function(e){
+
+      e.preventDefault();
+
+      var name = $("input[name='name']").val();
+
+      var email = $("input[name='email']").val();
+
+      var message = $("textarea[name='message']").val();
+      var subject = $("input[name='subject']").val();
+
+
+      $.ajax({
+
+          url: $(this).closest('form').attr('action'),
+
+          type:$(this).closest('form').attr('method'),
+
+          dataType: "json",
+
+          data: {name:name, email:email, message:message,subject:subject},
+
+          success: function(data) {
+
+              if($.isEmptyObject(data.error)){
+
+                $(".alert-danger").css('display','none');
+
+                alert(data.success);
+
+              }else{
+
+                $(".alert-danger").css('display','block');
+
+                $(".alert-danger").html(data.error);
+
+              }
+
+          }
+
+      });
+
+  }); 
+
+});
