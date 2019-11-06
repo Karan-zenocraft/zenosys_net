@@ -60,7 +60,7 @@
     foreach ($jobs as $key => $job) {?>
       <tr>
         <td><?php echo $job->job_id; ?></td>
-        <td onclick="get_description('<?php echo $job->id; ?>')"><?php echo $job->title; ?></td>
+        <td onclick="get_description('<?php echo $job->id; ?>')"><a href="javascript:void(0);"><?php echo $job->title; ?></a></td>
         <input type="hidden" id="desc<?php echo $job->id; ?>" name="desc" value="<?php echo addslashes($job->description); ?>">
         <td><?php echo $job->location; ?></td>
         <td><?php echo $job->type; ?></td>
