@@ -203,6 +203,9 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
     border-radius: 100px;
     background: #174477;
 }
+
+.form-control{border-radius: 0px!important;}
+.ContactBox .form-control:focus{border-color: unset!important; box-shadow: unset!important;border-radius: 0px!important;}
 /*-------------------CaseStudy----------------------*/
 .CaseStudy{background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;padding-top: 25px;padding-bottom: 100px;}
 .CaseStudy .CaseStudyInner h2{color: #ffffff;margin-bottom: 0px;text-align: center;font-weight: bold;padding: 0px 0px;}
@@ -734,12 +737,11 @@ li > a:only-child:after { content: ''; }
     right: 50%;
 }
 
-.ContactBox form input:focus ~ .form-label, .ContactBox form input:valid ~ .form-label {
-    top: -13px;
-    font-size: 12px;
+.ContactBox form input:focus ~ .form-label {
+    top: -15px;
+    font-size: 11px;
     color: black;
 }
-
 
 
 /*
@@ -747,8 +749,8 @@ li > a:only-child:after { content: ''; }
 .SiteMap label{position: relative;}
 */
 
-.SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;outline: none}
-.SendBtn{height: 40px;width: 180px;
+.SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;outline: none;}
+.SendBtn{height: 40px;width: 180px;margin-top: 40px;
     background: #174477;
     color: #fff;
     font-size: 14px;

@@ -40,9 +40,10 @@
     </div>
  <div class="container">
 
-    <div class="row">
+    
 
-      <div class="col-sm-8 col-sm-offset-2">
+<!--
+      <div class="col-sm-6 col-sm-offset-2">
 
         <div class="alert alert-danger" style="display:none">
 
@@ -101,6 +102,7 @@
     </div>
 
     </div>
+-->
 
 
 
@@ -109,6 +111,85 @@
                 <div class="col-md-6 ContactBox WhyZenosysContent">
                     <h2 class="TitleH2">SEND US A MESSAGE</h2>
 
+                    
+                    
+                    
+                  
+
+        <div class="alert alert-danger" style="display:none">
+
+        </div>
+
+
+
+      <?php echo form_open('ajax-form-validation/post'); ?>
+
+        <div class="form-group group">
+
+         
+
+          <input type="text" name="name">
+            
+            <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Your Name</label>
+
+        </div>
+
+
+
+        <div class="form-group group">
+
+          
+
+          <input type="text" name="email" >
+            
+            <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Your Email</label>
+
+        </div>
+  <div class="form-group group">
+
+          
+
+          <input type="text" name="subject">
+        <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Subject</label>
+        </div>
+
+
+        <div class="form-group group">
+
+          
+
+           <input type="text" name="message">
+            <span class="highlight"></span>
+                    <span class="bar"></span>
+                    <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>
+                    </sup>Your Message</label>
+        </div>
+
+<div class="form-group captcha group">
+                            <div class="g-recaptcha" data-sitekey="6LdtG8EUAAAAAOPhY_b0YK_QZ6TTkZ9ImOKUcC30" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+                            <input class="form-control d-none" name="captcha" data-recaptcha="true" required data-error="Please complete the Captcha">
+
+        <div class="form-group group">
+
+          <button class="SendBtn" value="Submit">Submit</button>
+            
+        </div>
+
+      
+
+    </div>
+                    </form>
+
+    </div>
 
 <!--
                     <form method="POST" id="registration" novalidate="novalidate" name="registration">
@@ -214,7 +295,7 @@
 
             </form> -->
 
-                </div>
+                
                 <div class="col-md-6 ContactBox WhyZenosysContent LocationBox">
                     <div class="row">
                     <h2 class="TitleH2">OFFICE/DEVELOPMENT CENTERS</h2>
