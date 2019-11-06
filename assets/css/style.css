@@ -31,13 +31,21 @@
 }
 .TitleP b{letter-spacing: 1px;}
 h1, .TitleH1{font-family:'Arial';font-size: 20px;line-height: 28px;}
-h2, .TitleH2{font-size: 20px;line-height: 25px;font-family: 'Arial';}
-h2:before, .TitleH2:before{content: '';position: absolute;left: 0;height: 2px;background: #174477;}
+h2, .TitleH2{font-size: 20px;
+    padding: 15px 0px;
+    line-height: 25px;
+    font-family: 'Arial';
+    letter-spacing: 2px;
+    text-transform: uppercase;}
+h2:before, .TitleH2:before{
+/*    content: '';*/
+    position: absolute;left: 0;height: 2px;background: #174477;}
 h3, .TitleH3{font-size: 18px;line-height: 22px;font-family:'Arial';}
 h4{font-family:'Arial';}
 h5{font-family:'Arial';}
 h6, .TitleH6{font-size: 14px;line-height: 17px;font-family:'Arial'; }
-p, .TitleP{font-family:'Arial';font-size: 15px;line-height: 18px;}
+p, .TitleP{font-family:'Arial';font-size: 14px;line-height: 24px;
+    letter-spacing: 0.6px;}
 .SliderP{font-size: 16px;line-height: 20px;font-family:'Arial';}
 
 
@@ -119,14 +127,14 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .Slider .SliderInner .Caption{position: absolute;top: 23px;display: block;width: 66%;z-index: -9;}
 .Bg-Dark {background:url("../images/footer-bg.png");background-size: cover;background-repeat: no-repeat;background-attachment: fixed;background-position: top;margin-bottom: 45px;padding: 7px 0px;}
-.Slider .SliderInner .Caption h1{color: #ffffff;font-weight: normal;padding-left: 130px;white-space: nowrap;overflow: hidden;width: 10em;animation: type 3s steps(60, end);margin-bottom: 0;}
+.Slider .SliderInner .Caption h1{color: #ffffff;font-weight: normal;padding-left: 130px;white-space: nowrap;overflow: hidden;width: 10em;animation: type 3s steps(60, end);margin-bottom: 0;letter-spacing: 2px;}
 @keyframes type{from {width: 0;}} 
 
 .Slider .SliderInner .Caption h1:nth-child(2) {
     animation: type2 6s steps(260, end);width: 15em;transition: 0.8s all;
 }
 @keyframes type2{0%{width: 0;}25%{width: 0;}50%{width: 0;}100%{width: 50;}} 
-.Slider .SliderInner .Caption p{color: #9299A2;font-weight: normal;margin-bottom: 0px;padding-left: 130px;}
+.Slider .SliderInner .Caption p{color: #9299A2;font-weight: normal;margin-bottom: 0px;padding-left: 130px;line-height: 20px;}
 
 .typed-cursor {
     -webkit-animation: blinking 1.5s infinite both;
@@ -166,11 +174,13 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox img{height: 65px;transform: scale(1.0);transition: .8s all;margin: auto!important}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox:hover img{transform: scale(1.2);transition: .8s all;}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox h6{color: #595959;margin-bottom: 5px;font-weight: normal;text-transform: uppercase;}
-.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 11px;line-height: 13px;color: #666666;font-family:'Arial';padding: 0px 0px;margin-bottom: 0px;font-weight: normal;text-transform: capitalize;}
+.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 11px;line-height: 13px;color: #666666a3;font-family:'Arial';padding: 0px 0px;margin-bottom: 0px;font-weight: normal;text-transform: capitalize;}
 
-.WhyZenosys .WhyZenosysContent{padding-top: 75px;padding-bottom: 10px;}
-.WhyZenosys .WhyZenosysContent h2{color: #174477;margin-bottom: 50px;font-weight: bold;position: relative;}
-.WhyZenosys .WhyZenosysContent p{color: #6F7072;font-weight: normal;margin-bottom: 30px;padding-right: 45px;text-align: justify}
+.WhyZenosys .WhyZenosysContent{padding-top: 40px;padding-bottom: 10px;}
+.WhyZenosys .WhyZenosysContent h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;padding: 15px 0px;
+    margin-bottom: 0;}
+.WhyZenosys .WhyZenosysContent p{color: #6F7072;font-weight: normal;margin-bottom: 15px;padding-right: 45px;text-align: justify;letter-spacing: 0.8px;
+    line-height: 24px;}
 .WhyZenosys .WhyZenosysContent h2:before{width: 105px;bottom: -15px;}
 .WhyZenosys .WhyZenosysContent ul{margin: 0;padding: 0;}
 .WhyZenosys .WhyZenosysContent ul li{font-size: 15px;
@@ -195,7 +205,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 }
 /*-------------------CaseStudy----------------------*/
 .CaseStudy{background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;padding-top: 25px;padding-bottom: 100px;}
-.CaseStudy .CaseStudyInner h2{color: #ffffff;margin-bottom: 20px;text-align: center;font-weight: bold;}
+.CaseStudy .CaseStudyInner h2{color: #ffffff;margin-bottom: 20px;text-align: center;font-weight: bold;padding: 0px 0px;}
 .CaseStudy .CaseStudyInner p{color: #ffffff;text-align: center;font-weight: normal;margin-bottom: 0px;}
 
 /*-------------------CaseStudyBox----------------------*/
@@ -220,7 +230,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 /*-------------------OurExpertise----------------------*/
 
 .OurExpertise{background: #ffffff;padding-top: 35px;padding-bottom: 70px;}
-.OurExpertise .OurExpertiseInner h2{text-align: center;font-weight: bold;color: #174477;position: relative;margin-bottom: 55px;}
+.OurExpertise .OurExpertiseInner h2{text-align: center;font-weight: bold;color: #464852;position: relative;margin-bottom: 0px;}
 .OurExpertise .OurExpertiseInner h2:before{width: 105px;right: 0;margin: auto;bottom: -15px;}
 
 
@@ -240,9 +250,9 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .StaffingSolution .StaffingSolutionInnerLeft img{height: 100%;}
 .StaffingSolution .StaffingSolutionInnerLeft {background: url(../images/Banner.png);background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;}
 .StaffingSolution .StaffingSolutionInnerRight{padding-top: 35px;padding-bottom: 50px;padding-left: 45px;}
-.StaffingSolution .StaffingSolutionInnerRight h2{color: #174477;margin-bottom: 30px;font-weight: bold;position: relative;}
+.StaffingSolution .StaffingSolutionInnerRight h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;}
 .StaffingSolution .StaffingSolutionInnerRight h2:before{width: 105px;bottom: -10px;}
-.StaffingSolution .StaffingSolutionInnerRight p{line-height: 23px;padding-right: 190px;font-weight: normal;color: #6F7072}
+.StaffingSolution .StaffingSolutionInnerRight p{line-height: 24px;padding-right: 190px;font-weight: normal;color: #6F7072;text-align: justify}
 
 
 /*-------------------SoftwareDevelopment----------------------*/
@@ -254,9 +264,9 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 /*.SoftwareDevelopment .SoftwareDevelopmentRight{background: url('../images/Banner.jpg');background-size: cover;background-repeat: no-repeat;background-position: center center;position: relative;}*/
 .SoftwareDevelopment .SoftwareDevelopmentRight:after{content: '';position: absolute;right: 0;bottom: 0;width: 560px;background: #174477;height: 2px;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-top: 75px;padding-left: 120px;}
-.SoftwareDevelopment .SoftwareDevelopmentLeft h2{color: #174477;margin-bottom: 50px;font-weight: bold;position: relative;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft h2:before{width: 105px;bottom: -15px;}
-.SoftwareDevelopment  .SoftwareDevelopmentLeft li{font-size: 15px;font-weight: normal;line-height: 20px;color: #6F7072;position: relative;padding-left: 15px;margin-bottom: 20px;display: block;}
+.SoftwareDevelopment  .SoftwareDevelopmentLeft li{font-size: 14px;font-weight: normal;line-height: 24px;color: #6F7072;position: relative;padding-left: 15px;margin-bottom: 10px;display: block;letter-spacing: 0.6px;}
 
 .SoftwareDevelopment  .SoftwareDevelopmentLeft li:after{content: '';position: absolute;left: 0px;top:10px;height: 5px;width: 5px;border-radius: 100px;background: #174477;}
 
@@ -305,7 +315,7 @@ footer{padding-top: 30px;padding-bottom: 0px;background: url(../images/footer-bg
 footer .FooterInner  h2{color: #58abb7;font-weight: normal;margin-bottom: 20px;}
 footer .FooterInner .Address{margin-bottom: 25px;}
 footer .FooterInner .Address:last-child{mab}
-footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;margin-bottom: 0;font-family:'Arial';}
+footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;margin-bottom: 0;font-family:'Arial';letter-spacing: 0.7px}
 footer .FooterInner a:hover{text-decoration: none;}
 footer .FooterInner .Address .IconLeft{position: relative;}
 footer .FooterInner .Address .IconLeft i{position: absolute;color: #58abb7;font-size: 22px;height: 22px;}
@@ -317,7 +327,7 @@ footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!i
 .Social .SocialIcons{margin-top: 10px!important;}
 .Social .SocialIcons li:first-child{margin-left: 0px;}
 .Social .SocialIcons li:last-child{margin-right: 0px;}
-.Social .SocialIcons li{margin: 0px 19px}
+.Social .SocialIcons li{margin: 0px 27px}
 .Social .SocialIcons i{font-size: 22px;transform: scale(1.0);transition: 0.25s ease;color: #c5d7ed }
 .Social .SocialIcons i:hover{transform: scale(1.3);transition: 0.25s ease;}
 .Social .SocialIcons .fa-facebook:hover{color: #3b5998;transition: 0.25s ease; }
@@ -329,7 +339,7 @@ footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!i
 
 .Social .SiteMap li{margin: 0px 22px;}
 .Social .SiteMap li:first-child{margin-left: 0px}
-.Social .SiteMap li a{color: #fff;font-size: 16px;font-weight: normal;font-family: 'Arial';line-height: 25px;}
+.Social .SiteMap li a{color: #fff;font-size: 16px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
 
 footer .col-md-6.justify-content-end{padding-right: 60px;}
 footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: unset!important}
@@ -418,7 +428,7 @@ nav ul .InnerMenu3 .Row label{font-size: 12px;line-height: 20px;font-weight: bol
 nav ul .InnerMenu3 .Row label:before{position: absolute;content: '';bottom: -4px;left: 0px;width: 85%;height: 1px;background: #d2dae1}
 nav ul .InnerMenu3 .Row:first-child{padding-top: 0;}
 nav ul .InnerMenu3 li{position: relative;display: inline-flex}
-nav ul .InnerMenu3 li a{font-size: 14px;line-height: 20px;}
+nav ul .InnerMenu3 li a{font-size: 14px;line-height: 20px;letter-spacing: 0px;}
 nav ul .InnerMenu3 li a:after{
 display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
@@ -470,7 +480,7 @@ nav ul li {
 nav a {
   display: block;
  
- 
+ letter-spacing: 0.8px;
   font-size: 20px;
   line-height: 60px;
   text-decoration: none;
@@ -768,7 +778,7 @@ li > a:only-child:after { content: ''; }
 .ContactBox .LocationBoxs a:hover{text-decoration: none;}
 
 .ContactBox .LocationBoxs .Phone{font-size: 15px;line-height: 20px; font-family: 'Arial';font-weight: bold;margin-bottom: 5px;}
-.WhyZenosysContent.ContactBox h2{margin-bottom: 60px;text-align: center;}
+.WhyZenosysContent.ContactBox h2{margin-bottom: 30px;text-align: center;}
 .WhyZenosysContent.ContactBox h2:before{width: 220px;left: 0;right: 0;margin: auto;
     bottom: -10px;}
 
@@ -781,17 +791,17 @@ li > a:only-child:after { content: ''; }
 .WhyZenosys .Careers .table td{font-size: 14px;
     line-height: 20px;
     font-weight: 200;
-font-family: 'Arial';letter-spacing: 1px;}
+font-family: 'Arial';}
 .table-striped tbody tr:nth-of-type(odd){background-color: #F7F7F7;}
 .WhyZenosys .Careers p, .WhyZenosys .Careers ul{padding-right: 0px;}
 .WhyZenosys .Careers .table-responsive{width: 95%!important;padding-bottom: 40px;}
-.WhyZenosys  .CareersRight{padding-top: 150px;}
-.WhyZenosys  .CareersRight h3{color: #174477;font-weight: bold;margin-bottom: 20px;font-size: 20px;text-transform: uppercase}
+.WhyZenosys  .CareersRight{padding-top: 95px;}
+.WhyZenosys  .CareersRight h3{color: #464852;font-weight: bold;margin-bottom: 20px;font-size: 20px;text-transform: uppercase;letter-spacing: 0.8px;}
 .WhyZenosys  .CareersRight p{margin-bottom: 15px;}
 .WhyZenosys .SiteMap h2:before{width: 75px;}
 
 .WhyZenosys .Careers .table td{cursor: pointer;}
-
+.WhyZenosys .Careers .table tr td:nth-child(2){width: 45%;}
 /*.WhyZenosys .Careers h2{text-align: center;}*/
 
 /*.WhyZenosys .Careers h2:before{left: 0;right: 0;margin: auto;}*/

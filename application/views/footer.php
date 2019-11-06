@@ -253,7 +253,7 @@
 
                 <div class="col-md-6 StaffingSolutionInnerRight">
 
-                    <h2 class="TitleH2">Staffing Sollutions</h2>
+                    <h2 class="TitleH2">Staffing &#8239; Sollutions</h2>
 
                     <p class="TitleP">Zenosys is an IT service provider focusing on product
                         engineering services. Our offshore center is located on the
@@ -284,7 +284,7 @@
 
                 <div class="col-md-6 SoftwareDevelopmentLeft">
 
-                    <h2 class="TitleH2">Software Development</h2>
+                    <h2 class="TitleH2">Software &#8239; Development</h2>
                     <ul>
                         <li>Zenosys is an IT service provider focusing on product engineering services.</li>
                         <li>Our offshore center is located on the West Coast of India, which is the largest
@@ -721,7 +721,10 @@
         <div class="container-fluid">
             <div class="row">
 
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.9883818297562!2d72.51719731444285!3d23.060887520683114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9d8ec8a8ad53%3A0xfab17df30b24e7ce!2sZenosys%20Services!5e0!3m2!1sen!2sin!4v1571049914503!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.7263997297237!2d-74.53983728472247!3d40.43705687936279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3c3a9b4f94093%3A0x5c9b1880ca40bdb!2sZenosys!5e0!3m2!1sen!2sin!4v1573022668586!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                
+<!--                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.9883818297562!2d72.51719731444285!3d23.060887520683114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e9d8ec8a8ad53%3A0xfab17df30b24e7ce!2sZenosys%20Services!5e0!3m2!1sen!2sin!4v1571049914503!5m2!1sen!2sin" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>-->
 
             </div>
 
@@ -770,7 +773,7 @@
                             <div class="arrow-right"></div><a href="<?php echo base_url(); ?>contactUs">Contact Us</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
-                            <div class="arrow-right"></div><a href="<?php echo base_url(); ?>careers">Current Openings</a>
+                            <div class="arrow-right"></div><a href="<?php echo base_url(); ?>careers">Careers</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-start">
                             <div class="arrow-right"></div><a href="<?php echo base_url(); ?>sitemap"> Site Map</a>
@@ -792,7 +795,7 @@
                         <li><a  title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
                         <li><a  title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                         <li><a  title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        <li><a  title="Linkedin"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+<!--                        <li><a  title="Linkedin"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
 
 
                     </ul>
@@ -930,7 +933,7 @@
 
 
 
-    <footer style="padding: 0px 0px;">
+    <footer class="Footer" style="padding: 0px 0px;">
         <div class="container">
             <div class="row">
 

@@ -49,17 +49,16 @@
 </style>
 
         <div class="col-md-8 WhyZenosysContent">
-            <h2 class="TitleH2" style="background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(229, 229, 229));
-    padding: 15px 8px;margin-bottom:30px">Technology Zen</h2>
+            <h2 class="TitleH2">Technology &nbsp; Zen</h2>
             <p class="TitleP">The alignment of business strategy with IT strategy has been a common concern for Chief Technology Officers for enterprises of all sizes. We focus on losing the distinctiveness of the IT strategy, and highlight the significance of transforming business and IT strategies into one harmonious strategy rather than pursuing the alignment of Business strategy and IT Strategy.</p>
 
             <p class="TitleP">
                 While you keep an eye on the Corporate Strategy, Business Strategy and Functional Strategy, we derive and optimize the core components of your enterprise IT Strategy
             </p>
             <p class="TitleP">
-                <b>Cost Management</b> - Offer cost management techniques that aims at reducing IT costs while strengthening the quality of the offering<br><br>
-                <b>Human capital Management </b> - Improve/Utilize core people capabilities to derive competitive advantage <br><br>
-                <b>Asset Management </b> - ITAM strategies for overseeing, managing and optimizing company-owned IT systems, hardware, processes and data <br><br>
+                <b>Cost Management</b> - Offer cost management techniques that aims at reducing IT costs while strengthening the quality of the offering<br>
+                <b>Human capital Management </b> - Improve/Utilize core people capabilities to derive competitive advantage <br>
+                <b>Asset Management </b> - ITAM strategies for overseeing, managing and optimizing company-owned IT systems, hardware, processes and data <br>
 
                 <b> Risk Management </b> - Assess the business risk associated with the use of, the ownership, operation or adaption of IT in the organization
             </p>
