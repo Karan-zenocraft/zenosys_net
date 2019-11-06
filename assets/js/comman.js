@@ -568,6 +568,8 @@ $(document).ready(function() {
           data: {name:name, email:email, message:message,subject:subject},
 
           success: function(data) {
+           
+
 
               if($.isEmptyObject(data.error)){
 

@@ -102,8 +102,8 @@
     </div>
 
     </div>
+<<<<<<< HEAD
 -->
-
 
 
             <div class="row">
@@ -167,7 +167,7 @@
 
           
 
-           <input type="text" name="message">
+           <input type="textarea" name="message">
             <span class="highlight"></span>
                     <span class="bar"></span>
                     <label class="form-label"><sup class="top-new-text"><i class="fa fa-asterisk" aria-hidden="true"></i>

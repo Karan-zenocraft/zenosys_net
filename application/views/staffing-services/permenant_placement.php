@@ -40,7 +40,11 @@
             </div>
 
 
-            <div class="row">
+             <div class="row CustomeRows">
+                 <style>
+
+                    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+                </style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Permanent Placement</h2>
@@ -49,9 +53,9 @@
                  <p class="TitleP">Zenosys is the one-stop solution to this problem. Recruiting is one of our key fortes, and our proven process along with access to widespread pool of talent makes us the right recruitment partner. Our permanent staffing solutions help you find the exact talent that matches your requirement and gives you the efficiency that you are looking for, all this with great cost-effectiveness, without investing time and effort yourself.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/permenant-placement.png" class="img-fluid CommanImg" height="100%">
+                </div>
             </div>
 
 
