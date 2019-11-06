@@ -40,7 +40,11 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Oracle E-Buiseness Suite</h2>
@@ -49,9 +53,10 @@
                 <p class="TitleP">We at Zenosys, help evolving business models and organizations in leveraging high functionality that the Oracle E-Business Suite offers, by creating tailored-to-fit solutions that increase productivity while performing brilliantly on the demands of the modern mobile user.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/oracle-business-suite.png" class="img-fluid CommanImg">
+        </div>
+
             </div>
 
 
