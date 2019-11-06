@@ -120,7 +120,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
 
 @media (min-width: 1200px){
 
-    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding: 0px 25px;}  
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding: 0px 22px;}  
 /*--------------------------mobileMenu---------------------------------------*/    
 .Header .HeaderInner .Menu {display: none;}
 .Header .HeaderInner .HeaderNav{display: block;}

@@ -29,8 +29,8 @@
     font-weight: normal;
     font-style: normal;
 }
-
-h1, .TitleH1{font-family:'Arial';font-size: 24px;line-height: 32px;}
+.TitleP b{letter-spacing: 1px;}
+h1, .TitleH1{font-family:'Arial';font-size: 20px;line-height: 28px;}
 h2, .TitleH2{font-size: 20px;line-height: 25px;font-family: 'Arial';}
 h2:before, .TitleH2:before{content: '';position: absolute;left: 0;height: 2px;background: #174477;}
 h3, .TitleH3{font-size: 18px;line-height: 22px;font-family:'Arial';}
@@ -170,7 +170,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .WhyZenosys .WhyZenosysContent{padding-top: 75px;padding-bottom: 10px;}
 .WhyZenosys .WhyZenosysContent h2{color: #174477;margin-bottom: 50px;font-weight: bold;position: relative;}
-.WhyZenosys .WhyZenosysContent p{color: #6F7072;font-weight: normal;margin-bottom: 40px;padding-right: 86px;}
+.WhyZenosys .WhyZenosysContent p{color: #6F7072;font-weight: normal;margin-bottom: 30px;padding-right: 45px;text-align: justify}
 .WhyZenosys .WhyZenosysContent h2:before{width: 105px;bottom: -15px;}
 .WhyZenosys .WhyZenosysContent ul{margin: 0;padding: 0;}
 .WhyZenosys .WhyZenosysContent ul li{font-size: 15px;
@@ -291,8 +291,12 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
     font-size: 13px;
     position: relative;
     
-    margin-bottom: 20px;
-    display: block;}
+    margin-bottom: 0px;
+    display: inline-block;}
+
+
+.SiteMap ul li a:hover{background: #f1f5f8;color: #58ABB7;transition: 0.8s all;}
+.SiteMap .row.CustomePadding ul li{margin-bottom: 10px;}
 
 .Social{padding-top: 20px;padding-bottom: 20px;background: #2c2e3a;}
 
@@ -338,6 +342,7 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
   border-bottom: 8px solid transparent; 
   border-left:8px solid #ff7070; 
     margin-right: 10px;
+    margin-bottom: 5px;
 }
 
 .SiteMap .arrow-right {
@@ -362,7 +367,7 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
 
 
 .CustomeRows{position: relative;}
-.CustomeRows .CommanImg{position: absolute;right: -60px;bottom:0;}
+.CustomeRows .CommanImg{position: absolute;right: -100px;bottom:0;}
 
 
 

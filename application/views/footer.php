@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 CaseStudyInner">
-                    <h2 class="TitleH2">Case Studies </h2>
+                    <h2 class="TitleH2">Our Services </h2>
                     <p class="TitleP">Showcase your projects & creative works on your homepage using Scalia’s awesome portfolio sliders</p>
                 </div>
 
@@ -948,7 +948,7 @@
                     <div class="col-md-6 d-flex align-items-center justify-content-end">
 
                     <div class="Address">
-                        <a class="TitleP" href="mailto:info@zenosys.net" style="color: #728194">Zenosys Brochure <i class="fa fa-download ml-1"></i> </a>
+                        <a class="TitleP" href="mailto:info@zenosys.net" style="color: #728194">Download / Zenosys Service Offering <i class="fa fa-download ml-1"></i> </a>
                     </div>
 
                 </div>
