@@ -1,27 +1,19 @@
 <style>
-  
+
     @media (min-width: 991px){
     .slick-track{width: 100%!important;}
     .slick-list.draggable{margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;}
-    .slick-slide {width: 276px!important;} 
+    .slick-slide {width: 276px!important;}
     }
-    
+
 </style>
 
 
 <div class="container">
       <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-                <div>
-                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">MSP (Manage Staffing Provider)</h6>
-                    <p>A one stop solution for workforce recruitment</p>
-
-                </div>
-                </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
 
@@ -33,6 +25,14 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">MSP (Manage Staffing Provider)</h6>
+                    <p>A one stop solution for workforce recruitment</p>
+
+                </div>
+                </div>
+                <div>
+                    <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Permanent Placement</h6>
@@ -40,7 +40,7 @@
 
                 </div>
                 </div>
-          
+
 <!--
           <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
@@ -71,9 +71,9 @@
                  <p class="TitleP">Our detailed screening and acquiring process, gives us the access to some of the best, efficient and highly talented human resource who have garnered credible experience. We at Zenosys, provide such organizations that are on a mission, with the required workforce to succeed.</p>
 
                 </div>
-                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/consulting-work-force.png" class="img-fluid CommanImg" height="100%">
-                </div>
+              <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+           <img src="<?php echo base_url(); ?>assets/images/consulting-work-force.png" class="img-fluid CommanImg" style="max-width: 75%;right: 60px;">
+               </div>
             </div>
 
 

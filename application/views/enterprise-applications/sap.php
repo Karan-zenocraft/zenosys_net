@@ -49,10 +49,9 @@
                 <p class="TitleP">The team at Zenosys has helped numerous clients across the globe by successfully executing this Enterprise Resource Planning system across day-to-day functionality including order-to-cash, procure-to-pay, plan-to-product, request-to-service, etc. We have led seamless integration of SAP Business Suite products such as SAP SRM, CRM and SCM.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-
-                 </div>
-                <img src="<?php echo base_url(); ?>assets/images/sap-s4-hana.png" class="img-fluid CommanImg" style="width:30%">
+         <div class="col-md-4 WhyZenosysContent">
+<img src="<?php echo base_url(); ?>assets/images/sap-s4-hana.png" class="img-fluid">
+                </div>
             </div>
 
 

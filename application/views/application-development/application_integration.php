@@ -1,25 +1,36 @@
-        <div class="container">
-                 <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+<style>
 
-                <div class="col-md-4 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">Custom Application Development</h6>
-                    <p>Building smart and efficient applications from a scratch</p>
+    @media (min-width: 991px){
+    .slick-track{width: 100%!important;}
+    .slick-list.draggable{margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    .slick-slide {width: 276px!important;}
+    }
 
-                </div>
-                <div class="col-md-4 WhyZenosysInnerBox">
+</style>        <div class="container">
+                 <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+
+               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Application Integration</h6>
                     <p>Easy and hassle free integration for new applications</p>
-                </div>
-                <div class="col-md-4 WhyZenosysInnerBox">
+                </div></div>
+               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">Custom Application Development</h6>
+                    <p>Building smart and efficient applications from a scratch</p>
+
+                </div></div>
+               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Legacy Application Transformation</h6>
                     <p>Intelligent and value-driven transformation of your app</p>
 
-                </div>
+                </div></div>
            <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
@@ -41,11 +52,9 @@
 <p class="TitleP">Application Integration helps integrate the old and new, to give out best results and minimize the issues that the transition period entails. With unparalleled expertise in application development and application integrations, we have helped execute numerous projects and have ensured easy transitions, along with productive and result driven integrations.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-
-                 </div>
-
-                <img src="<?php echo base_url(); ?>assets/images/app-integration.png" class="img-fluid CommanImg" style="width:22%">
+           <div class="col-md-4 WhyZenosysContent" style="padding-bottom:0px;">
+                    <img src="<?php echo base_url(); ?>assets/images/app-integration.png" class="img-fluid">
+                </div>
             </div>
 
 

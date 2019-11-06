@@ -1,25 +1,36 @@
-        <div class="container">
-             <div class="row WhyZenosysInner d-flex align-items-center align-items-center">
+<style>
 
-                <div class="col-md-4 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">Business Intelligence</h6>
-                    <p>Intelligent tools for the new-age businesses</p>
+    @media (min-width: 991px){
+    .slick-track{width: 100%!important;}
+    .slick-list.draggable{margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+    .slick-slide {width: 276px!important;}
+    }
 
-                </div>
-                <div class="col-md-4 WhyZenosysInnerBox">
+</style>        <div class="container">
+             <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+
+               <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">SAP Cloud Analytics</h6>
                     <p>Enhanced decision making and planning with the power of analytics</p>
-                </div>
-                <div class="col-md-4 WhyZenosysInnerBox">
+                </div></div>
+               <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">Business Intelligence</h6>
+                    <p>Intelligent tools for the new-age businesses</p>
+
+                </div></div>
+               <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Data Quality Management</h6>
                     <p>Great accuracy in data for dependable decision making</p>
 
-                </div>
+                </div></div>
            <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
