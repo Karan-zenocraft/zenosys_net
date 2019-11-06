@@ -205,12 +205,13 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 }
 /*-------------------CaseStudy----------------------*/
 .CaseStudy{background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;padding-top: 25px;padding-bottom: 100px;}
-.CaseStudy .CaseStudyInner h2{color: #ffffff;margin-bottom: 20px;text-align: center;font-weight: bold;padding: 0px 0px;}
+.CaseStudy .CaseStudyInner h2{color: #ffffff;margin-bottom: 0px;text-align: center;font-weight: bold;padding: 0px 0px;}
 .CaseStudy .CaseStudyInner p{color: #ffffff;text-align: center;font-weight: normal;margin-bottom: 0px;}
 
 /*-------------------CaseStudyBox----------------------*/
-
-
+.ClientsList .Box a{background-color: unset!important;border: 1px solid #70707040;}
+.ClientsList .Box img{filter: grayscale(0)!important;opacity: 1!important;}
+.ClientsList .Box a img{max-height: unset!important;}
 .CaseStudyBox{background: #ffffff;padding-bottom: 45px;}
 .CaseStudyBox .CaseStudyInnerBox{margin: 0px 100px;}
 .CaseStudyBox .CaseStudyInnerBox .Services h3{color: #595959;font-weight: normal;margin-bottom: 12px;text-align: center;}
@@ -377,7 +378,7 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
 
 
 .CustomeRows{position: relative;}
-.CustomeRows .CommanImg{position: absolute;right: -100px;bottom:0;}
+.CustomeRows .CommanImg{position: absolute;right: 0px;bottom:0;}
 
 
 
@@ -773,7 +774,9 @@ li > a:only-child:after { content: ''; }
 .ContactBox .LocationBoxs img{max-width: 50px;height: auto;display: block;margin: auto;}
 .ContactBox .LocationBoxs h3{text-align: center;font-size: 15px;
     color: #418f9a;margin-bottom: 5px;font-weight: bold;margin-top: 5px;}
-.ContactBox .LocationBoxs p{padding-right: 0px;text-align: center;margin-bottom: 10px;font-size: 12px;font-weight: normal}
+.ContactBox .LocationBoxs p{padding-right: 0px;text-align: center;margin-bottom: 10px;font-size: 12px;font-weight: normal;
+line-height: inherit!important;
+    letter-spacing: inherit!important;}
 .ContactBox .LocationBoxs a{display: block;text-align: center;font-size: 12px;color: #418f9a;line-height: 18px; font-family: 'Arial';font-weight: normal}
 .ContactBox .LocationBoxs a:hover{text-decoration: none;}
 

@@ -329,38 +329,38 @@
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a  class="grayscale grayscale-hover rounded-corners">
-                        <img src="<?php echo base_url(); ?>assets/images/Service1.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (1).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service2.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (2).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service3.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (3).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service4.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (4).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service5.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (5).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service6.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (6).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
@@ -379,38 +379,38 @@
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service7.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (7).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service8.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (8).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service9.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (9).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service10.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (10).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service11.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (11).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service12.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (12).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
@@ -430,38 +430,38 @@
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service13.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (13).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service14.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (14).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service15.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (15).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service16.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (16).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service17.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (17).png" alt="" class="img-fluid">
                     </a>
                 </div>
 
                 <div class="Box col-md-2 col-sm-4 col-xs-4">
                     <a >
-                        <img src="<?php echo base_url(); ?>assets/images/Service18.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/c1 (18).png" alt="" class="img-fluid">
                     </a>
                 </div>
 

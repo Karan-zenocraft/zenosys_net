@@ -58,11 +58,11 @@
 
         </div>
         <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-
+            <img src="<?php echo base_url(); ?>assets/images/home-2.png" class="img-fluid CommanImg">
         </div>
 
 
-        <img src="<?php echo base_url(); ?>assets/images/home-2.png" class="img-fluid CommanImg">
+        
     </div>
 
 
