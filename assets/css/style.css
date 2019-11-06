@@ -270,7 +270,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-top: 75px;padding-left: 120px;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft h2:before{width: 105px;bottom: -15px;}
-.SoftwareDevelopment  .SoftwareDevelopmentLeft li{font-size: 14px;font-weight: normal;line-height: 24px;color: #6F7072;position: relative;padding-left: 15px;margin-bottom: 10px;display: block;letter-spacing: 0.6px;}
+.SoftwareDevelopment  .SoftwareDevelopmentLeft p{font-size: 14px;font-weight: normal;line-height: 24px;color: #6F7072;position: relative;display: block;letter-spacing: 0.6px;text-align: justify;}
 
 .SoftwareDevelopment  .SoftwareDevelopmentLeft li:after{content: '';position: absolute;left: 0px;top:10px;height: 5px;width: 5px;border-radius: 100px;background: #174477;}
 
@@ -343,7 +343,7 @@ footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!i
 
 .Social .SiteMap li{margin: 0px 22px;}
 .Social .SiteMap li:first-child{margin-left: 0px}
-.Social .SiteMap li a{color: #fff;font-size: 16px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
+.Social .SiteMap li a{color: #fff;font-size: 14px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
 
 footer .col-md-6.justify-content-end{padding-right: 60px;}
 footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: unset!important}
@@ -851,7 +851,9 @@ font-family: 'Arial';}
     padding: 13px 20px;
         line-height: 20px;}
     .HeaderNavigation{display: none;position: absolute;left: 0;width: 100%;top: 75px;height: 7000px;background: #fff;
-    z-index: 99;}
+    height: 10000px;
+    background: #fff;
+    z-index: 9999;}
 nav { margin: 0; }
 
 .toggle + a,
