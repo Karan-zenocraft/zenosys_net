@@ -252,13 +252,13 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .StaffingSolution{background:#F7F7F7 }
 /*.StaffingSolution .StaffingSolutionInnerLeft{background: url('../images/Banner.jpg');background-size: cover;background-repeat: no-repeat;background-position: center center;}*/
 .StaffingSolution .StaffingSolutionInnerLeft img{height: 100%;}
-.StaffingSolution .StaffingSolutionInnerLeft {background: url(../images/Banner.png);background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;}
-.StaffingSolution .StaffingSolutionInnerRight{padding-top: 35px;padding-bottom: 50px;padding-left: 45px;}
+.StaffingSolution .StaffingSolutionInnerLeft {background: url(../images/Banner.png);background-size: cover;background-position: 100% 50%;background-repeat: no-repeat;}
+.StaffingSolution .StaffingSolutionInnerRight{padding-top: 25px;padding-bottom: 25px;padding-left: 45px;}
 .StaffingSolution .StaffingSolutionInnerRight h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;}
 .StaffingSolution .StaffingSolutionInnerRight h2:before{width: 105px;bottom: -10px;}
-.StaffingSolution .StaffingSolutionInnerRight p{line-height: 24px;padding-right: 190px;font-weight: normal;color: #6F7072;text-align: justify}
+.StaffingSolution .StaffingSolutionInnerRight p{line-height: 24px;padding-right: 30px;font-weight: normal;color: #6F7072;text-align: justify}
 
-
+.StaffingSolution .StaffingSolutionInnerRight p:last-child{margin-bottom: 0px;}
 /*-------------------SoftwareDevelopment----------------------*/
 
 
@@ -835,7 +835,7 @@ font-family: 'Arial';}
     .menu{position: absolute;z-index: 99;
     width: 100%;
     left: 0;
-    top: 20px;
+    top: 0px;
     background: #fff;}
     .ShowUl{display: block!important}
     .HeaderNavigation .InnerMenu{padding-left: 20px;}
@@ -845,7 +845,7 @@ font-family: 'Arial';}
     text-decoration: underline;
     font-weight: bold;}
     .Onlylg{display: none;}
-    .InnerMenu label{font-size: 15px!important;font-weight: bold!important;color: #333333!important}
+    .InnerMenu label{font-size: 14px!important;font-weight: bold!important;color: #333333!important}
     .InnerMenu2{margin-left: 0px!important;box-shadow:unset!important;-webkit-box-shadow:unset!important;width: 100%;border-bottom:unset}
     .InnerMenu2 li a {
     padding: 13px 20px;
@@ -878,7 +878,7 @@ nav .Menubar{float: right;}
     line-height: 20px;
         padding: 13px 20px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'Arial';
     font-weight: normal;
     color: #000;}
