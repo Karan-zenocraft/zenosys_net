@@ -66,24 +66,29 @@
            <img src="<?php echo base_url(); ?>assets/images/ar-and-vr.png" class="img-fluid CommanImg" style="max-width:90%">
                </div>
             </div>
-             <div class="row">
-              <div class="col-md-6 SoftwareDevelopmentLeft">
+             <div class="row WhyZenosysContent">
+              <div class="col-md-8 SoftwareDevelopmentLeft">
                 <h3 class="TitleH3">Application Management</h3>
                   <p class="TitleP">
                        Outsourcing application development and management can help an organization meet strategic business objectives bringing about a fundamental positive shift in the business process. Zenosys' Global Software Delivery Model helps to step up cost savings and deal with the ever increasing demand for your business to advance the speed and proficiency of an organization's IT services, with the following benefits:
                     </p>
+                    <div class="d-flex align-items-center justify-content-between">
                     <ul>
                       <li>Considerable Cost Advantage.</li>
                       <li>Faster Lead Times.</li>
                       <li>Enhance Company Focus.</li>
                       <li>Supreme Quality Service Offerings.</li>
-                      <li>Access to State-Of-The-Art Support Facilities.</li>
+
+                    </ul>
+                      <ul>
+                       <li>Access to State-Of-The-Art Support Facilities.</li>
                       <li>Faster Time to Market.</li>
                       <li>Risk Mitigation.</li>
                     </ul>
+                    </div>
 
              </div>
-              <div class="col-md-6">
+              <div class="col-md-4">
                  <h3 class="TitleH3">Custom Solutions</h3>
                  <p class="TitleP">Our expertise in assisting small businesses includes implementing pre-packaged applications, coordinating and designing custom programs, and support of existing business solutions.</p>
              </div>
