@@ -959,7 +959,7 @@
                     <div class="col-md-6 d-flex align-items-center justify-content-end">
 
                     <div class="Address">
-                        <a class="TitleP" href="mailto:info@zenosys.net" style="color: #728194">Download / Zenosys Service Offering <i class="fa fa-download ml-1"></i> </a>
+                        <a class="TitleP" href="<?php echo base_url() ?>assets/images/zenosys_brochure.pdf" style="color: #728194">Download / Zenosys Service Offering <i class="fa fa-download ml-1"></i> </a>
                     </div>
 
                 </div>
