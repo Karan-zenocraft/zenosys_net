@@ -65,7 +65,10 @@
         <td><?php echo $job->location; ?></td>
         <td><?php echo $job->type; ?></td>
       </tr>
-  <?php }}?>
+  <?php }?>
+   <p><?php echo $links; ?></p>
+
+<?php }?>
     </tbody>
   </table>
 </div>
