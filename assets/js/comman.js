@@ -635,8 +635,7 @@ $(document).ready(function() {
                 $(".alert-danger").css('display','block');
 
                 $(".alert-danger").html(data.error);
-                location.reload();
-                
+
 
               }
 
