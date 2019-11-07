@@ -263,13 +263,18 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .WhyZenosys .Careers .table-responsive .pagination li{margin-bottom: 0;list-style-type: none;padding: 2px 13px;
     margin-bottom: 0;
     list-style-type: none;
-    background: #6F7072;
-    border: 1px solid #fff;
+    background: #fff;
+    border: 1px solid #a5a5a5;
     font-size: 13px;}
 .WhyZenosys .Careers .table-responsive .pagination{position: absolute;left: 0;right: 0;margin: auto;
     bottom: 15px;display: flex;align-items: center;justify-content: center;}
-.WhyZenosys .Careers .table-responsive .pagination .active{background: #174477}
-.WhyZenosys .Careers .table-responsive .pagination li a{color: #fff;}
+.WhyZenosys .Careers .table-responsive .pagination .active{background: #174477;}
+/*.WhyZenosys .Careers .table-responsive .pagination .active:hover{background: #fff;transition: 0.3s all}*/
+.WhyZenosys .Careers .table-responsive .pagination li a{color: #000;}
+.WhyZenosys .Careers .table-responsive .pagination li:hover a{color: #fff;transition: 0.3s all;}
+.WhyZenosys .Careers .table-responsive .pagination li:hover{background:#174477;transition: 0.3s all; }
+.WhyZenosys .Careers .table-responsive .pagination .active a{color: #fff;}
+/*.WhyZenosys .Careers .table-responsive .pagination .active:hover a{color: #000;transition: 0.3s all}*/
 .WhyZenosys .Careers .table-responsive .pagination li a .fa-long-arrow-left{margin-right: 10px;}
 .WhyZenosys .Careers .table-responsive .pagination li a .fa-long-arrow-right{margin-left: 10px;}
 .WhyZenosys .Careers .table-responsive .pagination li:after{content: unset}
