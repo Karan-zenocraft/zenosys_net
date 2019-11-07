@@ -63,7 +63,7 @@
 
                 </div>
                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/ar-and-vr.png" class="img-fluid CommanImg" style="max-width:90%">
+           <img src="<?php echo base_url(); ?>assets/images/APPLICATION-SERVICES.png" class="img-fluid CommanImg" style="max-width:100%">
                </div>
             </div>
              <div class="row WhyZenosysContent">

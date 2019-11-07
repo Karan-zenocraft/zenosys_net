@@ -26,7 +26,7 @@
 
                 <div class="col-md-4 MainBox">
                     <div class="Services">
-                        <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/enterprise.png" alt="" class="img-fluid">
                         <div class="Description DescriptionOne">
                             <h3 class="TitleH3">Application Services</h3>
                             <p>Zenosys is an IT service provider
@@ -34,7 +34,7 @@
                                 services. Our offshore center is
                                 located on the West Coast India</p>
                             <div class="ReadMore">
-                            <a href="">Read More </a>
+                            <a href="<?php echo base_url() ?>OurServices/application_services">Read More</a>
                             </div>
                         </div>
 
@@ -43,16 +43,16 @@
                 </div>
                 <div class="col-md-4 MainBox">
                     <div class="Services">
-                        <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
+                        <img src="<?php echo base_url(); ?>assets/images/staffing.png" alt="" class="img-fluid">
                         <div class="Description DescriptionTwo">
                             <h3 class="TitleH3">Professional Services</h3>
                             <p>Zenosys is an IT service provider
                                 focusing on product engineering
                                 services. Our offshore center is
                                 located on the West Coast India</p>
-                            
+
                             <div class="ReadMore">
-                            <a href="">Read More </a>
+                             <a href="<?php echo base_url() ?>OurServices/professional_services">Read More</a>
                             </div>
                         </div>
 
@@ -68,9 +68,9 @@
                                 focusing on product engineering
                                 services. Our offshore center is
                                 located on the West Coast India</p>
-                            
+
                             <div class="ReadMore">
-                            <a href="">Read More </a>
+                             <a href="<?php echo base_url() ?>OurServices/infrastructure_services">Read More</a>
                             </div>
                         </div>
 
@@ -802,7 +802,7 @@
                         <li><a  title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                         <li><a  title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
                         <li><a  title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a  title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a  title="Linkedin" href="https://www.linkedin.com/company/zenosys/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 <!--                        <li><a  title="Linkedin"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
 
 
