@@ -45,12 +45,17 @@
 
             </div>
 
+    
+    
+    
+    
+    
      <div class="row CustomeRows">
 <style>
 
     .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
 </style>
-                <div class="col-md-8 WhyZenosysContent">
+                <div class="WhyZenosysContent">
 
                     <h2 class="TitleH2">Professional Services</h2>
 
@@ -67,9 +72,13 @@
                      <p class="TitleP">Shortened timeframes, unique skill-set requirements or the need for stringent internal controls may force you to look for a partner who can make your objectives an operational reality. Zenosys' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives. It is a collaborative onsite model with the value addition of a dedicated account management team to give you the benefit of the right resources with the control they would exercise over an in-house team. If you are looking to minimize risk, administration, and recruitment costs, then workforce management is the answer. Get in touch with Zenosys to learn more on how to leverage our proven experience and knowledge, to make your technology objectives a reality.</p>
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/internet-of-things.png" class="img-fluid">
+          <img src="<?php echo base_url(); ?>assets/images/staffing1.png" class="img-fluid CommanImg" height="100%" >
        </div>
+         
+         
+         
             </div>
+<!--
               <div class="row CustomeRows">
 <style>
 
@@ -77,14 +86,18 @@
 </style>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
 
-           <img src="<?php echo base_url(); ?>assets/images/internet-of-things.png" class="img-fluid">
+           
 
                 </div>
+                  
+                   <img src="<?php echo base_url(); ?>assets/images/staffing2.png" class="img-fluid CommanImg" height="100%" style="left: -100px;max-width: 40%;">
        <div class="col-md-8 WhyZenosysContent">
                     <h3 class="TitleH3">Recruitment Process Outsourcing</h3>
                     <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
        </div>
             </div>
+-->
+<!--
               <div class="row CustomeRows">
 <style>
 
@@ -96,9 +109,12 @@
                      <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/internet-of-things.png" class="img-fluid">
+          <img src="<?php echo base_url(); ?>assets/images/staffing3.png" class="img-fluid CommanImg" height="100%" style="max-width:50%;right:0;" >
        </div>
+                  
             </div>
+-->
+<!--
                    <div class="row CustomeRows">
 <style>
 
@@ -106,14 +122,16 @@
 </style>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
 
-           <img src="<?php echo base_url(); ?>assets/images/internet-of-things.png" class="img-fluid">
+          
 
                 </div>
+                        <img src="<?php echo base_url(); ?>assets/images/MSP.png" class="img-fluid CommanImg" height="100%" style="left: -100px;max-width: 40%;">
        <div class="col-md-8 WhyZenosysContent">
                     <h3 class="TitleH3">Managed Staffing Services</h3>
                      <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
        </div>
             </div>
+-->
 
 
 
