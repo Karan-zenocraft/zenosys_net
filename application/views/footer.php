@@ -28,7 +28,7 @@
                     <div class="Services">
                         <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
                         <div class="Description DescriptionOne">
-                            <h3 class="TitleH3">Staffing Services</h3>
+                            <h3 class="TitleH3">Application Services</h3>
                             <p>Zenosys is an IT service provider
                                 focusing on product engineering
                                 services. Our offshore center is
@@ -42,7 +42,7 @@
                     <div class="Services">
                         <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
                         <div class="Description DescriptionTwo">
-                            <h3 class="TitleH3">Enterprise Architecture</h3>
+                            <h3 class="TitleH3">Professional Services</h3>
                             <p>Zenosys is an IT service provider
                                 focusing on product engineering
                                 services. Our offshore center is
@@ -56,7 +56,7 @@
                     <div class="Services">
                         <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
                         <div class="Description DescriptionThree">
-                            <h3 class="TitleH3">Latest Technologies</h3>
+                            <h3 class="TitleH3">Infrastructure Services</h3>
                             <p>Zenosys is an IT service provider
                                 focusing on product engineering
                                 services. Our offshore center is
@@ -729,20 +729,20 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="d-flex align-items-center justify-content-start AwardColumn">
-                
-                
+
+
                 <ul class="d-flex align-items-center justify-content-start col-md-6 p-0">
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a1.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a2.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a3.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a4.png" class="img-fluid"></a></li>
-                    
+
 
 
 
 
                 </ul>
-                    
+
                     <ul class="d-flex align-items-center justify-content-start col-md-6 p-0">
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a5.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a6.png" class="img-fluid"></a></li>
