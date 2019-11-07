@@ -23,7 +23,7 @@
     .Slider .SliderInner .Caption h1{width: 18em;}
     .Slider .SliderInner .Caption h1:nth-child(2){width: 23em;}
     .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
-    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 122px;}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 137px;}
     .Bg-Dark{margin-bottom:90px; }
 }
     
@@ -51,7 +51,7 @@ h1, .TitleH1{font-size: 20px;line-height: 28px;}
   .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 140px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
     .WhyZenosys .WhyZenosysInner{margin-top: -20px}
-    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 138px;}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 153px;}
     .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
     .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 480px;}
     .GooleMap iframe{height: 200px;}
@@ -80,7 +80,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
   .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 145px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
     .WhyZenosys .WhyZenosysInner{margin: 0px 00px;margin-top: -20px}
-    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 145px;}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 160px;}
     .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
     .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 480px;}
     .GooleMap iframe{height: 200px;}
@@ -225,7 +225,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
   .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 55px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
     .WhyZenosys .WhyZenosysInner{margin: 0px 50px;margin-top: -20px}
-    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 176px;}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 190px;}
     .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
     .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 480px;}
     .GooleMap iframe{height: 200px;}
@@ -289,7 +289,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
 .WhyZenosys .WhyZenosysInner{margin: 0px 0px;margin-top: 25px}
     .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px;}
-     .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 180px;}
+     .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 200px;}
     .CaseStudyBox .container{padding: 0px}
     .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;}
     .StaffingSolution .StaffingSolutionInnerLeft {background-position: 85% 50%;}
