@@ -82,7 +82,7 @@
 
                                 <!-- First Tier Drop Down -->
                                 <label class="toggle DD1">Solutions </label>
-                                <a href="#" class="a arrow">Solutions</a>
+                                <a class="a arrow">Solutions</a>
                                 <input type="checkbox" id="drop-2" />
 
 
@@ -479,7 +479,7 @@
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label  class="toggle DD2">Products </label>
-                                <a href="#" class="a arrow">Products</a>
+                                <a class="a arrow">Products</a>
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2 DD22">
                                     <li><a href="<?php echo base_url(); ?>products/supply_chain">Always Ahead - Supply Chain</a></li>
@@ -496,7 +496,7 @@
 
                                 <!-- First Tier Drop Down -->
                                 <label class="toggle DD3">Engagement Models </label>
-                                <a href="#" class="a arrow">Engagement Models</a>
+                                <a class="a arrow">Engagement Models</a>
                                 <input type="checkbox" id="drop-19" />
                                 <ul class="InnerMenu InnerMenu2 DD33">
                                     <li><a href="<?php echo base_url(); ?>models/onshore">On-site Delivery Model</a></li>
@@ -523,7 +523,7 @@
                             <li>
                                <!-- First Tier Drop Down -->
                                <label  class="toggle DD4">Industries </label>
-                               <a href="#" class="a arrow">Industries</a>
+                               <a class="a arrow">Industries</a>
                                      <input type="checkbox" id="drop-20"/>
                                <ul class="InnerMenu InnerMenu2 DD44">
                                    <li><a href="<?php echo base_url(); ?>industries/financialindustries">Financial Services</a></li>

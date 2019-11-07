@@ -56,15 +56,15 @@
 
                 <div class="col-md-12 WhyZenosysContent SiteMap">
                     <h2 class="TitleH2">Sitemap</h2>
-                    <p class="TitleP"></p>
-                    <div class="row">
+                    
+                    <div class="row TitleRow">
                     <div class="arrow-right"></div><label class="label">Solutions</label>
                     
                     
                     </div>
                     
                     
-                    <div class="row CustomePadding">
+                    <div class="row">
                        
                         
                         <div class="col-md-3">
@@ -168,7 +168,7 @@
                         </div>
                     
                     
-                    <div class="row CustomePadding Second">
+                    <div class="row">
                        
                         
                         <div class="col-md-3">
@@ -244,7 +244,7 @@
                         </div>
                     
                     
-                    <div class="row">
+                    <div class="row TitleRow">
                     
                     <div class="d-flex">
                     <div class="arrow-right"></div>
@@ -253,7 +253,7 @@
                         </div>
                         
                     </div>
-                        <div class="row CustomePadding">
+                        <div class="row">
                        
                         
                         <div class="col-md-3">
