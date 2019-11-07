@@ -67,7 +67,7 @@
                     <div class="row">
                        
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                        
                        <ul>
                         <label>Enterprise Applications</label>
@@ -94,7 +94,7 @@
                             </div>
                         
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                         
                         <ul>
                         <label>Application Development</label>
@@ -116,7 +116,7 @@
                         
                         </div>
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                             
                             <ul>
                        <label>Emerging Technologies</label>
@@ -142,7 +142,7 @@
                         </div>
                         
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                         
                         
                         <ul>
@@ -171,7 +171,7 @@
                     <div class="row">
                        
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                        
                         
                         
@@ -191,7 +191,7 @@
                             </div>
                         
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                         
                         
                         
@@ -206,7 +206,7 @@
                         
                         </div>
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                             
                             
                         
@@ -225,7 +225,7 @@
                         </div>
                         
                         
-                        <div class="col-md-3">
+                        <div class="col-md-3 CustomeColumn">
                         
                         
                        
