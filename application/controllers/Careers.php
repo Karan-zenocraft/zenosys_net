@@ -30,11 +30,11 @@ class Careers extends MY_Controller
         $config['last_tag_open'] = '<li>';
         $config['last_tag_close'] = '</li>';
 
-        $config['prev_link'] = '<i class="fa fa-long-arrow-left"></i>Previous Page';
+        $config['prev_link'] = '<i class="fa fa-angle-left"></i>';
         $config['prev_tag_open'] = '<li>';
         $config['prev_tag_close'] = '</li>';
 
-        $config['next_link'] = 'Next Page<i class="fa fa-long-arrow-right"></i>';
+        $config['next_link'] = '<i class="fa fa-angle-right"></i>';
         $config['next_tag_open'] = '<li>';
         $config['next_tag_close'] = '</li>';
 
