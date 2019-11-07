@@ -602,6 +602,8 @@ $(document).ready(function() {
       var message = $("input[name='message']").val();
       var subject = $("input[name='subject']").val();
         var captcha = $("input[name='captcha']").val();
+        console.log(captcha);
+        return false;
 
       $.ajax({
 
