@@ -52,7 +52,7 @@
             <p class="TitleP">The alignment of business strategy with IT strategy has been a common concern for Chief Technology Officers for enterprises of all sizes. We focus on losing the distinctiveness of the IT strategy, and highlight the significance of transforming business and IT strategies into one harmonious strategy rather than pursuing the alignment of Business strategy and IT Strategy.</p>
 
             <p class="TitleP">
-                While you keep an eye on the Corporate Strategy, Business Strategy and Functional Strategy, we derive and optimize the core components of your enterprise IT Strategy
+                While you keep an eye on the Corporate Strategy, Business Strategy and Functional Strategy, we derive and optimize the core components of your enterprise IT Strategy.
             </p>
 
         </div>

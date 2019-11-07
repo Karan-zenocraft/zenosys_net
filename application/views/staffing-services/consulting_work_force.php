@@ -17,7 +17,7 @@
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
 
-                    <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Consulting-work-force.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Consulting Work Force</h6>
                     <p>For a specialized team that partners your ideas</p>
@@ -25,7 +25,7 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Manage-staffing-provider.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">MSP (Manage Staffing Provider)</h6>
                     <p>A one stop solution for workforce recruitment</p>
 
@@ -33,7 +33,7 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Permenant-placement.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Permanent Placement</h6>
                     <p>The power to build your dream team without all the hassle</p>

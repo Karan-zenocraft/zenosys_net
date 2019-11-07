@@ -59,7 +59,11 @@
             </div>
 
 
-            <div class="row">
+                   <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Degree360 HRMS</h2>
@@ -67,9 +71,9 @@
 
                    <p class="TitleP">Cloud based design allows easy scaling of the application as your enterprise grows and moves into newer horizons. Adapter applications are bundled in the software to fetch/push/synchronize data between Degree360 and any other existing HRMS solution used by your enterprise. System configuration changes are persisted with rule-snapshot to ensure that your enterprise conforms to all audit-protocols and compliance regulations.</p>
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/CHURNPREDICT---K-FACTOR.png" class="img-fluid CommanImg">
+        </div>
             </div>
 
 

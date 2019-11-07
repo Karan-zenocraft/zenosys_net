@@ -36,7 +36,7 @@
                 </div>
                   <div>
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/Predictive-analysis2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Predictive-analysis1.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Predictive Analytics</h6>
                     <p>The power to stay one step ahead and plan for the future</p>

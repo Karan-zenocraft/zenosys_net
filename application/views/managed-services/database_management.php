@@ -13,20 +13,20 @@
              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
 
                 <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Database-management-service.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Database Management Services</h6>
                     <p>Value driven data for efficiency you can count on</p>
 
                 </div></div>
                <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/App-management-service.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Application Management Services</h6>
                     <p>Flawless and unhindered working for your applications</p>
 
                 </div></div>
                <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Infrastructure-management-service.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Infrastructure Management Services</h6>
                     <p>Enhanced dependability and efficiency for all your processes</p>

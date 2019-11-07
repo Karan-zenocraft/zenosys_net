@@ -13,20 +13,20 @@
              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
 
                <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/data-quality-management.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Data Quality Management</h6>
                     <p>Great accuracy in data for dependable decision making</p>
 
                 </div></div>
                <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Business-intelligence.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Business Intelligence</h6>
                     <p>Intelligent tools for the new-age businesses</p>
 
                 </div></div>
                <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/SAP-Cloud.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">SAP Cloud Analytics</h6>
                     <p>Enhanced decision making and planning with the power of analytics</p>

@@ -59,7 +59,11 @@
             </div>
 
 
-            <div class="row">
+                    <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Always Ahead - Supply Chain</h2>
@@ -68,9 +72,9 @@
                   <p class="TitleP">Always Ahead is a cloud based platform that allows for setup of functional entities in your business and, derives core set of factors using constraint based modeling providing greatest predictive accuracy. Portal provides intuitive dashboards to render complex findings related to factors influencing inventory levels, supplier quality, demand forecasting, procure-to-pay, production planning, order-to-cash and transportation management. </p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/ALWAYS-AHEAD---SUPPLY-CHAIN.png" class="img-fluid CommanImg">
+        </div>
             </div>
 
 

@@ -10,9 +10,10 @@
     }
 
 </style>        <div class="container">
-                 <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+             <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+               <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/lagacy-app-transform.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Legacy Application Transformation</h6>
                     <p>Intelligent and value-driven transformation of your app</p>
@@ -20,16 +21,16 @@
                 </div></div>
 
                <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">Custom Application Development</h6>
-                    <p>Building smart and efficient applications from a scratch</p>
-
-                </div></div>
-               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/App-integration.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Application Integration</h6>
                     <p>Easy and hassle free integration for new applications</p>
+                </div></div>
+               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/Custom-app-development.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">Custom Application Development</h6>
+                    <p>Building smart and efficient applications from a scratch</p>
+
                 </div></div>
            <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">

@@ -58,7 +58,11 @@
 
             </div>
 
-            <div class="row">
+                        <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Warehouse Controller</h2>
@@ -66,9 +70,9 @@
                     <p class="TitleP">Equipped with predictive analytics, Warehouse Controller will significantly minimize the requirement of safety stock which translates directly into efficient inventory turnover and better use of your warehouse space. On an average, Warehouse Controller was able to realize 23% for better consumption while providing easy to use interface for inventory-depletion tracking and enhanced cycle-counting. EXper Cycle-Counting feature in this application will almost eradicate or drastically minimize the requirement for expensive physical inventories.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/WAREHOUSE-CONTROLLER.png" class="img-fluid CommanImg">
+        </div>
             </div>
 
 

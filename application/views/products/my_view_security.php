@@ -59,7 +59,11 @@
             </div>
 
 
-            <div class="row">
+                       <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">MyView - Security</h2>
@@ -68,9 +72,9 @@
             <p class="TitleP">While providing the centralized portal for individual users, platform can be extended for an on-premise customized installation to better access-control security, monitoring and configuring duties mapped in your organization. While the platform supports most legacy devices, conforming ONVIF devices as well as IoT devices allows for lot more functionality within the platform.</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+               <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/security.png" class="img-fluid CommanImg">
+        </div>
             </div>
 
 

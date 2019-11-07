@@ -10,23 +10,23 @@
     }
 
 </style>        <div class="container">
-             <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
 
                <div> <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/performence-engg.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Performance Engineering</h6>
                     <p>Perfecting performance for unparalleled productivityp</p>
 
                 </div></div>
                 <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Automation.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Automation</h6>
                     <p>Increased efficiency and uniformity across all operations</p>
                 </div></div>
                 <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Functional-engg.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Functional Engineering</h6>
                     <p>Increased efficiency and uniformity across all operations</p>
 

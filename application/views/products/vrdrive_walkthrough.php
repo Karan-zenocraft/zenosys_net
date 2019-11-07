@@ -59,7 +59,11 @@
             </div>
 
 
-            <div class="row">
+                        <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">VRDrive WalkThrough</h2>
@@ -67,9 +71,9 @@
 
                    <p class="TitleP">VRDrive Walkthrough provides an easy-to-use platform to transform Revit and SketchUp Models into Virtual Reality modules that can quickly transform your BIM data. VRDrive also allows manipulation of Revit Project data by adding extensions allowing an easily configurable Virtual Reality experience for your Oculus Rift gear. Cloud-based CDN setup for the projects allow for aggressive designer collaboration.</p>
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/VRDRIVE-WALKTHROUGH.png" class="img-fluid CommanImg">
+        </div>
             </div>
 
 

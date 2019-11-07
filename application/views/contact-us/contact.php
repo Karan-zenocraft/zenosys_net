@@ -305,10 +305,11 @@
 
                    <div class="LocationBoxs">
                        <img src="<?php echo base_url(); ?>assets/images/location1.jpg" alt="" class="rounded-circle">
-                       <h3 class="TitleH3">USA Office</h3>
+                       <h3 class="TitleH3">USA Corporate Office</h3>
                        <p>3084 State Route 27, Suite 12, Kendall Park,NJ 08824, USA</p>
-                       <a href="tel:+1 7329674783" class="Phone">+1 7329674783</a>
-                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> test@zenosys.net</a>
+                       <a href="tel:+1 888.406.2862" class="Phone">+1 888.406.2862</a>
+                        <a href="mailto:inquiry@zenosys.com"><i class="fa fa-envelope"></i>inquiry@zenosys.com</a>
+                         <a href="tel:+1 732.584.2421"><i class="fa fa-fax"></i>+1 732.584.2421</a>
                     </div>
 
                     </div>
@@ -320,8 +321,9 @@
                        <img src="<?php echo base_url(); ?>assets/images/location2.jpg" alt="" class="rounded-circle">
                        <h3 class="TitleH3">India Office</h3>
                        <p>22, Second Floor, Magnet Corporate Park S.G Road, Ahmedabad-380054</p>
-                       <a href="tel:+1 7329674783" class="Phone">+91 7447389292</a>
-                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> mail@zenocraft.com</a>
+                       <a href="tel:+91 79-35905939" class="Phone">+91 79-35905939</a>
+                        <a href="mailto:inquiry.IN@zenosys.com"><i class="fa fa-envelope"></i>inquiry.IN@zenosys.com</a>
+                          <a href="tel:+1 732.584.2421"><i class="fa fa-fax"></i>+1 732.584.2421</a>
                     </div>
 
 
@@ -335,10 +337,11 @@
 
                    <div class="LocationBoxs">
                        <img src="<?php echo base_url(); ?>assets/images/location1.jpg" alt="" class="rounded-circle">
-                       <h3 class="TitleH3">USA Office</h3>
+                       <h3 class="TitleH3">USA Corporate Office</h3>
                        <p>103 Carnegie Center, Suite 300 Princeton, New Jersey 08540, USA</p>
-                       <a href="tel:+1 7329674783" class="Phone">+1 732 967 4783</a>
-                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> test@zenosys.net</a>
+                       <a href="tel:+1 877.833.5875" class="Phone">+1 877.833.5875</a>
+                        <a href="mailto:inquiry.US@zenosys.com"><i class="fa fa-envelope"></i>inquiry.US@zenosys.com</a>
+                          <a href="tel:+1 732.584.2421"><i class="fa fa-fax"></i>+1 732.584.2421</a>
                     </div>
 
                     </div>
@@ -348,10 +351,11 @@
 
                    <div class="LocationBoxs">
                        <img src="<?php echo base_url(); ?>assets/images/location1.jpg" alt="" class="rounded-circle">
-                       <h3 class="TitleH3">Canada Office</h3>
+                       <h3 class="TitleH3">Canada Main Office</h3>
                        <p>10665 Jasper Avenue, 14th Floor, Edmonton, Alberta, T5J 3S9, Canada</p>
-                       <a href="tel:+1 7329674783" class="Phone">+91 7447389292</a>
-                        <a href="mailto:test@zenosys.net"><i class="fa fa-envelope"></i> mail@zenocraft.com</a>
+                       <a href="tel:+1 888.406.2862" class="Phone">+1 888.406.2862</a>
+                    <a href="mailto:inquiry.CA@zenosys.com"><i class="fa fa-envelope"></i>inquiry.CA@zenosys.com</a>
+                        <a href="fax:+1 732.584.2421"><i class="fa fa-fax"></i>+1 732.584.2421</a>
                     </div>
 
 

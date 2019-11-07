@@ -59,7 +59,11 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">ChurnPredict - K Factor</h2>
@@ -67,11 +71,9 @@
 
                   <p class="TitleP">ChurnPredict is a Knime based decision-tree model that allows for tracking upto 256 data points related to a customer, and identifying the decision tree model that suits your business-customer pattern using a recursion based K-factor mapping with constant training/testing sets swapping. Analytics derived from the ChurnPredict can be configured to be consumed for reporting, notification or other proactive action system.</p>
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/CHURNPREDICT---K-FACTOR.png" class="img-fluid CommanImg">
+        </div>
             </div>
-
-
 
         </div>

@@ -59,7 +59,11 @@
             </div>
 
 
-            <div class="row">
+                       <div class="row CustomeRows">
+<style>
+
+    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
+</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Jakaru Postgres BDR</h2>
@@ -68,9 +72,9 @@
                    <p class="TitleP">Asynchronous transmission of changes via database-triggers to other node in the replication-setup allows the node with the change-source to be unaware of the behind the scene replication process allowing 0 latency for DML. Perl based daemon to synchronize DDL changes to other nodes ensures the entities to be in sync while allowing transactions failing due to entity discrepancy to be queued for rerun. Supported Version of Postgres: 9.4.x, 9.5.x, 9.6.x, 10.10, 11.5, 12.0</p>
 
                 </div>
-                 <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" width="100%" height="100%">
-                 </div>
+                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
+            <img src="<?php echo base_url(); ?>assets/images/JAKARU-POSTGRES-BDR.png" class="img-fluid CommanImg">
+        </div>
             </div>
 
 
