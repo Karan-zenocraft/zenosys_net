@@ -10,7 +10,7 @@
             </div>
             <div>
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/Data-science2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Data-science1.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Data Science</h6>
                     <p>The power of data to chart your path to success</p>
@@ -18,7 +18,7 @@
                 </div>
                 <div>
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/Deep-learning2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Deep-learning1.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Deep Learning Technologies</h6>
                     <p>Technological transformation for unparalleled potential</p>
@@ -27,7 +27,7 @@
                 </div>
                <div>
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/Ai2.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/Ai1.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Artificial Intelligence</h6>
                     <p>Smart AI solutions for demanding projects and ideas</p>

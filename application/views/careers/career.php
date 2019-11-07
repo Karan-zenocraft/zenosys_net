@@ -1,8 +1,8 @@
-        <div class="container">
-               <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+      <div class="container">
+            <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
         <div>
             <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                <img src="<?php echo base_url(); ?>assets/images/icon1.png" alt="" class="img-fluid">
+                <img src="<?php echo base_url(); ?>assets/images/Cost-Management.png" alt="" class="img-fluid">
                 <h6 class="TitleH6">Cost Management</h6>
                 <p>Offer cost management techniques that aims at reducing IT costs while strengthening the quality of the offering</p>
 
@@ -11,7 +11,7 @@
         <div>
             <div class="slide-content col-md-12 WhyZenosysInnerBox">
 
-                <img src="<?php echo base_url(); ?>assets/images/icon2.png" alt="" class="img-fluid">
+                <img src="<?php echo base_url(); ?>assets/images/Human-capital-Management.png" alt="" class="img-fluid">
 
                 <h6 class="TitleH6">Human capital Management</h6>
                 <p>Improve/Utilize core people capabilities to derive competitive advantage</p>
@@ -19,7 +19,7 @@
         </div>
         <div>
             <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                <img src="<?php echo base_url(); ?>assets/images/icon3.png" alt="" class="img-fluid">
+                <img src="<?php echo base_url(); ?>assets/images/Asset-Management.png" alt="" class="img-fluid">
 
                 <h6 class="TitleH6">Asset Management </h6>
                 <p> ITAM strategies for overseeing, managing and optimizing company-owned IT systems, hardware, processes and data</p>
@@ -28,7 +28,7 @@
         </div>
         <div>
             <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+                <img src="<?php echo base_url(); ?>assets/images/Risk-Management.png" alt="" class="img-fluid">
 
                 <h6 class="TitleH6">Risk Management</h6>
                 <p>Assess the business risk associated with the use of, the ownership, operation or adaption of IT in the organization</p>
