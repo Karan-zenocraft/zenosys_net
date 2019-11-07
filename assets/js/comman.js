@@ -63,8 +63,8 @@ AOS.init({
 
         $(window).on('load', function() {
                 $('#loading').fadeOut();
-                $('#Load').delay(2500).fadeOut('slow');
-                $('body').delay(2500).css({
+                $('#Load').delay(00).fadeOut('slow');
+                $('body').delay(00).css({
                     'overflow': 'visible'
                 });
             })

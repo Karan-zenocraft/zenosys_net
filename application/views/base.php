@@ -28,17 +28,17 @@
     <!------Loader------->
 
 
-    <!--
+    
 <div id="Load" class="load">
-      <div class="load__container">
-        <div class="load__animation">
-        <img src="./img/Loader.gif" alt="Loader" class="img-fluid">
-        </div>
+      <div class="load__container text-center">
+<!--        <div class="load__animation">-->
+        <img src="<?php echo base_url(); ?>assets/images/logo.png" alt="Loader" class="img-fluid" style="max-width:50%;">
+<!--        </div>-->
         <div class="load__mask"></div>
-        <span class="load__title">Karan <span>Solanki</span></span>
+<!--        <span class="load__title">Karan <span>Solanki</span></span>-->
       </div>
     </div>
--->
+
 
 
     <!------Floating------->

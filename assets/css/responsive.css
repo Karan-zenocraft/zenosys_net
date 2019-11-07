@@ -103,7 +103,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .Social .SocialIcons i{font-size: 16px;}
     .Social .SocialIcons li{    margin: 0px 10px;}
     .Social .SocialIcons{width: 100%;margin-top:0px!important;justify-content: space-between!important;}
-     .CustomeRows .CommanImg{max-width: 60%;}
+     .CustomeRows .CommanImg{max-width: 100%;}
     .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;}
      .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox h6{font-size: 12px;}
     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 10px;}
@@ -275,7 +275,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft h2:before{bottom: -10px}
     .StaffingSolution .StaffingSolutionInnerRight h2{margin-bottom: 25px;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft h2{margin-bottom: 25px;}
-    .WhyZenosys .WhyZenosysContent h2{margin-bottom: 25px;}
+    .WhyZenosys .WhyZenosysContent h2{margin-bottom: 0px;}
     .WhyZenosys .ContactBox h2{margin-bottom: 50px;}
     .ContactBox.WhyZenosysContent.LocationBox .row .col-md-6:first-child{padding-left: 0px;padding-right: 5px}
     .ContactBox.WhyZenosysContent.LocationBox .row .col-md-6:last-child{padding-left: 5px;padding-right: 0px}
@@ -312,7 +312,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     .Social .SocialIcons i{font-size: 16px;}
     .Social .SocialIcons li{    margin: 0px 10px;}
     .Social .SocialIcons{width: 100%;margin-top:0px!important;justify-content: space-between!important;}
-    .CustomeRows .CommanImg{max-width: 55%;right: -20px;}
+    .CustomeRows .CommanImg{max-width: 100%;right: -20px;}
     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-left: 40px;
     padding-right: 40px;}
     .slick-prev{left: 10px}
@@ -365,7 +365,7 @@ h3, .TitleH3{font-size: 16px;}
 h2:before, .TitleH2:before{right: 0;margin: auto;bottom: -12px!important;}
 h6, .TitleH6{font-size: 13px;}
     .SoftwareDevelopment .SoftwareDevelopmentRight{margin-bottom: 40px;}   
-
+    .WhyZenosys .WhyZenosysContent.col-md-8{padding-bottom: 0;}
     .WhyZenosys .Careers .table thead th{font-size: 13px;}
     .WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 8px;}
     .WhyZenosys .Careers .table td{font-size: 12px;}
@@ -386,8 +386,8 @@ h6, .TitleH6{font-size: 13px;}
    
 .CustomeRows .CommanImg{position:unset;}    
     .WhyZenosys{padding-bottom: 0px!important;}
-.OurExpertise{padding-top: 40px;padding-bottom: 40px;}
-    
+.OurExpertise{padding-top: 30px;padding-bottom: 30px;}
+    .ClientsList{padding-top: 0px;}
 /*.Slider{display: none;}*/
 .WhyZenosys{padding: 50px 0px;}
 .WhyZenosys .WhyZenosysInner{margin-top: 0;margin: 0;padding: 0;}
@@ -396,7 +396,7 @@ h6, .TitleH6{font-size: 13px;}
     padding-right: 60px;
     padding-bottom: 30px;
     }
-.WhyZenosys .WhyZenosysContent{padding: 0px 15px;padding-top:50px;}
+.WhyZenosys .WhyZenosysContent{padding: 0px 15px;padding-top:30px;}
     .ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 0;}
     .ContactBox .LocationBoxs{margin-bottom: 15px;}
     .ContactBox form .captcha{margin-bottom: 30px;}
@@ -409,8 +409,8 @@ h6, .TitleH6{font-size: 13px;}
     .SendBtn{display: block;margin: auto;height: 30px;
     width: 150px;}
     .WhyZenosys .WhyZenosysContent.col-md-4{padding-top: 0px;}
-.WhyZenosys .WhyZenosysContent h2{margin-bottom: 30px;}
-.WhyZenosys .WhyZenosysContent p{padding: 0;text-align: center;margin-bottom: 25px;}
+.WhyZenosys .WhyZenosysContent h2{margin-bottom: 0px;}
+.WhyZenosys .WhyZenosysContent p{padding: 0;text-align: center;margin-bottom: 15px;}
 .WhyZenosys .WhyZenosysContent p:last-child{margin-bottom: 0px;}
    
     
@@ -418,8 +418,8 @@ h6, .TitleH6{font-size: 13px;}
     .WhyZenosys .WhyZenosysContent ul li{text-align: center;font-size: 13px;line-height: 20px;margin-bottom: 15px;padding-left: 0;}
     .WhyZenosys .WhyZenosysContent ul li:after{content: unset}
     
-.CaseStudy{padding-top: 30px;padding-bottom: 30px;}
-.CaseStudy .CaseStudyInner h2{margin-bottom: 10px;}
+.CaseStudy{padding-top: 15px;padding-bottom:15px;}
+.CaseStudy .CaseStudyInner h2{margin-bottom: 0px;}
 .CaseStudyBox .CaseStudyInnerBox .MainBox{padding-left: 0px;padding-right: 0;padding-top: 35px;}
 .CaseStudyBox .CaseStudyInnerBox .Services img{height: unset;width: 100%;}
 .CaseStudyBox .CaseStudyInnerBox{margin-top: 0px;margin: 0;}
@@ -427,19 +427,21 @@ h6, .TitleH6{font-size: 13px;}
 .CaseStudyBox{padding-bottom: 0;}
 .CaseStudyBox .CaseStudyInnerBox .MainBox{margin-top: 0px;}
 
-.OurExpertise .OurExpertiseInner h2{margin-bottom: 30px;}
+.OurExpertise .OurExpertiseInner h2{margin-bottom: 0px;}
 .OurExpertise .Box{padding: 0px 5px;margin-bottom: 10px;}
 .OurExpertise .CustomeRow{padding: 0px 0px;margin-top: 0px;}
 .OurExpertise .CustomeRow:nth-child(2){margin-top: 10px;}
 .OurExpertise .CustomeRow .col-xs-4{width: 50%;}
     
+    .SoftwareDevelopment .SoftwareDevelopmentLeft p{text-align: center;font-size: 13px;margin-bottom: 15px;}
+    
 .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;text-align: center;margin-bottom: 0px;}
-.StaffingSolution .StaffingSolutionInnerRight{padding-left: 15px;padding-top: 40px;padding-bottom: 40px;}
-.SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;padding-top: 40px;}
-.SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{position: unset;display: block;margin: auto;}
+.StaffingSolution .StaffingSolutionInnerRight{padding-left: 15px;padding-top: 30px;padding-bottom: 30px;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;padding-top: 30px;}
+.SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{position: unset;display: block;margin: auto;height: auto;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft li{padding-left: 0px;text-align: center;margin-bottom: 15px;font-size: 13px;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft li:after{content: unset;}
-.SoftwareDevelopment .SoftwareDevelopmentLeft h2{margin-bottom: 30px;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft h2{margin-bottom: 0px;}
 .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 100%}
 
 /*
@@ -465,20 +467,24 @@ h6, .TitleH6{font-size: 13px;}
     .Social .SocialInnerRight .SocialIcons{margin-top: 20px!important;}
     .Social{padding-bottom: 10px;}
     
+    .Awards .AwardColumn{flex-direction: column;width: 100%}
+    .Awards .AwardColumn ul{ padding-bottom: 20px!important;padding-top: 20px!important}
+    .Awards{padding: 0px 0px;}
     .Awards ul{
-/*        flex-direction: column;*/
+       
     justify-content: center!important;
     width: 100%;}
 /*    .Awards ul li{margin-bottom: 20px;}*/
-    
-footer{padding-bottom: 20px;padding-top: 40px;}
-footer .FooterInner h2{margin-bottom: 15px;text-align: left;}
-    footer .FooterInner{margin-bottom: 40px;}
+    footer .FooterInnerRight iframe{margin-top: 10px;}    
+footer{padding-bottom: 20px;padding-top: 20px;}
+footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
+    footer .FooterInner{margin-bottom: 10px;}
     footer .FooterInner .TitleP{font-size: 13px;line-height: 20px;}
     footer .FooterInner .Address{margin-bottom: 20px;}
     footer .FooterInnerLeft .Address:nth-child(4){margin-bottom: 0px;}
     footer .col-md-6.justify-content-end{justify-content: flex-start!important;order: 0;}
-    footer .col-md-6.justify-content-start{}
+    footer .col-md-6.justify-content-start{order: 1;}
+    footer .col-md-6.justify-content-start .Address a, footer .col-md-6.justify-content-end .Address a{letter-spacing: 2px;}
 /*
     footer .FooterInner h2{position: relative;}
     footer .FooterInner h2:before{right: unset;margin: unset;background: #ffffff;bottom: -7px!important;height: 1px;}

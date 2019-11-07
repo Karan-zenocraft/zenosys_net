@@ -35,7 +35,7 @@ h2, .TitleH2{font-size: 20px;
     padding: 15px 0px;
     line-height: 25px;
     font-family: 'Arial';
-    letter-spacing: 2px;
+    letter-spacing: 1.25px;
     text-transform: uppercase;}
 h2:before, .TitleH2:before{
 /*    content: '';*/
@@ -151,7 +151,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 }
 
 /*-------------------Header----------------------*/
-.Header{padding-top: 25px;background: #ffffff;padding-bottom: 20px;}
+.Header{padding-top: 10px;background: #ffffff;padding-bottom: 10px;}
 .Header .HeaderInner .Logo img{max-height: 50px;}
 .Header .HeaderInner .HeaderNav{margin-left: auto;margin-right: 0px;}
 .Header .HeaderInner .HeaderNav ul li{margin: 0px 22px;}
@@ -253,7 +253,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 /*.StaffingSolution .StaffingSolutionInnerLeft{background: url('../images/Banner.jpg');background-size: cover;background-repeat: no-repeat;background-position: center center;}*/
 .StaffingSolution .StaffingSolutionInnerLeft img{height: 100%;}
 .StaffingSolution .StaffingSolutionInnerLeft {background: url(../images/Banner.png);background-size: cover;background-position: 100% 50%;background-repeat: no-repeat;}
-.StaffingSolution .StaffingSolutionInnerRight{padding-top: 25px;padding-bottom: 25px;padding-left: 45px;}
+.StaffingSolution .StaffingSolutionInnerRight{padding-top: 30px;padding-bottom: 40px;padding-left: 45px;}
 .StaffingSolution .StaffingSolutionInnerRight h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;}
 .StaffingSolution .StaffingSolutionInnerRight h2:before{width: 105px;bottom: -10px;}
 .StaffingSolution .StaffingSolutionInnerRight p{line-height: 24px;padding-right: 30px;font-weight: normal;color: #6F7072;text-align: justify}
@@ -264,7 +264,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .SoftwareDevelopment{background:#ffffff; }
 .SoftwareDevelopment .SoftwareDevelopmentRight{position: relative;}
-.SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{position: absolute;right: 15px;bottom: 0;}
+.SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{position: absolute;right: 0px;bottom: 0;height: 420px;}
 /*.SoftwareDevelopment .SoftwareDevelopmentRight{background: url('../images/Banner.jpg');background-size: cover;background-repeat: no-repeat;background-position: center center;position: relative;}*/
 .SoftwareDevelopment .SoftwareDevelopmentRight:after{content: '';position: absolute;right: 0;bottom: 0;width: 560px;background: #174477;height: 2px;}
 .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-top: 75px;padding-left: 120px;}
@@ -315,15 +315,15 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .Social{padding-top: 20px;padding-bottom: 20px;background: #2c2e3a;}
 
 /*-------------------Footer----------------------*/
-footer{padding-top: 30px;padding-bottom: 0px;background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;}
-footer .FooterInner  h2{color: #58abb7;font-weight: normal;margin-bottom: 20px;}
+footer{padding-top: 15px;padding-bottom: 0px;background: url(../images/footer-bg.png);background-size: cover;background-repeat: no-repeat;background-position: 50% 0;background-attachment: fixed;}
+footer .FooterInner  h2{color: #58abb7;font-weight: normal;margin-bottom: 5px;}
 footer .FooterInner .Address{margin-bottom: 25px;}
 footer .FooterInner .Address:last-child{mab}
 footer .FooterInner .Address p, footer .FooterInner a{color: #f1f5f8!important;font-weight: normal;line-height: 24px;margin-bottom: 0px;padding-left: 30px;margin: 10px 0px;padding-right: 30px;margin-bottom: 0;font-family:'Arial';letter-spacing: 0.7px}
 footer .FooterInner a:hover{text-decoration: none;}
 footer .FooterInner .Address .IconLeft{position: relative;}
 footer .FooterInner .Address .IconLeft i{position: absolute;color: #58abb7;font-size: 22px;height: 22px;}
-
+footer .FooterInnerRight iframe{margin-top: 10px;}
 footer .FooterInnerRight .Subscribe .Email{padding: 9px 60px;color: #ffffff!important;background: transparent;text-align: center;border: 1px solid #ffffff;font-family:'Arial';}
 footer .FooterInnerRight .Subscribe .SignUp, footer .FooterInnerRight .Subscribe .Email:focus{outline: none;}
 footer .FooterInnerRight .Subscribe .Email::placeholder{color: #ffffff}
@@ -343,7 +343,7 @@ footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!i
 
 .Social .SiteMap li{margin: 0px 22px;}
 .Social .SiteMap li:first-child{margin-left: 0px}
-.Social .SiteMap li a{color: #fff;font-size: 14px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
+.Social .SiteMap li a{color: #fff;font-size: 12px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
 
 footer .col-md-6.justify-content-end{padding-right: 60px;}
 footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: unset!important}
@@ -356,7 +356,7 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
   border-bottom: 8px solid transparent; 
   border-left:8px solid #ff7070; 
     margin-right: 10px;
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 }
 
 .SiteMap .arrow-right {
@@ -383,9 +383,9 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
 .CustomeRows{position: relative;}
 .CustomeRows .CommanImg{position: absolute;right: 0px;bottom:0;}
 
+.WhyZenosys .Careers .table td a{color: #174477;}
 
-
-
+.WhyZenosys .WhyZenosysContent.col-md-8{padding-bottom: 25px;}
 /*.onlysm{display: none!important}*/
 
 /*.InnerDropdown{display: block!important;}*/
@@ -399,7 +399,8 @@ nav ul .InnerMenu3 .InnerDropdown li{position: unset;
     left: 0;}
 */
 
-nav .menu li .arrow{position: relative;}
+nav .menu li .arrow{position: relative;text-transform: uppercase;font-size: 14px}
+nav .menu li .a{text-transform: uppercase;font-size: 14px;}
 nav .menu li:hover .a{color: #58ABB7;transition: 0.4s all;}
 nav .menu li:hover .arrow:after{width: 0;content: '';position: absolute;left: 0;right: 0;margin: auto;bottom: 8px;
   height: 0; 
@@ -475,7 +476,7 @@ nav ul li {
   margin: 0px;
   display: inline-block;
   float: left;
-    margin: 0px 22px;
+    margin: 0px 17px;
 /*  background-color: #254441;*/
 }
 
@@ -829,8 +830,11 @@ font-family: 'Arial';}
 
 @media all and (max-width : 1199px) {
     .Header .container{max-width: 100%}
-    nav a{font-size: 16px;color: #000;line-height: 20px;padding: 13px 20px;}
-    .InnerDropdown a{font-size: 14px!important}
+    nav a{font-size: 16px;color: #000;line-height: 20px;padding: 10px 20px;}
+    .InnerDropdown a{font-size: 13px!important}
+    .InnerMenu2 li a{font-size: 13px!important}
+    nav ul .InnerMenu2 li:hover a{color: #9299A2;background: unset;
+    }
     .menu li label{color: #000}
     .menu{position: absolute;z-index: 99;
     width: 100%;
@@ -848,7 +852,7 @@ font-family: 'Arial';}
     .InnerMenu label{font-size: 14px!important;font-weight: bold!important;color: #333333!important}
     .InnerMenu2{margin-left: 0px!important;box-shadow:unset!important;-webkit-box-shadow:unset!important;width: 100%;border-bottom:unset}
     .InnerMenu2 li a {
-    padding: 13px 20px;
+    padding: 10px 20px;
         line-height: 20px;}
     .HeaderNavigation{display: none;position: absolute;left: 0;width: 100%;top: 75px;height: 7000px;background: #fff;
     height: 10000px;
@@ -876,14 +880,18 @@ nav .Menubar{float: right;}
     z-index: 999;}
     
     .menu li label{display: block;
-    font-size: 20px;
+    
     line-height: 20px;
         padding: 13px 20px;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Arial';
     font-weight: normal;
+        letter-spacing: 2px;
     color: #000;}
+    
+    .menu li .a{font-size: 14px;letter-spacing: 2px;}
+    .menu li:hover .a{color: #000!important;}
     
     
 .toggle:hover { background-color: #fff; }
