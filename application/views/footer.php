@@ -842,11 +842,11 @@
                         <div class="IconLeft">
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
                             <p class="TitleP">103 Carnegie Center, Suite 300
-                                Princeton,<BR>New Jersey 08540, USA</p>
+                                Princeton,New Jersey 08540, USA</p>
                         </div>
                         <div class="IconLeft">
                             <i class="fa fa-phone"></i>
-                            <a class="TitleP" href="tel:+1 732 967 4783">Phone : +1 732 967 4783</a>
+                            <a class="TitleP" href="tel:+1 877.833.5875">Phone : +1 877.833.5875</a>
                         </div>
                     </div>
 
@@ -881,7 +881,7 @@
                         <div class="IconLeft">
                             <i class="fa fa-phone"></i>
 
-                            <a class="TitleP" href="tel:+1 732 967 4783">Phone : +1 732 967 4783</a>
+                            <a class="TitleP" href="tel:+91 79-35905939">Phone : +91 79-35905939</a>
                         </div>
                     </div>
 
@@ -893,7 +893,7 @@
                         </div>
                         <div class="IconLeft">
                             <i class="fa fa-phone"></i>
-                            <a class="TitleP" href="tel:+1 888-406-2862">Phone : +1 888-406-2862</a>
+                            <a class="TitleP" href="tel:+1 888.406.2862">Phone : +1 888.406.2862</a>
                         </div>
                     </div>
 
