@@ -244,7 +244,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .OurExpertise .Box{padding: 0px 5px;}
 .OurExpertise .Box:hover a{background: #ffffff;transition: .8s all;}
 .OurExpertise .Box:hover img{opacity: 1;transition: .8s all;transform: scale(1.2);filter: grayscale(0);}
-.OurExpertise .Box a{padding: 10px 35px;background-color: #F4F4F4;display: block;border-radius: 6px;}
+.OurExpertise .Box a{padding: 5px 30px;background-color: #F4F4F4;display: block;border-radius: 6px;}
 .OurExpertise .Box a img{max-height: 60px;display: block;margin: auto;opacity: 0.5;transform: scale(1.0);filter: grayscale(1);}
 .OurExpertise .CustomeRow{padding: 0px 50px;margin-top: 10px;}
 
@@ -262,6 +262,18 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .StaffingSolution .StaffingSolutionInnerRight p:last-child{margin-bottom: 0px;}
 /*-------------------SoftwareDevelopment----------------------*/
+.col-md-8.WhyZenosysContent p{padding-right: 0px;}
+.col-md-4.WhyZenosysContent.CustomeBlock{padding-top: 0px;}
+.col-md-8.WhyZenosysContent.CustomeBlock{padding-top: 20px;}
+/*
+.col-md-4.WhyZenosysContent.WhyZenosysContentCustome:after{content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 560px;
+    background: #174477;
+    height: 2px;}
+*/
 
 
 .SoftwareDevelopment{background:#ffffff; }
