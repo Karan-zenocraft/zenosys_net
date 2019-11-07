@@ -1,10 +1,10 @@
         <div class="container">
-            <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
         <div>
             <div class="slide-content col-md-12 WhyZenosysInnerBox">
                 <img src="<?php echo base_url(); ?>assets/images/Cost-Management.png" alt="" class="img-fluid">
                 <h6 class="TitleH6">Cost Management</h6>
-                <p>Offer cost management techniques that aims at reducing IT costs while strengthening the quality of the offering</p>
+                <p>Target IT Cost Reduction while strengthening the quality of services</p>
 
             </div>
         </div>
@@ -13,8 +13,8 @@
 
                 <img src="<?php echo base_url(); ?>assets/images/Human-capital-Management.png" alt="" class="img-fluid">
 
-                <h6 class="TitleH6">Human capital Management</h6>
-                <p>Improve/Utilize core people capabilities to derive competitive advantage</p>
+                <h6 class="TitleH6">Human capital </h6>
+                <p>Assist with improving/utilizing Core People Capabilities to derive competitive edge.</p>
             </div>
         </div>
         <div>
@@ -22,7 +22,7 @@
                 <img src="<?php echo base_url(); ?>assets/images/Asset-Management.png" alt="" class="img-fluid">
 
                 <h6 class="TitleH6">Asset Management </h6>
-                <p> ITAM strategies for overseeing, managing and optimizing company-owned IT systems, hardware, processes and data</p>
+                <p>  ITAM-Oversee, Manage & Optimize Company IT Systems, Hardware, Processes & Data</p>
 
             </div>
         </div>
@@ -31,7 +31,7 @@
                 <img src="<?php echo base_url(); ?>assets/images/Risk-Management.png" alt="" class="img-fluid">
 
                 <h6 class="TitleH6">Risk Management</h6>
-                <p>Assess the business risk associated with the use of, the ownership, operation or adaption of IT in the organization</p>
+                <p>Help Minimize risk with the use, operation & adoption of IT in the organization</p>
 
             </div>
         </div>
