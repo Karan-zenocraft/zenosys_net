@@ -298,7 +298,7 @@
 
                 <div class="col-md-6 ContactBox WhyZenosysContent LocationBox">
                     <div class="row">
-                    <h2 class="TitleH2">OFFICE/DEVELOPMENT CENTERS</h2>
+                    <h2 class="TitleH2">OFFICE / DEVELOPMENT CENTERS</h2>
                     </div>
                     <div class="row">
                     <div class="col-md-6">

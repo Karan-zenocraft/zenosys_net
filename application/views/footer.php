@@ -264,7 +264,7 @@
 
                 <div class="col-md-6 StaffingSolutionInnerRight">
 
-                    <h2 class="TitleH2">Staffing &#8239; Sollutions</h2>
+                    <h2 class="TitleH2">Staffing &#8239; Solutions</h2>
 
                     <p class="TitleP">In the dynamic environment, the need of the hour for companies keeps on changing. The present period might demand skilled data analysts while the upcoming requirement could demand a senior developer to handhold a new venture, and this is inevitable.</p>
                      <p class="TitleP">For organizations that work with a tight budget, getting into the rigmarole of screening and recruiting personnel for limited period roles could spell chaos, on both financial as well as administrative ends.</p>

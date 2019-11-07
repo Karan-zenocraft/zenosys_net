@@ -16,7 +16,7 @@
                     <img src="<?php echo base_url(); ?>assets/images/performence-engg.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Performance Engineering</h6>
-                    <p>Perfecting performance for unparalleled productivityp</p>
+                    <p>Perfecting performance for unparalleled productivity</p>
 
                 </div></div>
                 <div><div class="slide-content col-md-12 WhyZenosysInnerBox">

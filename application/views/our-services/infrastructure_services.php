@@ -69,7 +69,7 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg" style="max-width:85%;right:60px;">
+           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg" style="max-width: 95%;right: 0px;bottom: 65px;">
                </div>
             </div>
 
