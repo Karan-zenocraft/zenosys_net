@@ -99,6 +99,27 @@ function myFunction(x) {
 $(document).ready(function() {
             $(".Menu").click(function() {
                 $('.HeaderNavigation, .HeaderNavigation .menu').slideToggle('fast');
+                
+                
+                $(".HeaderNavigation .menu li .DD22").slideUp("slow");
+         $(".HeaderNavigation .menu li .DD33").slideUp("slow");
+         $(".HeaderNavigation .menu li .DD44").slideUp("slow");
+         $(".HeaderNavigation .menu li .DD11").slideUp("slow");
+         
+         $(".HeaderNavigation .menu li .DD1").removeClass("OutLine");
+         $(".HeaderNavigation .menu li .DD2").removeClass("OutLine");
+         $(".HeaderNavigation .menu li .DD3").removeClass("OutLine");
+         $(".HeaderNavigation .menu li .DD4").removeClass("OutLine");
+         
+
+         $(".HeaderNavigation .menu li .DD11 .DD5").removeClass("OutLine");
+         $(".HeaderNavigation .menu li .DD11 .DD6").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD7").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
             });
             
     
@@ -135,8 +156,31 @@ $(document).ready(function() {
 
 
 $(document).ready(function() {
-    
-    
+//     $(".change").click(function() {
+//      
+//         
+//         $(".HeaderNavigation .menu li .DD22").slideUp("slow");
+//         $(".HeaderNavigation .menu li .DD33").slideUp("slow");
+//         $(".HeaderNavigation .menu li .DD44").slideUp("slow");
+//         $(".HeaderNavigation .menu li .DD11").slideUp("slow");
+//         
+//         $(".HeaderNavigation .menu li .DD1").removeClass("OutLine");
+//         $(".HeaderNavigation .menu li .DD2").removeClass("OutLine");
+//         $(".HeaderNavigation .menu li .DD3").removeClass("OutLine");
+//         $(".HeaderNavigation .menu li .DD4").removeClass("OutLine");
+//         
+//
+//         $(".HeaderNavigation .menu li .DD11 .DD5").removeClass("OutLine");
+//         $(".HeaderNavigation .menu li .DD11 .DD6").removeClass("OutLine");
+//        $(".HeaderNavigation .menu li .DD11 .DD7").removeClass("OutLine");
+//        $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
+//        $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
+//        $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
+//        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
+//        $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
+//         
+//         
+//    });
     
      $(".HeaderNavigation .menu li .DD1").click(function() {
          $(".HeaderNavigation .menu li .DD22").slideUp("slow");
@@ -156,7 +200,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
          
          
@@ -167,7 +211,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
          $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
          
@@ -230,7 +274,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
         $(".HeaderNavigation .menu li .DD11 .DD55").slideToggle("slow");
@@ -243,7 +287,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
         
         
@@ -256,7 +300,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
         
@@ -269,7 +313,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
         
 });
@@ -280,7 +324,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
         $(".HeaderNavigation .menu li .DD11 .DD77").slideToggle("slow");
@@ -292,7 +336,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+       $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
         
 });
@@ -304,7 +348,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD55").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
         $(".HeaderNavigation .menu li .DD11 .DD88").slideToggle("slow");
@@ -316,7 +360,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD5").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
         
 });
@@ -327,7 +371,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD55").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
         $(".HeaderNavigation .menu li .DD11 .DD99").slideToggle("slow");
@@ -339,7 +383,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD5").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
         
 });
@@ -350,7 +394,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD55").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideToggle("slow");
@@ -362,12 +406,14 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD5").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD12").removeClass("OutLine");
         
 });
     
-    $(".HeaderNavigation .menu li .DD11 .DD11").click(function() {
+//    Managed services
+    
+    $(".HeaderNavigation .menu li .DD11 .DD13").click(function() {
         $(".HeaderNavigation .menu li .DD11 .DD66").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD77").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
@@ -376,10 +422,10 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD55").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideUp("slow");
         
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideToggle("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideToggle("slow");
         
-//        outline
-        $(".HeaderNavigation .menu li .DD11 .DD11").toggleClass("OutLine");
+
+        $(".HeaderNavigation .menu li .DD11 .DD13").toggleClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD6").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD7").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
@@ -396,7 +442,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD88").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD99").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD1010").slideUp("slow");
-        $(".HeaderNavigation .menu li .DD11 .DD1111").slideUp("slow");
+        $(".HeaderNavigation .menu li .DD11 .DD3333").slideUp("slow");
         $(".HeaderNavigation .menu li .DD11 .DD55").slideUp("slow");
         
         $(".HeaderNavigation .menu li .DD11 .DD1212").slideToggle("slow");
@@ -408,7 +454,7 @@ $(document).ready(function() {
         $(".HeaderNavigation .menu li .DD11 .DD8").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD9").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD10").removeClass("OutLine");
-        $(".HeaderNavigation .menu li .DD11 .DD11").removeClass("OutLine");
+        $(".HeaderNavigation .menu li .DD11 .DD13").removeClass("OutLine");
         $(".HeaderNavigation .menu li .DD11 .DD5").removeClass("OutLine");
         
 });
