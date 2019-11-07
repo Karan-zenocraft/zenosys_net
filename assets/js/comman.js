@@ -628,12 +628,15 @@ $(document).ready(function() {
                 $(".alert-danger").css('display','none');
 
                 alert(data.success);
+                location.reload();
 
               }else{
 
                 $(".alert-danger").css('display','block');
 
                 $(".alert-danger").html(data.error);
+                location.reload();
+                
 
               }
 
