@@ -176,7 +176,7 @@
 
 <div class="form-group captcha group">
                             <div class="g-recaptcha" data-sitekey="6LdtG8EUAAAAAOPhY_b0YK_QZ6TTkZ9ImOKUcC30" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
-                            <input class="form-control d-none" name="captcha" data-recaptcha="true" required data-error="Please complete the Captcha">
+                            <input type="text" class="form-control d-none" name="captcha" data-recaptcha="true" required data-error="Please complete the Captcha">
 
         <div class="form-group group">
 
