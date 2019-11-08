@@ -38,7 +38,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
                     <h2 class="TitleH2">Hybrid Model</h2>
                     <p class="TitleP">Growing quickly and capturing as many opportunities as possible, can happen only when the company is backed by a strong and skilled team that has the potential execute intricate tasks head-on with utmost quality. The hybrid model enables you in doing just that.</p>
@@ -46,7 +46,7 @@
 
                 </div>
                    <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/Hybrid_Model.png" width="100%" height="100%">
+                    <img src="<?php echo base_url(); ?>assets/images/Hybrid_Model.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
                  </div>
             </div>
 

@@ -72,7 +72,7 @@
                   <p class="TitleP">ChurnPredict is a Knime based decision-tree model that allows for tracking upto 256 data points related to a customer, and identifying the decision tree model that suits your business-customer pattern using a recursion based K-factor mapping with constant training/testing sets swapping. Analytics derived from the ChurnPredict can be configured to be consumed for reporting, notification or other proactive action system.</p>
                 </div>
                   <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/CHURNPREDICT---K-FACTOR.png" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/CHURNPREDICT---K-FACTOR.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
         </div>
             </div>
 

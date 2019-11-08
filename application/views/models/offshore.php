@@ -38,7 +38,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
                     <h2 class="TitleH2">Offshore Model</h2>
                     <p class="TitleP">Companies in the existing competitive environment need to move at god speed in order to get maximum done, while ensuring high quality and cost-effectiveness. The off-shore model is the right solution for such missions.</p>
@@ -46,7 +46,7 @@
 
                 </div>
                    <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/offshore_model.png" width="100%" height="100%">
+                    <img src="<?php echo base_url(); ?>assets/images/offshore_model.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
                  </div>
             </div>
 

@@ -72,7 +72,7 @@
                    <p class="TitleP">VRDrive Walkthrough provides an easy-to-use platform to transform Revit and SketchUp Models into Virtual Reality modules that can quickly transform your BIM data. VRDrive also allows manipulation of Revit Project data by adding extensions allowing an easily configurable Virtual Reality experience for your Oculus Rift gear. Cloud-based CDN setup for the projects allow for aggressive designer collaboration.</p>
                 </div>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/VRDRIVE-WALKTHROUGH.png" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/VRDRIVE-WALKTHROUGH.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:60%;left:0;right:0;margin:auto;">
         </div>
             </div>
 
