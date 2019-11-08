@@ -72,7 +72,7 @@
 
                 </div>
                   <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/permenant-placement.png" class="img-fluid CommanImg" height="100%">
+            <img src="<?php echo base_url(); ?>assets/images/permenant-placement (2).png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
                 </div>
             </div>
 

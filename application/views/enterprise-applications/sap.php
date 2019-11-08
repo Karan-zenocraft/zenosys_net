@@ -54,7 +54,7 @@
 
                 </div>
            <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/sap.png" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/sap.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="bottom:0;top:0;margin:auto;">
         </div>
             </div>
 

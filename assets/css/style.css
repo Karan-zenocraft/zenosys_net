@@ -178,7 +178,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .WhyZenosys .WhyZenosysContent{padding-top: 30px;}
 .WhyZenosys .WhyZenosysContent h2{color: #464852;margin-bottom: 0px;font-weight: bold;position: relative;padding: 15px 0px;
-    margin-bottom: 0;word-spacing: -2px;}
+    margin-bottom: 0;}
 .WhyZenosys .WhyZenosysContent p{color: #6F7072;font-weight: normal;margin-bottom: 15px;padding-right: 45px;text-align: justify;letter-spacing: 0.8px;
     line-height: 24px;}
 .WhyZenosys .WhyZenosysContent h2:before{width: 105px;bottom: -15px;}
@@ -445,7 +445,7 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
     transform: scale(1.2);
     filter: grayscale(0);}
 
-
+/*.WhyZenosys .WhyZenosysContent.col-md-8{word-spacing: 8px;}*/
 .CustomeRows{position: relative;}
 .CustomeRows .CommanImg{position: absolute;right: 0px;bottom:0;}
 

@@ -8,7 +8,12 @@
     justify-content: center;}
     .slick-slide {width: 276px!important;}
     }
-
+    @media only screen and (max-width: 767px){
+        .GovernmentImg.fullwidth{
+            max-width: 100%!important;
+            
+            }
+    }
 </style>        <div class="container">
              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
 
@@ -61,7 +66,7 @@
 
                 </div>
                   <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/automation.png" class="img-fluid CommanImg" height="100%">
+            <img src="<?php echo base_url(); ?>assets/images/automation-new.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
                 </div>
             </div>
 

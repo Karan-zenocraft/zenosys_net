@@ -60,9 +60,9 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-
+                     <img src="<?php echo base_url(); ?>assets/images/artificial-inteligence.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:80%">
                  </div>
-                 <img src="<?php echo base_url(); ?>assets/images/artificial-inteligence.png" class="img-fluid CommanImg" style="width:28%">
+                 
 
             </div>
 

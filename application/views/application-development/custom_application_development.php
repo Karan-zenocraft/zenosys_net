@@ -48,7 +48,7 @@
             <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Custom Application Development</h2>
+                    <h2 class="TitleH2" style="word-spacing:8px">Custom Application Development</h2>
                     <p class="TitleP">Custom Application Development, as the name suggests, is a comprehensive process including designing, creating and deploying a software or application that has been developed to cater to the exact need of the brand, organization or client. It is the process of creating an application that is personalized to resonate with the brand and perform intricate tasks, as per the requirement.</p>
                     <p class="TitleP">Zenosys is home to a team of highly talented and skilled members that are expert with industry specific technologies. Together, we provide end to end custom application development services such as leading designing and customization, programming and application development, cross-platform app development, and seamless integration.</p>
 
@@ -57,7 +57,7 @@
 
                  </div>
 
-                <img src="<?php echo base_url(); ?>assets/images/custom-app-development.png" class="img-fluid CommanImg" style="width:35%">
+                <img src="<?php echo base_url(); ?>assets/images/custom-app-development (1).png" class="img-fluid CommanImg GovernmentImg fullwidth Retail Telecommunication smallwidth" style="max-width:35%">
             </div>
 
 

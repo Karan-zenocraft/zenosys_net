@@ -56,9 +56,9 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-
+                     <img src="<?php echo base_url(); ?>assets/images/machine-learning.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="top:0;bottom:0;margin:auto;left:0;right:0">
                  </div>
-                <img src="<?php echo base_url(); ?>assets/images/machine-learning.png" class="img-fluid CommanImg" style="width:48%">
+                
 
             </div>
 

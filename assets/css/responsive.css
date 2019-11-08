@@ -186,6 +186,8 @@ Header{box-shadow: 0 1px 6px rgba(57,73,76,0.35);}
     .Retail.Telecommunication{max-width: 50%!important}
     .GovernmentImg.fullwidth{max-width: 90%!important}
     .GovernmentImg.fullwidth2{max-width: 100%!important}
+    .GovernmentImg.smallwidth{max-width: 35%!important}
+    .GovernmentImg.Quality{max-width: 60%!important}
 }
 
 
@@ -356,6 +358,11 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
 
     .GovernmentImg{position: absolute;bottom: 0;}
     .Industry{margin-bottom: -20px!important;}
+    .WhyZenosys .Custom-Solutions .CustomeH3{}
+    .WhyZenosys .Custom-Solutions p{padding: 0;}
+    .WhyZenosys .WhyZenosysContent .ULlist ul li{margin-bottom: 15px;}
+    .WhyZenosys .col-md-8.SoftwareDevelopmentLeft .CustomeP{padding: 0;}
+    .WhyZenosys .WhyZenosysContent .ULlist{justify-content: space-between!important}
 }
 
 
@@ -417,8 +424,11 @@ h6, .TitleH6{font-size: 13px;}
 .Slider .SliderInner .SliderImg{display: none;}
 
 
+    .WhyZenosys .WhyZenosysContent .Application-Services{max-width: 60%;display: block;margin: auto;}
     .WhyZenosysContent.ContactBox h2:before{width: 140px;}
-   
+    .WhyZenosys .WhyZenosysContent .ULlist{display: block!important;margin-bottom: 30px;}
+    .WhyZenosys .WhyZenosysContent .Custom-Solutions{margin-bottom: 30px;}
+    .WhyZenosys .WhyZenosysContent .CustomeH3{text-align: center;}
 .CustomeRows .CommanImg{position:unset;}    
     .WhyZenosys{padding-bottom: 0px!important;}
 .OurExpertise{padding-top: 30px;padding-bottom: 30px;}
@@ -539,5 +549,6 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
     .Industry{margin-bottom: -27px!important;}
     .GovernmentImg.Retail{margin-bottom: 0!important;}
     .GovernmentImg.fullwidth{max-width: 60%!important}
+    .GovernmentImg.Infrastructure{max-width: 90%!important}
     
 }

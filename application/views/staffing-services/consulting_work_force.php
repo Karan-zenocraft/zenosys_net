@@ -72,7 +72,7 @@
 
                 </div>
               <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/consulting-work-force.png" class="img-fluid CommanImg" style="max-width: 75%;right: 60px;">
+           <img src="<?php echo base_url(); ?>assets/images/consulting-work-force-new.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width: 75%;bottom:0;left:0;right:0;margin:auto;">
                </div>
             </div>
 

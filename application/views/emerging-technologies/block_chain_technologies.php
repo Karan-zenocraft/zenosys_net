@@ -63,7 +63,7 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg" style="max-width:85%;right:60px;">
+           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;right:0px;left:0;bottom:0;top:0;margin:auto;">
                </div>
             </div>
 
