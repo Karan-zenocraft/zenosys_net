@@ -67,7 +67,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Manufacturing Industry</h2>
@@ -75,7 +75,7 @@
                    <p class="TitleP">Well curated product, customer and supply chain databases can facilitate intelligent and well calculated decisions. Zenosys helps manufacturing industries transform the way they function while weaving cutting-edge innovations into their daily operations with acute focus on cost effectiveness.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/industry.png" width="100%" height="100%">
+                    <img src="<?php echo base_url(); ?>assets/images/industry.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
                  </div>
             </div>
 

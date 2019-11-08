@@ -67,10 +67,7 @@
             </div>
 
                <div class="row CustomeRows">
-<style>
 
-    .WhyZenosys .WhyZenosysContent h2:before{content: unset;}
-</style>
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Telecommunication</h2>
@@ -79,7 +76,7 @@
 
                 </div>
                   <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/Telecom.png" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/Telecom.png" class="img-fluid CommanImg GovernmentImg Retail Telecommunication" style="max-width:40%;left:0;margin:auto;">
         </div>
             </div>
 

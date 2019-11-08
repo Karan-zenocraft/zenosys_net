@@ -67,7 +67,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Retail, Distribution & eCommerce </h2>
@@ -76,7 +76,7 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/retail.png" width="100%" height="100%">
+                    <img src="<?php echo base_url(); ?>assets/images/retail.png" class="img-fluid CommanImg GovernmentImg Retail" style="max-width:100%">
                  </div>
             </div>
 

@@ -66,11 +66,13 @@
         <td><?php echo $job->type; ?></td>
       </tr>
   <?php }?>
-   <p><?php echo $links; ?></p>
-
-<?php }?>
+   
     </tbody>
   </table>
+                        
+                        <p><?php echo $links; ?></p>
+
+<?php }?>
 </div>
 
                 </div>

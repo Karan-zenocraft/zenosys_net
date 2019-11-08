@@ -67,7 +67,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Financial Services</h2>
@@ -76,7 +76,7 @@
                    <p class="TitleP">We address such intricate challenges for financial firms globally and have succeeded in providing them with tailored-to-fit solutions through a perfect blend of technology and sustainability.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/finance.png" width="100%" height="100%">
+                    <img src="<?php echo base_url(); ?>assets/images/finance.png" class="img-fluid GovernmentImg CommanImg" style="margin-bottom: -5px;max-width:85%">
                  </div>
             </div>
 

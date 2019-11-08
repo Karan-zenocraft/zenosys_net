@@ -67,7 +67,7 @@
             </div>
 
 
-            <div class="row">
+            <div class="row CustomeRows">
 
                 <div class="col-md-8 WhyZenosysContent">
 
@@ -78,7 +78,7 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                     <img src="<?php echo base_url(); ?>assets/images/education.png" class="img-fluid CommanImg">
+                     <img src="<?php echo base_url(); ?>assets/images/education.png" class="img-fluid CommanImg GovernmentImg Industry" style="margin-bottom: -25px;max-width:70%">
                  </div>
             </div>
 

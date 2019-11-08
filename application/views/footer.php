@@ -41,24 +41,8 @@
                     </div>
 
                 </div>
-                <div class="col-md-4 MainBox">
-                    <div class="Services">
-                        <img src="<?php echo base_url(); ?>assets/images/staffing.png" alt="" class="img-fluid">
-                        <div class="Description DescriptionTwo">
-                            <h3 class="TitleH3">Professional Services</h3>
-                            <p>Zenosys is an IT service provider
-                                focusing on product engineering
-                                services. Our offshore center is
-                                located on the West Coast India</p>
-
-                            <div class="ReadMore">
-                             <a href="<?php echo base_url() ?>OurServices/professional_services">Read More</a>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
+                
+                
                 <div class="col-md-4 MainBox">
                     <div class="Services">
                         <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
@@ -77,6 +61,25 @@
                     </div>
 
                 </div>
+                <div class="col-md-4 MainBox">
+                    <div class="Services">
+                        <img src="<?php echo base_url(); ?>assets/images/staffing.png" alt="" class="img-fluid">
+                        <div class="Description DescriptionTwo">
+                            <h3 class="TitleH3">Professional Services</h3>
+                            <p>Zenosys is an IT service provider
+                                focusing on product engineering
+                                services. Our offshore center is
+                                located on the West Coast India</p>
+
+                            <div class="ReadMore">
+                             <a href="<?php echo base_url() ?>OurServices/professional_services">Read More</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                
 
             </div>
         </div>
