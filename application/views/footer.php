@@ -29,10 +29,7 @@
                         <img src="<?php echo base_url(); ?>assets/images/enterprise.png" alt="" class="img-fluid">
                         <div class="Description DescriptionOne">
                             <h3 class="TitleH3">Application Services</h3>
-                            <p>Zenosys is an IT service provider
-                                focusing on product engineering
-                                services. Our offshore center is
-                                located on the West Coast India</p>
+                            <p>Application Development Services with unparalleled experience in creating custom stable, robust and extensible solutions adding value to your product offerings</p>
                             <div class="ReadMore">
                             <a href="<?php echo base_url() ?>OurServices/application_services">Read More</a>
                             </div>
@@ -41,17 +38,14 @@
                     </div>
 
                 </div>
-                
-                
+
+
                 <div class="col-md-4 MainBox">
                     <div class="Services">
                         <img src="<?php echo base_url(); ?>assets/images/111.png" alt="" class="img-fluid">
                         <div class="Description DescriptionThree">
                             <h3 class="TitleH3">Infrastructure Services</h3>
-                            <p>Zenosys is an IT service provider
-                                focusing on product engineering
-                                services. Our offshore center is
-                                located on the West Coast India</p>
+                            <p>Zenosys helps you assess, transform and manage your critical IT infrastructure more efficiently, guaranteeing round the clock peak system performance and availability.</p>
 
                             <div class="ReadMore">
                              <a href="<?php echo base_url() ?>OurServices/infrastructure_services">Read More</a>
@@ -66,10 +60,7 @@
                         <img src="<?php echo base_url(); ?>assets/images/staffing.png" alt="" class="img-fluid">
                         <div class="Description DescriptionTwo">
                             <h3 class="TitleH3">Professional Services</h3>
-                            <p>Zenosys is an IT service provider
-                                focusing on product engineering
-                                services. Our offshore center is
-                                located on the West Coast India</p>
+                            <p>Zenosys' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives.</p>
 
                             <div class="ReadMore">
                              <a href="<?php echo base_url() ?>OurServices/professional_services">Read More</a>
@@ -79,7 +70,7 @@
                     </div>
 
                 </div>
-                
+
 
             </div>
         </div>
