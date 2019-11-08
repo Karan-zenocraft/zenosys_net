@@ -140,9 +140,9 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-6"/>
           <ul class="InnerDropdown onlysm DD88">
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/functional_engineering">Functional Engineering</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/automation">Automation</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/performance_engineering">Performance Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/functional_engineering">Functional Engineering</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/automation">Automation</a></li>
+            <li><a href="<?php echo base_url(); ?>qualityEngineering/performance_engineering">Performance Engineering</a></li>
           </ul>
         </li>
 
@@ -154,11 +154,11 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-7"/>
           <ul class="InnerDropdown onlysm DD99">
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/machine_learning">Machine Learning</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/machine_learning">Machine Learning</a></li>
             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/custom_application_development"> Data Science</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/deep_learning">Deep Learning Technologies</a></li>
-             <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/artificial_intelligence"> Artificial Intelligence</a></li>
-              <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/predective_analytics"> Predictive Analytics</a></li>
+            <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/deep_learning">Deep Learning Technologies</a></li>
+             <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/artificial_intelligence"> Artificial Intelligence</a></li>
+              <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/predective_analytics"> Predictive Analytics</a></li>
           </ul>
         </li>
 

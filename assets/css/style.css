@@ -183,7 +183,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
     line-height: 24px;}
 .WhyZenosys .WhyZenosysContent h2:before{width: 105px;bottom: -15px;}
 
-
+.WhyZenosys .WhyZenosysContent .CustomeP{padding: 0px;}
 .WhyZenosys .WhyZenosysContent ul{margin: 0;padding: 0;}
 .WhyZenosys .WhyZenosysContent ul li{font-size: 15px;
     font-weight: normal;
@@ -194,7 +194,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
     margin-bottom: 20px;
     display: block;}
 
-
+.WhyZenosys .WhyZenosysContent .ULlist ul li{font-size: 14px;}
 .WhyZenosys .WhyZenosysContent ul li:after {
     content: '';
     position: absolute;
@@ -226,7 +226,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services{box-shadow: 3px 1px 6px 2px #00000038;overflow: hidden}
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services img{transform: scale(1.0);transition: .8s all;}
 .CaseStudyBox .CaseStudyInnerBox .MainBox:hover .Services img{transform: scale(1.1);transition: .8s all;}
-.CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{padding: 20px;position: relative;  }
+.CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{padding: 20px;position: relative;min-height: 229px;  }
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description:after{content: '';position: absolute;height: 5px;bottom: 0;left: 0;width: 100%;}
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .DescriptionOne:after{background:#174477 }
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .DescriptionTwo:after{background:#B9C4F7 }
@@ -424,6 +424,8 @@ footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: uns
     margin-right: 10px;
     margin-bottom: 6px;
 }
+
+.WhyZenosys .WhyZenosysContent .ULlist{padding-bottom: 30px;}
 
 .SiteMap .arrow-right {
   width: 0; 
@@ -947,7 +949,7 @@ nav .Menubar{float: right;}
     z-index: 999;}
     
     .menu li label{display: block;
-    text-transform: uppercase;
+/*    text-transform: uppercase;*/
     line-height: 20px;
         padding: 13px 20px;
     text-decoration: none;
@@ -960,7 +962,7 @@ nav .Menubar{float: right;}
     .menu li .a{font-size: 14px;letter-spacing: 2px;}
     .menu li:hover .a{color: #000!important;}
     
-    
+    nav .menu li .a{text-transform: unset}
 .toggle:hover { background-color: #fff; }
 
 [id^=drop]:checked + ul { display: block;z-index: 999;

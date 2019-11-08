@@ -50,7 +50,7 @@
     
     
     
-     <div class=" CustomeRows">
+        <div class=" CustomeRows">
 
                 <div class="WhyZenosysContent">
 
@@ -62,7 +62,7 @@
 
                 <div class="col-md-8 WhyZenosysContent CustomeBlock">
 
-                    <h3 class="TitleH3">Contingent Staffing</h3>
+                    <h3 class="TitleH3 CustomeH3">Contingent Staffing</h3>
                      <p class="TitleP">Shortened timeframes, unique skill-set requirements or the need for stringent internal controls may force you to look for a partner who can make your objectives an operational reality. Zenosys' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives. It is a collaborative onsite model with the value addition of a dedicated account management team to give you the benefit of the right resources with the control they would exercise over an in-house team. If you are looking to minimize risk, administration, and recruitment costs, then workforce management is the answer. Get in touch with Zenosys to learn more on how to leverage our proven experience and knowledge, to make your technology objectives a reality.</p>
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
@@ -86,7 +86,7 @@
                   
                    
        <div class="col-md-8 WhyZenosysContent">
-                    <h3 class="TitleH3">Recruitment Process Outsourcing</h3>
+                    <h3 class="TitleH3 CustomeH3">Recruitment Process Outsourcing</h3>
                     <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
        </div>
             </div>
@@ -94,7 +94,7 @@
 
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h3 class="TitleH3">Project Staffing Services</h3>
+                    <h3 class="TitleH3 CustomeH3">Project Staffing Services</h3>
                      <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
@@ -110,7 +110,7 @@
                 </div>
                         
        <div class="col-md-8 WhyZenosysContent">
-                    <h3 class="TitleH3">Managed Staffing Services</h3>
+                    <h3 class="TitleH3 CustomeH3">Managed Staffing Services</h3>
                      <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
        </div>
             </div>

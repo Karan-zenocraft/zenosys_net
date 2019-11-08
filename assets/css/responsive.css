@@ -46,8 +46,8 @@
 h1, .TitleH1{font-size: 20px;line-height: 28px;}
 .Slider .SliderInner .Caption{width: 67%;top: 20px;}    
 .Bg-Dark{margin-bottom:55px;padding: 7px 0px;} 
-    .Slider .SliderInner .Caption h1{width: 12em}
-    .Slider .SliderInner .Caption h1:nth-child(2){width: 17em}
+    .Slider .SliderInner .Caption h1{width: 14em}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 18em}
   .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 140px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
     .WhyZenosys .WhyZenosysInner{margin-top: -20px}
@@ -67,6 +67,10 @@ h1, .TitleH1{font-size: 20px;line-height: 28px;}
     .WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 8px;}
     .ContactBox form{padding-bottom: 15px;}
     .OurExpertise .CustomeRow{padding: 0px 0px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: 210px;}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
 }
 
 
@@ -81,14 +85,14 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
   .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 145px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
     .WhyZenosys .WhyZenosysInner{margin: 0px 00px;margin-top: -20px}
-    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 160px;}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: 210px;}
     .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
     .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 480px;}
     .GooleMap iframe{height: 200px;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;}
     .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px;}  
-    .Slider .SliderInner .Caption h1{width: 13em;}
-    .Slider .SliderInner .Caption h1:nth-child(2){width: 18em;}
+    .Slider .SliderInner .Caption h1{width: 15em;}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 20em;}
     .Bg-Dark{margin-bottom: 35px;}
     p, .TitleP{font-size: 13px;line-height: 18px;}
     
@@ -177,7 +181,9 @@ Header{box-shadow: 0 1px 6px rgba(57,73,76,0.35);}
     .Header .HeaderInner .HeaderNav ul li .collapse li{padding: 0px!important}
     .Header .HeaderInner .HeaderNav ul li .Outline{color: #174477;text-decoration: underline;font-weight: bold;}
     .Header .HeaderInner .HeaderNav ul li .Outline:before{content: unset!important}
-    
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
 /*    .onlysm{display: unset!important}*/
     
     
@@ -280,6 +286,9 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .ContactBox .LocationBoxs a{letter-spacing: 0px}
     .ContactBox .LocationBoxs h3{letter-spacing: 0px;}
     .OurExpertise .CustomeRow{padding: 0px 0px}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
 }
 
 
@@ -363,6 +372,10 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     .WhyZenosys .WhyZenosysContent .ULlist ul li{margin-bottom: 15px;}
     .WhyZenosys .col-md-8.SoftwareDevelopmentLeft .CustomeP{padding: 0;}
     .WhyZenosys .WhyZenosysContent .ULlist{justify-content: space-between!important}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: 265px;}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
 }
 
 
@@ -511,12 +524,14 @@ h6, .TitleH6{font-size: 13px;}
     width: 100%;}
     .Social .SocialInnerRight .SocialIcons{margin-top: 20px!important;}
     .Social{padding-bottom: 10px;}
-    
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: unset}
+    .WhyZenosys .WhyZenosysContent .ULlist ul:last-child li:last-child{display: none;}
+    .WhyZenosys .WhyZenosysContent .ULlist{padding-bottom: 0px;}
     .Awards .AwardColumn{flex-direction: column;width: 100%}
     .Awards .AwardColumn ul{ padding-bottom: 20px!important;padding-top: 20px!important}
     .Awards{padding: 0px 0px;}
     .Awards ul{
-       
+        
     justify-content: center!important;
     width: 100%;}
 /*    .Awards ul li{margin-bottom: 20px;}*/
@@ -541,6 +556,9 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
     footer .FooterInnerRight .Subscribe .Email{padding: 7px 30px;font-size: 13px;display: block}
     footer .FooterInnerRight .Subscribe .SignUp{padding: 8px 82px;font-size: 13px;}
     footer .FooterInner:last-child{margin-bottom: 0;}
+    .CustomeRows .WhyZenosysContentCustome img{display: block;margin: auto;max-width: 60%!important;}
+    .WhyZenosys .WhyZenosysContentCustome{order: 1!important;}
+    .WhyZenosys .WhyZenosysContent {order: 0;}
     
     .GovernmentImg{margin-bottom: -5px!important;
     max-width: 60%!important;
