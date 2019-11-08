@@ -840,7 +840,7 @@
                         </div>
                         <div class="IconLeft">
                             <i class="fa fa-phone"></i>
-                            <a class="TitleP" href="tel:+1 877.833.5875">Phone : +1 877.833.5875</a>
+                            <a class="TitleP" href="tel:+1 8778335875">Phone : +1 877-833-5875</a>
                         </div>
                     </div>
 
@@ -887,7 +887,7 @@
                         </div>
                         <div class="IconLeft">
                             <i class="fa fa-phone"></i>
-                            <a class="TitleP" href="tel:+1 888.406.2862">Phone : +1 888.406.2862</a>
+                            <a class="TitleP" href="tel:+1 8884062862">Phone : +1 888-406-2862</a>
                         </div>
                     </div>
 

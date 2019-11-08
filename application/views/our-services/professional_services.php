@@ -23,7 +23,7 @@
                     <img src="<?php echo base_url(); ?>assets/images/vr.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Augmented Reality and Virtual Reality</h6>
-                    <p>The power to create incredible experiencesp</p>
+                    <p>The power to create incredible experiences</p>
 
                 </div>
             </div>

@@ -64,7 +64,7 @@
                     </div>
                     
                     
-                    <div class="row MainRow">
+                    <div class="row MainRow Small">
                        
                         
                         <div class="col-md-3 CustomeColumn">
@@ -169,7 +169,7 @@
                         </div>
                     
                     
-                    <div class="row MainRow">
+                    <div class="row MainRow Small Small2">
                        
                         
                         <div class="col-md-3 CustomeColumn">
@@ -248,7 +248,7 @@
                         </div>
                     
                     
-                    <div class="row TitleRow">
+                    <div class="row TitleRow customePadding">
                     
                     <div class="d-flex">
                     <div class="arrow-right"></div>
@@ -328,7 +328,7 @@
                     
                     
                     
-                    <div class="row TitleRow">
+                    <div class="row TitleRow customePadding">
                     
                     <div class="d-flex">
                     <div class="arrow-right"></div>
@@ -403,7 +403,7 @@
                     
                     
                     
-                    <div class="row TitleRow">
+                    <div class="row TitleRow customePadding">
                     
                     <div class="d-flex">
                     <div class="arrow-right"></div>
@@ -478,7 +478,7 @@
                     
                     
                     
-                    <div class="d-flex align-items-center justify-content-flex-start">
+                    <div class="LastRowPadding">
                     <div class="row TitleRow col-md-3 pl-0">
                     
                     <div class="d-flex">
@@ -502,7 +502,7 @@
                     
                     
                     
-                    <div class="row TitleRow col-md-3 ">
+                    <div class="row TitleRow col-md-3 pl-0">
                     
                     <div class="d-flex">
                     <div class="arrow-right"></div>

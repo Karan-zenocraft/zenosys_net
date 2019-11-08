@@ -28,7 +28,7 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/odoo" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/odoo.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Odoo</h6>
                     <p>The subscription based software for all your operational needs</p>

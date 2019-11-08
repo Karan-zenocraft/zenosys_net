@@ -3,7 +3,7 @@
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/oracle.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">Oracle eBusiness Suite</h6>
+                    <h6 class="TitleH6">Oracle e-Business Suite</h6>
                     <p>Seamless integration of tool for great performance</p>
 
                 </div>

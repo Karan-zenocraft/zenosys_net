@@ -326,16 +326,17 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .ClientList .Box a img{max-height: 60px;display: block;margin: auto;opacity: 0.5;transform: scale(1.0);filter: grayscale(1);}
 .ClientList .CustomeRow{padding: 0px 150px;margin-top: 10px;}
 */
-
+.SiteMap .customePadding{padding-top: 20px; }
+.SiteMap .LastRowPadding{padding-top: 5px;}
 .SiteMap .col-md-3{padding-left: 35px;}
-.SiteMap .MainRow{margin-bottom: 20px;}
+.SiteMap .MainRow{margin-bottom: 15px;}
 .SiteMap ul li:last-child{margin-bottom: 0px;}
 .SiteMap .TitleRow{margin: 10px 0px;}
 .SiteMap .row .label{margin-bottom: 0px;font-weight: bold;color: #174477;}
 .WhyZenosys .SiteMap ul li:after{top: 8px;}
 .SiteMap .CustomePadding{padding-left: 20px;}
 .SiteMap .CustomePadding.Second{margin-top: 20px;margin-bottom: 10px;}
-.SiteMap ul label{color:#333333;font-weight: normal;font-size: 15px;margin-bottom: 5px;padding-bottom: 5px; line-height: 22px;font-family:'Arial';border-bottom: 1px solid #000000}
+.SiteMap ul label{color:#333333;font-weight: normal;font-size: 14px;margin-bottom: 5px;padding-bottom: 0px; line-height: 22px;font-family:'Arial';border-bottom: 1px solid #000000}
 .SiteMap h2:before{left: 0;right: 0;margin: auto}
 .SiteMap h2{text-align: center;}
 .SiteMap ul li a{font-weight: normal;font-family:'Arial';
@@ -350,7 +351,8 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 .SiteMap ul li a:hover{background: #f1f5f8;color: #58ABB7;transition: 0.8s all;}
 .SiteMap .row.CustomePadding ul li{margin-bottom: 10px;}
-
+.SiteMap .Small{margin-bottom: 20px;}
+.SiteMap .Small2{margin-bottom: 0px;}
 .Social{padding-top: 20px;padding-bottom: 20px;background: #2c2e3a;}
 .CaseStudyBox .CaseStudyInnerBox .Services .ReadMore{margin-top: 5px;text-align: center;}
 .CaseStudyBox .CaseStudyInnerBox .Services .ReadMore a{font-size: 12px;position: relative;
