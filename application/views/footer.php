@@ -945,7 +945,7 @@
                 <div class="col-md-6 d-flex align-items-center justify-content-start">
 
                     <div class="Address">
-                        <a class="TitleP" href="mailto:info@zenosys.net" style="color: #728194">2019 © Copyrights Zenosys Services</a>
+                        <a class="TitleP" href="#" style="color: #728194">2019 © Copyrights Zenosys Services</a>
                     </div>
 
                 </div>
