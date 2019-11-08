@@ -64,17 +64,18 @@
                     </div>
                     
                     
-                    <div class="row">
+                    <div class="row MainRow">
                        
                         
                         <div class="col-md-3 CustomeColumn">
                        
                        <ul>
-                        <label>Enterprise Applications</label>
-                        <li><a href="/enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
-                        <li><a href="/enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
-                           <li><a href="/enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
-                        </ul> 
+                        <label>Quality Engineering</label>
+                            <li><a href="/zenosys_net/qualityEngineering/functional_engineering">Functional Engineering</a></li>
+                            <li><a href="/zenosys_net/qualityEngineering/automation">Automation</a></li>
+                            <li><a href="/zenosys_net/qualityEngineering/performance_engineering">Performance Engineering</a></li>
+                        
+                        </ul>
                         
                         
 <!--
@@ -168,7 +169,7 @@
                         </div>
                     
                     
-                    <div class="row">
+                    <div class="row MainRow">
                        
                         
                         <div class="col-md-3 CustomeColumn">
@@ -195,14 +196,17 @@
                         
                         
                         
-                        <ul>
-                        <label>Quality Engineering</label>
-                            <li><a href="/zenosys_net/qualityEngineering/functional_engineering">Functional Engineering</a></li>
-                            <li><a href="/zenosys_net/qualityEngineering/automation">Automation</a></li>
-                            <li><a href="/zenosys_net/qualityEngineering/performance_engineering">Performance Engineering</a></li>
                         
-                        </ul>
                         
+                            
+                            
+                            <ul>
+                        <label>Enterprise Applications</label>
+                        <li><a href="/enterpriseApplications/oracle">Oracle eBusiness Suite</a></li>
+                        <li><a href="/enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
+                           <li><a href="/enterpriseApplications/odoo">Odoo / Oracle Apex</a></li>
+                            <li><a href="/zenosys_net/enterpriseApplications/oracle_apex">Oracle Apex</a></li>
+                        </ul> 
                         
                         </div>
                         
@@ -253,15 +257,15 @@
                         </div>
                         
                     </div>
-                        <div class="row">
+                        <div class="row MainRow">
                        
                         
                         <div class="col-md-3">
                        
                        <ul>
                         
-                        <li><a href="/zenosys_net/products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>  
-                        <li><a href="/zenosys_net/products/product2">Product 2</a></li>
+                        <li><a href="/zenosys_net/products/supply_chain">Always Ahead - Supply Chain</a></li>  
+                        <li><a href="/zenosys_net/products/churn_predict">ChurnPredict - K Factor</a></li>
                         
                         </ul> 
                         
@@ -277,8 +281,8 @@
                         
                         <ul>
                         
-                       <li><a href="/zenosys_net/products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>  
-                        <li><a href="/zenosys_net/products/product2">Product 2</a></li>
+                       <li><a href="/zenosys_net/products/my_view_security">MyView - Security</a></li> 
+                       <li><a href="/zenosys_net/products/vrdrive_walkthrough">VRDrive WalkThrough</a></li>
                             
                         </ul>
                         
@@ -291,8 +295,8 @@
                             
                             <ul>
                        
-                        <li><a href="/zenosys_net/products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>  
-                        <li><a href="/zenosys_net/products/product2">Product 2</a></li>
+                       <li><a href="/zenosys_net/products/degree360_hrms">Degree360 HRMS</a></li> 
+                       <li><a href="/zenosys_net/products/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
                         
                         </ul>
                         
@@ -310,8 +314,8 @@
                         
                         <ul>
                         
-                        <li><a href="/zenosys_net/products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>  
-                        <li><a href="/zenosys_net/products/product2">Product 2</a></li>
+                        <li><a href="/zenosys_net/products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
+                        <li><a href="/zenosys_net/products/warehouse_controller">Warehouse Controller</a></li>
                         
                             </ul>
                         
@@ -321,6 +325,194 @@
                         </div>
                         
                     
+                    
+                    
+                    
+                    <div class="row TitleRow">
+                    
+                    <div class="d-flex">
+                    <div class="arrow-right"></div>
+                        <label class="label">Engagement Models </label>
+                    
+                        </div>
+                        
+                    </div>
+                        <div class="row MainRow">
+                       
+                        
+                        <div class="col-md-3">
+                       
+                       <ul>
+                        
+                        <li><a href="/zenosys_net/models/onshore">On-site Delivery Model</a></li>
+                        
+                        </ul> 
+                        
+                        
+
+                        
+                        
+                    
+                            </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                        <ul>
+                        
+                       <li><a href="/zenosys_net/models/bot">BOT Model Turnkey Model</a></li>
+                            
+                        </ul>
+                        
+
+                        
+                        
+                        </div>
+                        
+                        <div class="col-md-3">
+                            
+                            <ul>
+                       
+                       <li><a href="/zenosys_net/models/offshore">Offshore Model</a></li>
+                        
+                        </ul>
+                        
+                            
+
+                            
+                        
+                        
+                        
+                        </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                        
+                        <ul>
+                        
+                       <li><a href="/zenosys_net/models/hybrid">Hybrid Model</a></li>
+                        
+                            </ul>
+                        
+                        </div>
+                        
+                        
+                        </div>
+                    
+                    
+                    
+                    
+                    <div class="row TitleRow">
+                    
+                    <div class="d-flex">
+                    <div class="arrow-right"></div>
+                        <label class="label">Industries </label>
+                    
+                        </div>
+                        
+                    </div>
+                        <div class="row MainRow">
+                       
+                        
+                        <div class="col-md-3">
+                       
+                       <ul>
+                        
+                       <li><a href="/zenosys_net/industries/financialindustries">Financial Services</a></li>
+                        <li><a href="/zenosys_net/industries/governmentbodies">Government Bodies</a></li>
+                        </ul> 
+                        
+                        
+
+                        
+                        
+                    
+                            </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                        <ul>
+                        
+                       <li><a href="/zenosys_net/industries/educationindustry">Education Industry</a></li>
+                          <li><a href="/zenosys_net/industries/retailindustries">Retail, Distribution &amp; eCommerce</a></li>  
+                        </ul>
+                        
+
+                        
+                        
+                        </div>
+                        
+                        <div class="col-md-3">
+                            
+                            <ul>
+                       
+                       <li><a href="/zenosys_net/industries/teleindustries">Telecommunication</a></li>
+                        <li><a href="/zenosys_net/industries/healthcareindustries">Healthcare Industry</a></li>
+                        </ul>
+                        
+                            
+
+                            
+                        
+                        
+                        
+                        </div>
+                        
+                        
+                        <div class="col-md-3">
+                        
+                        
+                        <ul>
+                        
+                       <li><a href="/zenosys_net/industries/manufacuringindustries">Manufacturing Industry</a></li>
+                        
+                            </ul>
+                        
+                        </div>
+                        
+                        
+                        </div>
+                    
+                    
+                    
+                    
+                    <div class="d-flex align-items-center justify-content-flex-start">
+                    <div class="row TitleRow col-md-3 pl-0">
+                    
+                    <div class="d-flex">
+                    <div class="arrow-right"></div>
+                        <label class="label"><li><a href="/zenosys_net/company" class="a">Company</a></li> </label>
+                    
+                        </div>
+                        
+                    </div>
+                    
+                    
+                    <div class="row TitleRow col-md-3 pl-0">
+                    
+                    <div class="d-flex">
+                    <div class="arrow-right"></div>
+                        <label class="label"><li><a href="/zenosys_net/careers" class="a">Careers</a></li> </label>
+                    
+                        </div>
+                        
+                    </div>
+                    
+                    
+                    
+                    <div class="row TitleRow col-md-3 ">
+                    
+                    <div class="d-flex">
+                    <div class="arrow-right"></div>
+                        <label class="label"><li><a href="/zenosys_net/contactUs" class="a">Contact Us</a></li> </label>
+                    
+                        </div>
+                        
+                    </div>
+                        
+                        </div>
                     
 <!--
                     <div class="row">
