@@ -16,7 +16,7 @@
                     <img src="<?php echo base_url(); ?>assets/images/application-Services-icon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Application Services</h6>
-                    <p>The power to create incredible experiences</p>
+                    <p>Custom Programs, pre-packaged applications & existing solutions</p>
 
                 </div>
             </div>
@@ -24,14 +24,14 @@
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/infrastructure-Services-icon.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Infrastructure Services</h6>
-                    <p>Leverage IOT and empower your business operations</p>
+                    <p>Cloud, Server and Middleware, database, storage</p>
 
                 </div></div>
               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/professional-Services-icon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Professional Services</h6>
-                    <p>A digital ledger for superior efficiency and transparency</p>
+                    <p>Contingent Staffing, RPO, Project Staffing Services, MSP</p>
                 </div></div>
            <!--      <div class="col-md-3 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
