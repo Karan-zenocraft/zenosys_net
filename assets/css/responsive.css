@@ -184,6 +184,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
     bottom: 0;
     margin: auto;}
+    .Social .SiteMap li a{font-size: 12px!important}
 /*    .onlysm{display: unset!important}*/
     
     
@@ -241,6 +242,8 @@ h1, .TitleH1{font-size: 13px;line-height: 17px;}
     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-bottom: 20px!important;padding-top: 20px!important;}
     .StaffingSolution .StaffingSolutionInnerLeft{height: 175px;background-position: 100% 50%;}
     .StaffingSolution .StaffingSolutionInnerRight{padding-top: 15px!important;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-top: 15px!important;}
+    .SiteMap .arrow-right{margin-top: 4px!important}
 }
 
 @media (min-width: 992px) and (max-width: 1024px){

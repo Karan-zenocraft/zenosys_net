@@ -4,7 +4,7 @@
                 <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/CHURNPREDICT---K-FACTOR-con.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">CHURNPREDICT - K FACTOR</h6>
+                    <h6 class="TitleH6">CHURN PREDICT - K FACTOR</h6>
                     <p>Versatile solution for better understanding your customers</p>
                 </div></div>
                 <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
@@ -66,7 +66,7 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">ChurnPredict - K Factor</h2>
+                    <h2 class="TitleH2">Churn Predict - K Factor</h2>
                  <p class="TitleP">With price of acquiring a new customer significantly higher than retaining an existing one, enterprises have realized the value of identifying customers and segment of customers at the risk of attrition. Understanding the value of Customer churn is easy, while deriving the decision tree model to provide predictive analytics for segment identification has been the difficult endeavor for enterprises.</p>
 
                   <p class="TitleP">ChurnPredict is a Knime based decision-tree model that allows for tracking upto 256 data points related to a customer, and identifying the decision tree model that suits your business-customer pattern using a recursion based K-factor mapping with constant training/testing sets swapping. Analytics derived from the ChurnPredict can be configured to be consumed for reporting, notification or other proactive action system.</p>

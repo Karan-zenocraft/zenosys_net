@@ -268,12 +268,13 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
     list-style-type: none;
     background: #fff;
     border: 1px solid #a5a5a5;
-    font-size: 13px;}
+    font-size: unset;
+line-height: unset}
 .WhyZenosys .Careers .table-responsive .pagination{left: 0;right: 0;margin: auto;
     bottom: 15px;display: flex;align-items: center;justify-content: center;}
 .WhyZenosys .Careers .table-responsive .pagination .active{background: #174477;}
 /*.WhyZenosys .Careers .table-responsive .pagination .active:hover{background: #fff;transition: 0.3s all}*/
-.WhyZenosys .Careers .table-responsive .pagination li a{color: #000;padding: 2px 13px;}
+.WhyZenosys .Careers .table-responsive .pagination li a{color: #000;padding: 2px 13px;line-height: 20px;font-size: 13px}
 .WhyZenosys .Careers .table-responsive .pagination li:hover a{color: #fff;transition: 0.3s all;}
 .WhyZenosys .Careers .table-responsive .pagination li:hover{background:#174477;transition: 0.3s all; }
 .WhyZenosys .Careers .table-responsive .pagination .active a{color: #fff;}
@@ -416,7 +417,7 @@ footer .FooterInnerRight .Subscribe .SignUp{padding: 13px 120px;color: #174477!i
 
 .Social .SiteMap li{margin: 0px 22px;}
 .Social .SiteMap li:first-child{margin-left: 0px}
-.Social .SiteMap li a{color: #fff;font-size: 12px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
+.Social .SiteMap li a{color: #fff;font-size: 14px;font-weight: normal;font-family: 'Arial';line-height: 25px;letter-spacing: 2px;}
 
 footer .col-md-6.justify-content-end{padding-right: 60px;}
 footer .FooterInner h2:before, .CaseStudy .CaseStudyInner h2:before{content: unset!important}
@@ -830,14 +831,14 @@ li > a:only-child:after { content: ''; }
 .SiteMap label{position: relative;}
 .SiteMap label{position: relative;}
 */
-
+.SendBtn:focus{outline: none;}
 .SendBtn:hover{background: transparent;border: 1px solid #174477;color: #174477;transition: 0.25s ease;text-decoration: none;outline: none;}
 .SendBtn{height: 40px;width: 180px;margin-top: 40px;
     background: #174477;
     color: #fff;
     font-size: 14px;
     border: 1px solid #174477;
-    line-height: 20px;
+/*    line-height: 20px;*/
     border-radius: 5px;}
 .ContactBox .LocationBoxs{cursor: pointer;}
 .ContactBox .LocationBoxs:hover{border-color: #418f9a;transition: 0.8s all;}

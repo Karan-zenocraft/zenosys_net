@@ -14,23 +14,23 @@
              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
             <div>
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/internet-of-things-icon.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">Internet of Things</h6>
+                    <img src="<?php echo base_url(); ?>assets/images/professional-Services-icon.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">Professional Services</h6>
                     <p>Leverage IOT and empower your business operations</p>
 
                 </div></div>
               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/vr.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/application-Services-icon.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">Augmented Reality and Virtual Reality</h6>
+                    <h6 class="TitleH6">Application Services</h6>
                     <p>The power to create incredible experiences</p>
 
                 </div>
             </div>
               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/block-chain-icon.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/infrastructure-Services-icon.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">Block-chain Technologies</h6>
+                    <h6 class="TitleH6">Infrastructure Services</h6>
                     <p>A digital ledger for superior efficiency and transparency</p>
                 </div></div>
            <!--      <div class="col-md-3 WhyZenosysInnerBox">

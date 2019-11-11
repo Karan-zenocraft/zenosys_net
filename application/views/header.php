@@ -170,9 +170,9 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-8"/>
           <ul class="InnerDropdown onlysm DD1010">
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/businessintelligence">Business Intelligence</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/sapcloud"> SAP Cloud Analytics</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/dataquality">Data Quality Management</a></li>
+            <li><a href="<?php echo base_url(); ?>bigData/businessintelligence">Business Intelligence</a></li>
+            <li><a href="<?php echo base_url(); ?>bigData/sapcloud"> SAP Cloud Analytics</a></li>
+            <li><a href="<?php echo base_url(); ?>bigData/dataquality">Data Quality Management</a></li>
 
           </ul>
         </li>
@@ -188,9 +188,9 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-9"/>
           <ul class="InnerDropdown onlysm DD3333">
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/application_management">Application Management Services</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/infastructure_management"> Infrastructure Management Services</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/database_management">Database Management Services</a></li>
+            <li><a href="<?php echo base_url(); ?>managedServices/application_management">Application Management Services</a></li>
+            <li><a href="<?php echo base_url(); ?>managedServices/infastructure_management"> Infrastructure Management Services</a></li>
+            <li><a href="<?php echo base_url(); ?>managedServices/database_management">Database Management Services</a></li>
 
           </ul>
         </li>
@@ -203,9 +203,9 @@
           <a href="#" class="Label">Works</a>
           <input type="checkbox" id="drop-10"/>
           <ul class="InnerDropdown onlysm DD1212">
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/msp">MSP (Manage Staffing Provider)</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/consulting_work_force"> Consulting Work Force</a></li>
-            <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/permenant_placement">Permanent Placement</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force"> Consulting Work Force</a></li>
+            <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
              <!--  <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/hybrid_model">Hybrid Model</a></li> -->
 
           </ul>
@@ -483,7 +483,7 @@
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2 DD22">
                                     <li><a href="<?php echo base_url(); ?>products/supply_chain">Always Ahead - Supply Chain</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/churn_predict">ChurnPredict - K Factor</a></li>
+                                    <li><a href="<?php echo base_url(); ?>products/churn_predict">Churn Predict - K Factor</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/my_view_security">MyView - Security</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/vrdrive_walkthrough">VRDrive WalkThrough</a></li>
                                     <li><a href="<?php echo base_url(); ?>products/degree360_hrms">Degree360 HRMS</a></li>
@@ -529,7 +529,7 @@
                                    <li><a href="<?php echo base_url(); ?>industries/financialindustries">Financial Services</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/governmentbodies">Government Bodies</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/educationindustry">Education Industry</a></li>
-                                   <li><a href="<?php echo base_url(); ?>industries/retailindustries">Retail, Distribution & eCommerce</a></li>
+                                   <li><a href="<?php echo base_url(); ?>industries/retailindustries">Retail, Distribution & ECommerce</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/teleindustries">Telecommunication</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/healthcareindustries">Healthcare Industry</a></li>
                                    <li><a href="<?php echo base_url(); ?>industries/manufacuringindustries">Manufacturing Industry</a></li>

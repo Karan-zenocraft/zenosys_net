@@ -70,7 +70,7 @@
             <div class="row CustomeRows">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Retail, Distribution & eCommerce </h2>
+                    <h2 class="TitleH2">Retail, Distribution & E-Commerce </h2>
                     <p class="TitleP">For Retail, Distribution and eCommerce clients, the endeavour to reach revenue targets and mark a sizable share in the market is eternal.</p>
                    <p class="TitleP">Through ERP systems, improvements in user-experience and curating business practices, Zenosys helps them generate the right insights and better forecast market potential to meet growth milestones and succeed.</p>
 
