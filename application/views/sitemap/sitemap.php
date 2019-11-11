@@ -226,9 +226,11 @@
 
                     <ul>
                         <label>Staffing Services</label>
-                        <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Mange Staffing Provider)</a></li>
-                        <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
-                        <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
+                       <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
+                    <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
+                <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
+                                            
+                <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
 <!--                        <li><a href="/zenosys_net/staffingServices/hybrid_model">Hybrid Model</a></li>-->
 
                     </ul>
