@@ -204,8 +204,14 @@
           <input type="checkbox" id="drop-10"/>
           <ul class="InnerDropdown onlysm DD1212">
             <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
+                    <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
+                <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
+                                            
+                <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
+<!--
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force"> Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
+-->
              <!--  <li><a href="<?php echo base_url(); ?>ApplicationDevelopment/hybrid_model">Hybrid Model</a></li> -->
 
           </ul>
@@ -343,8 +349,14 @@
           <input type="checkbox" id="drop-10"/>
           <ul>
               <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
+                    <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
+                <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
+                                            
+                <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
+              <!--
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
+-->
               <!-- <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li> -->
 
           </ul>
@@ -449,12 +461,18 @@
 
                                         <div class="col-md-3 p-0">
                                     <label>Staffing Services</label>
-  <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
+                    <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
+                    <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
+                <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
+                                            
+                <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
+                                            <!--
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
             <li><a href="<?php echo base_url(); ?>staffingServices/permenant_placement">Permanent Placement</a></li>
+-->
               <!-- <li><a href="<?php echo base_url(); ?>staffingServices/hybrid_model">Hybrid Model</a></li> -->
                                 <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
-                                            <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
+<!--                                            <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>-->
                                         </div>
                                         </div>
                                 </ul>
