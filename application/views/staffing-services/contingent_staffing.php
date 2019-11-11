@@ -22,7 +22,7 @@
                     <img src="<?php echo base_url(); ?>assets/images/ContingentStaffing-icon.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Contingent Staffing</h6>
 <!--                    <p>A one stop solution for workforce recruitment</p>-->
-                        <p></p>
+                        <p>Contingent workforce management services to meet technology objectives</p>
 
                 </div>
                 </div>
@@ -33,7 +33,7 @@
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
                     <img src="<?php echo base_url(); ?>assets/images/Manage-staffing-provider.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">MSP (Manage Staffing Provider)</h6>
-                    <p>A one stop solution for workforce recruitment</p>
+                    <p>Framework for comprehensive contractor management</p>
 
                 </div>
                 </div>
@@ -44,7 +44,7 @@
 
                     <h6 class="TitleH6">Recruitment Process Outsourcing</h6>
 <!--                    <p>For a specialized team that partners your ideas</p>-->
-                        <p></p>
+                        <p>Highly skilled experts to assist your recruitment process</p>
                 </div>
                 </div>
                 <div>
@@ -53,7 +53,7 @@
 
                     <h6 class="TitleH6">Project Staffing Services</h6>
 <!--                    <p>The power to build your dream team without all the hassle</p>-->
-                        <p></p>
+                        <p>Engage project teams right from project managers to developers </p>
 
                 </div>
                 </div>
