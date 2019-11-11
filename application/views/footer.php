@@ -733,10 +733,10 @@
     <section class="Awards">
         <div class="container-fluid">
             <div class="row">
-                <div class="d-flex align-items-center justify-content-start AwardColumn">
+                <div class="d-flex align-items-center justify-content-between AwardColumn w-100">
 
 
-                <ul class="d-flex align-items-center justify-content-start col-md-6 p-0">
+                <ul class="d-flex align-items-center justify-content-around col-md-6 p-0">
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a1.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a2.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a3.png" class="img-fluid"></a></li>
@@ -748,7 +748,7 @@
 
                 </ul>
 
-                    <ul class="d-flex align-items-center justify-content-start col-md-6 p-0">
+                    <ul class="d-flex align-items-center justify-content-around col-md-6 p-0">
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a5.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a6.png" class="img-fluid"></a></li>
                     <li><a><img src="<?php echo base_url(); ?>assets/images/a7.png" class="img-fluid"></a></li>
