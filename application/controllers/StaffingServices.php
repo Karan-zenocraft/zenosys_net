@@ -9,22 +9,22 @@ class StaffingServices extends MY_Controller
         parent::__construct();
     }
 
-    public function consulting_work_force()
+    public function contingent_staffing()
     {
-        $this->load->view('staffing-services/consulting_work_force');
+        $this->load->view('staffing-services/contingent_staffing');
     }
 
-    public function hybrid_model()
+    public function recruitment_process()
     {
-        $this->load->view('staffing-services/hybrid_model');
+        $this->load->view('staffing-services/recruitment_process');
     }
     public function msp()
     {
         $this->load->view('staffing-services/msp');
     }
-    public function permenant_placement()
+    public function project_staffing()
     {
-        $this->load->view('staffing-services/permenant_placement');
+        $this->load->view('staffing-services/project_staffing');
     }
 
 }
