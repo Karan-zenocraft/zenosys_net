@@ -54,7 +54,7 @@
 
                 </div>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/oracle-business-suite.png" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/oracle-apex.jpg" class="img-fluid CommanImg">
         </div>
             </div>
 

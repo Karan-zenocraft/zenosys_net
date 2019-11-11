@@ -194,7 +194,7 @@
                     <ul>
                         <label>Enterprise Applications</label>
                         <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle E-Business Suite</a></li>
-                        <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA / ECC</a></li>
+                        <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP-S/4HANA</a></li>
                         <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo</a></li>
                         <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle_apex">Oracle Apex</a></li>
                     </ul>
