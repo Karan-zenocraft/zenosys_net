@@ -95,7 +95,11 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h3 class="TitleH3 CustomeH3">Project Staffing Services</h3>
-                     <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
+                    <p class="TitleP">Do you have contractors from multiple vendors on critical projects? Zenosys' project staffing services gives you the flexibility of managed resources with a non billable onsite resource coordinator to pass on the HR burden to Zenosys and focus on the control they would exercise over an in-house team.If you have HR burden and which is difficult to manage with multiple vendors, then Zenosys' project staffing services is the answer.</p>
+<!--
+<p class="TitleP">
+Zenosys with its extensive experience in staffing can help you provide with project teams right from project managers to developers so that you can focus on the project deliverables and pass on the HR functions to Zenosys. Contact Zenosys to learn how you can manage knowledge transition with our Project Staffing Services.</p>
+-->
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
           <img src="<?php echo base_url(); ?>assets/images/staffing3.png" class="img-fluid CommanImg" style="max-width:60%;right:75px;" >
@@ -111,7 +115,7 @@
                         
        <div class="col-md-8 WhyZenosysContent">
                     <h3 class="TitleH3 CustomeH3">Managed Staffing Services</h3>
-                     <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
+                     <p class="TitleP">Exceptional talent base is extremely crucial for success in business operations as well as overall profitability. Managed Staffing Provider is the solution that is catering to numerous organizations globally and providing them highly efficient and productive workforce while increasing their productivity across different technologies manifold.</p>
        </div>
             </div>
 

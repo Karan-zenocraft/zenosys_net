@@ -7,8 +7,8 @@
 @media (min-width: 1900px){
     
     .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left:408px!important;}   
-    .Slider .SliderInner .Caption h1{width: 22em!important}
-    .Slider .SliderInner .Caption h1:nth-child(2){width: 28em!important}
+    .Slider .SliderInner .Caption h1{width: 27em!important}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 32em!important}
     
 }
 
@@ -20,8 +20,8 @@
     
     .WhyZenosys .WhyZenosysInner{margin: 0px 0px;margin-top: -20px;}
     .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 310px}
-    .Slider .SliderInner .Caption h1{width: 18em;}
-    .Slider .SliderInner .Caption h1:nth-child(2){width: 23em;}
+    .Slider .SliderInner .Caption h1{width: 22em;}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 27em;}
     .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 137px;}
     .Bg-Dark{margin-bottom:90px; }
