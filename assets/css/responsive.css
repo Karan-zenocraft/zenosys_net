@@ -327,7 +327,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     
     .ContactBox form{padding-bottom: 75px!important;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft li{font-size: 13px;}   
-.Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 50px}    
+.Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 15px}    
 .WhyZenosys .WhyZenosysInner{margin: 0px 0px;margin-top: 25px}
     .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px;}
