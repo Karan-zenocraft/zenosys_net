@@ -468,7 +468,62 @@
 
             </div>
 
+ <div class="row TitleRow customePadding">
 
+                <div class="d-flex">
+                    <div class="arrow-right"></div>
+                    <label class="label">Our Services </label>
+
+                </div>
+
+            </div>
+            <div class="row MainRow">
+
+
+                <div class="col-md-3">
+
+                    <ul>
+
+                        <li><a href="<?php echo base_url() ?>OurServices/application_services">Application_Services </a></li>
+                        
+                    </ul>
+
+
+
+
+
+
+                </div>
+
+
+                <div class="col-md-3">
+
+                    <ul>
+
+                       <li> <a href="<?php echo base_url() ?>OurServices/infrastructure_services">Infrastructure Services</a></li>
+                    </ul>
+
+
+
+
+                </div>
+
+                
+
+
+                <div class="col-md-3">
+
+
+                    <ul>
+
+                        <li><a href="<?php echo base_url() ?>OurServices/professional_services">Professional Services</a></li>
+
+                    </ul>
+
+                </div>
+
+
+            </div>
 
 
             <div class="LastRowPadding">

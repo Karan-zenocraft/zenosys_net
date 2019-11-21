@@ -153,9 +153,15 @@ $(document).ready(function() {
 
 });
 
-
-
 $(document).ready(function() {
+
+    $(".accordion").click(function() {
+        $(".accordion").addClass("accordionBG");
+    
+});
+
+    });
+    $(document).ready(function() {
 //     $(".change").click(function() {
 //      
 //         

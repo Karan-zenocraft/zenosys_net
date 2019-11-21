@@ -1024,8 +1024,13 @@ nav ul li {
 
 }
 
+.accordion.active:after{color: #fff!important;transition: 0.8s all;}
+.accordion.active{background-color: #174477!important;transition: 0.8s all;color: #fff!important;}
 
-
+.accordion:hover:after{color: #fff!important;transition: 0.8s all;}
+.accordion:hover{background-color: #174477!important;transition: 0.8s all;color: #fff!important;}
+.accordion{background-color: #fff!important;border: 1px solid #e5e5e5!important;border-bottom: 0px solid #e5e5e5!important; }
+.panel{background-color: #fff!important;border: 1px solid #e5e5e5!important;margin-bottom: 5px;}
 
 
 /*
