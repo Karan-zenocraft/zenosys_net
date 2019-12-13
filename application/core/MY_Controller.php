@@ -7,6 +7,7 @@ class MY_Controller extends CI_Controller
     public function __construct()
     {
         parent::__construct();
+
     }
     public function _output($content)
     {
@@ -22,6 +23,8 @@ class Admin_Controller extends MY_Controller
     public function __construct()
     {
         parent::__construct();
+        $this->load->model('Admin_Login_Model');
+
     }
     public function _output($content)
     {
