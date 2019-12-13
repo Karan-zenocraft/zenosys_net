@@ -14,10 +14,9 @@ class Dashboard extends Admin_Controller
     public function index()
     {
         $this->load->model('Admin_Dashboard_Model');
-        $totalcount = $this->Admin_Dashboard_Model->totalcount();
-        $sevendayscount = $this->Admin_Dashboard_Model->countlastsevendays();
-        $thirtydayscount = $this->Admin_Dashboard_Model->countthirtydays();
-        $this->load->view('admin/dashboard', ['tcount' => $totalcount, 'tsevencount' => $sevendayscount, 'tthirycount' => $thirtydayscount]);
+        $users = $this->Admin_Dashboard_Model->totalcount();
+        $careers = $this->Admin_Dashboard_Model->totalcountCareers();
+        $this->load->view('admin/dashboard', ['users' => $users, 'careers' => $careers]);
 
     }
 

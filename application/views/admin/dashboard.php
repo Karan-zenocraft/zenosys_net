@@ -8,7 +8,7 @@
                   <div class="card-body-icon">
                    <i class="fas fa-user-tie"></i>
                   </div>
-                  <div class="mr-5"><?php echo htmlentities($tcount); ?> Users</div>
+                  <div class="mr-5"><?php echo htmlentities($users); ?> Users</div>
                 </div>
                 <a class="card-footer text-black clearfix small z-1 Ablock" href="<?php echo base_url() ?>admin/Manage_Users">
                   <span class="float-left">Total Registered Users</span>
@@ -25,10 +25,10 @@
                   <div class="card-body-icon">
                     <i class="fas fa-fw fa-graduation-cap"></i>
                   </div>
-                  <div class="mr-5"><?php echo htmlentities($tsevencount); ?> Careers</div>
+                  <div class="mr-5"><?php echo htmlentities($careers); ?> Careers</div>
                 </div>
                 <a class="card-footer text-black clearfix small z-1 Ablock" href="<?php echo base_url() ?>admin/Careers">
-                  <span class="float-left">Added in Last 10 Days</span>
+                  <span class="float-left">Total Careers</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>
                   </span>
